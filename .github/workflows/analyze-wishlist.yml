@@ -1,0 +1,68 @@
+name: analyze-wishlist
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # 4:00 UTC everyday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: execute py script
+        run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
+
+      - name: check changes
+        id: check_changes
+        run: if [[ $(git diff --name-only HEAD) == *"output/successful.txt"* ]]; then echo "changes=true" > "$GITHUB_OUTPUT"; else echo "changes=false" > "$GITHUB_OUTPUT"; fi
+
+      - name: commit files
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update wishlist data." -a
+
+      - name: push changes
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+      - name: checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: commit plots
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit --amend --no-edit
+
+      - name: push plots to output branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: True
