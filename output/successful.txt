@@ -446,7 +446,7 @@ Petit Island		2024-09-15
 莫莫多拉: 月下告别		2024-01-11
 Peace Island		2025-11-17
 ADACA		2022-07-26
-接线疑云 The Operator		2024-07-31
+接线疑云 The Operator		2024-07-22
 Promenade		2024-02-23
 九日		2024-05-29
 Escape Academy		2022-07-14
@@ -578,7 +578,7 @@ Mind Over Magnet		2024-09-15
 Rocket Knight Adventures: Re-Sparked Collection		2024-06-11
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
-Arctic Eggs		2024-05-16
+极地煎蛋		2024-05-16
 FREAKHUNTER		2024-01-26
 阿斯加德的陨落		2024-09-15
 Aerial_Knight's We Never Yield		2024-07-16
