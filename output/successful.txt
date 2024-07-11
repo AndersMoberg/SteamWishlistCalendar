@@ -129,7 +129,7 @@ NYKRA: Before		2021-09-27
 Salio		2019-03-22
 Times and Galaxy		2024-06-21
 密林传奇		2021-11-02
-Hell Pie		2022-07-21
+Endacopia		2024-11-30
 Shadow Brawlers		2019-12-13
 死亡之门		2021-07-20
 Project Wingman		2020-12-01
@@ -348,7 +348,6 @@ Rainbow Laser Disco Dungeon		2021-09-27
 被诅咒的宝藏2 终极版		2022-07-14
 马拉维拉岛的奇禽异兽 / Beasts of Maravilla Island		2021-06-12
 Viewfinder		2023-07-18
-Antonball Deluxe		2021-03-05
 Fech The Ferret		2022-09-21
 Sondro Gomez: A Sunova Story		2024-11-30
 崩溃大陆 2		2024-09-15
@@ -539,7 +538,6 @@ Constance		2025-11-30
 A Corgi's Cozy Hike		2024-08-31
 风暴驭使		2024-08-31
 深岩银河：幸存者		2024-02-14
-Power Solenoid		2024-07-09
 You are Peter Shorts		2024-05-10
 抓抓地牢		2024-11-30
 Coreupt		2024-09-15
