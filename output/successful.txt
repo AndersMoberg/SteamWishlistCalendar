@@ -367,7 +367,6 @@ Arcus Chroma: Classic		2024-05-30
 Dorfromantik		2022-04-28
 Space Station Sprint		2021-08-27
 World Fighting Soccer 22		2022-08-30
-Flock		2024-07-16
 AK-xolotl		2023-09-14
 Fake Racing		2022-06-23
 Dead Estate		2021-10-19
@@ -580,7 +579,6 @@ Solar Storm		2024-04-03
 极地煎蛋		2024-05-16
 FREAKHUNTER		2024-01-26
 阿斯加德的陨落		2024-09-15
-Aerial_Knight's We Never Yield		2024-07-16
 Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
