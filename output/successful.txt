@@ -1,3 +1,4 @@
+Critter Crunch		2012-09-11
 Defender's Quest: Valley of the Forgotten (DX edition)		2012-10-30
 N++ (NPLUSPLUS)		2016-08-25
 Dungeon of the ENDLESS™		2014-10-27
@@ -11,8 +12,10 @@ Ghost Song		2022-11-03
 Overland		2019-09-19
 Defunct		2016-01-29
 Tangle Tower		2019-10-22
+Transmissions: Element 120		2016-06-16
 Metrico+		2016-08-23
 The Surge		2017-05-15
+Valley		2016-08-24
 MegaSphere		2015-08-26
 Pocket Rumble		2016-02-01
 Horizon Chase Turbo		2018-05-15
@@ -35,6 +38,7 @@ Absolver		2017-08-29
 BallisticNG		2018-12-15
 Manifold Garden		2020-10-20
 Scanner Sombre		2017-04-26
+Deios II // DEIDIA		2016-12-08
 Eximius: Seize the Frontline		2021-03-16
 Redout: Enhanced Edition		2016-09-02
 DUSK		2018-12-10
@@ -109,6 +113,7 @@ Heaven's Vault		2019-04-16
 The Riftbreaker 银河破裂者		2021-10-14
 Spinch		2020-09-03
 Grapple Force Rena		2018-12-04
+Chex Quest HD		2020-05-18
 ZeroRanger		2018-09-28
 Mythic Ocean		2020-01-09
 Unbound: Worlds Apart		2021-07-28
@@ -129,7 +134,6 @@ NYKRA: Before		2021-09-27
 Salio		2019-03-22
 Times and Galaxy		2024-06-21
 密林传奇		2021-11-02
-Endacopia		2024-11-30
 Shadow Brawlers		2019-12-13
 死亡之门		2021-07-20
 Project Wingman		2020-12-01
@@ -147,6 +151,7 @@ Harold Halibut		2024-04-16
 Vectronom		2019-05-29
 Here Comes Niko!		2021-08-03
 Discolored		2019-11-11
+Infinitode 2 - Infinite Tower Defense		2021-05-06
 INMOST		2020-08-21
 Get In The Car, Loser!		2021-09-21
 Minoria		2019-08-27
@@ -154,6 +159,7 @@ BAYANI - Fighting Game		2019-06-12
 Relicta		2020-08-04
 Sparklite		2019-11-14
 魔境奇缘：文字大冒险		2021-03-31
+Little Square Things		2019-09-28
 To The Rescue!		2021-11-02
 BROK the InvestiGator 鳄鱼侦探布罗格		2022-08-26
 Hyper Echelon		2021-11-11
@@ -188,6 +194,7 @@ Bravery Network Online		2021-02-16
 Pupperazzi		2022-01-20
 30XX		2023-08-09
 灾厄逆刃		2020-10-21
+Eyes in the Dark		2022-07-14
 层层梦境		2021-08-05
 Guts And Goals		2021-08-31
 Tactical Breach Wizards		2024-08-22
@@ -196,11 +203,13 @@ Voidrun		2019-06-05
 Minute of Islands		2021-06-13
 LUNARK		2023-03-30
 Ori and the Will of the Wisps		2020-03-11
+Onirism		2019-04-26
 软盘骑士		2022-05-24
 Lair of the Clockwork God		2020-02-21
 Crumble		2020-12-04
 海狸浮生记 Timberborn		2021-09-15
 UNSIGHTED		2021-09-30
+Vane		2019-07-22
 暗邪西部		2022-11-21
 Earth From Another Sun		2024-09-15
 洛基：北欧怪奇之旅		2020-07-23
@@ -213,13 +222,16 @@ Staden under Gamlestaden		2019-06-19
 水晶传说 Cris Tales		2021-07-20
 The Signifier Director's Cut		2020-10-15
 Disc Creatures		2019-10-17
+Cathedral 3-D		2020-10-28
 梅雨之日		2020-08-19
 Unexplored 2: The Wayfarer's Legacy		2022-05-27
 Skellboy Refractured		2021-01-13
+The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
 Shing!		2020-08-28
 Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
+Wonder Boy Returns Remix		2019-08-09
 Calico		2020-12-15
 Persona 4 Golden		2020-06-13
 Windjammers 2		2022-01-20
@@ -232,12 +244,14 @@ Griefhelm		2020-08-20
 Neon Tail		2024-02-16
 爆钻小英雄 钻头乐园		2020-06-24
 CROSSNIQ+		2019-10-04
+Receiver 2		2020-04-14
 ITORAH		2022-03-21
 无光之地		2022-09-19
 Pear Quest		2020-01-17
 空战猎鹰		2020-11-10
 Sherlock Holmes Chapter One		2021-11-15
 黑书		2021-08-10
+Dandy Dungeon - Legend of Brave Yamada -		2019-11-28
 Murder by Numbers		2020-03-06
 Nour: Play with Your Food		2023-09-12
 Pawnbarian		2021-09-24
@@ -251,6 +265,7 @@ DOOMBRINGER		2021-06-04
 Iron Meat		2024-09-15
 虚空列车		2023-05-09
 天堂岛杀手		2020-09-04
+迷走深空：碎舰师		2022-05-24
 The Making of Karateka		2023-08-29
 海参2		2023-06-21
 Dead Static Drive		2024-08-31
@@ -263,6 +278,7 @@ Carto		2020-10-27
 INDUSTRIA		2021-09-30
 FINAL FANTASY IV		2021-09-08
 Doomsday Hunters		2023-07-20
+轮回塔 (Revita)		2022-04-21
 圣剑传说 Legend of Mana		2021-06-24
 光明记忆：无限		2021-11-12
 reky		2020-05-27
@@ -270,12 +286,14 @@ reky		2020-05-27
 Vesper: Zero Light Edition		2021-07-30
 FORZA POLPO!		2023-05-18
 房产达人 2		2023-12-14
+Dogworld		2021-03-18
 蒂德莉特的奇境冒险/Record of Lodoss War-Deedlit in Wonder Labyrinth-		2021-03-27
 UnMetal		2021-09-28
 Almighty: Kill Your Gods		2021-05-05
 Petal Crash		2020-10-12
 Coromon		2022-03-31
 Blue Fire		2021-02-04
+涅克罗蒙达：赏金猎人		2021-05-31
 摄追赤红末世代		2020-05-19
 Sea of Solitude		2020-06-04
 Severed Steel		2021-09-17
@@ -292,6 +310,7 @@ Ex-Zodiac		2022-07-21
 Aeon Drive		2021-09-30
 Myst		2021-08-26
 Skate Story		2024-09-15
+Slipways		2021-06-03
 Land of Screens		2022-02-04
 Adios		2021-03-17
 田园记		2023-06-13
@@ -305,16 +324,17 @@ Post Void		2020-08-06
 弃海		2021-11-19
 同舟共济		2022-11-22
 战壕惊魂		2024-07-23
-Nongunz: Doppelganger Edition		2021-05-07
 酷极轮滑		2022-08-16
 勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition		2020-12-04
 Helskate		2024-02-15
+哥布林弹球 Peglin		2022-04-25
 Tandis		2022-04-21
 奥利亚		2021-01-28
 The Fabled Woods		2021-03-25
 Endlight		2023-07-28
 Whisker Squadron: Untitled Space Game		2025-09-15
 Toodee and Topdee		2021-08-04
+Nongunz: Doppelganger Edition		2021-05-07
 TOEM: A Photo Adventure		2021-09-17
 咩咩启示录		2022-08-11
 现尝好滋味！超级猴子球1&amp;2重制版		2021-10-05
@@ -326,6 +346,7 @@ Turbo Overkill		2023-08-11
 暗影火炬城		2021-10-03
 Stray		2022-07-19
 Alex Kidd in Miracle World DX		2021-06-22
+Dread Templar		2023-01-26
 GOHOME		2020-06-16
 Alba: A Wildlife Adventure		2020-12-11
 Lemon Cake		2021-02-18
@@ -333,6 +354,7 @@ Lemon Cake		2021-02-18
 Sherwood Extreme		2024-04-29
 宇宙之轮姐妹会		2023-08-16
 Everlasting Guilt		2021-07-12
+FOOTSIES Rollback Edition		2020-09-30
 狗钩		2022-02-10
 战律 2		2023-10-05
 IMMORTALITY		2022-08-30
@@ -353,6 +375,7 @@ Sondro Gomez: A Sunova Story		2024-11-30
 崩溃大陆 2		2024-09-15
 9 Years of Shadows		2023-03-27
 Viscerafest		2021-05-20
+Sophstar		2022-02-18
 Doko Roko		2022-09-09
 真・女神转生III NOCTURNE HD REMASTER		2021-05-21
 Retchid		2023-08-18
@@ -369,6 +392,7 @@ Space Station Sprint		2021-08-27
 World Fighting Soccer 22		2022-08-30
 AK-xolotl		2023-09-14
 Fake Racing		2022-06-23
+Cosmo Clash		2022-12-21
 Dead Estate		2021-10-19
 花之灵		2021-08-24
 Zen World		2021-10-07
@@ -380,6 +404,7 @@ Venba		2023-07-31
 奇娅 Tchia		2024-03-21
 COCOON		2023-09-29
 Nova Lands		2023-06-22
+Pocket Watch		2021-01-09
 Exodition		2024-05-01
 Disney Epic Mickey: Rebrushed		2024-09-24
 Escape from Terror City		2021-07-14
@@ -388,8 +413,10 @@ The Magnificent Trufflepigs		2021-06-03
 El Paso, Elsewhere		2023-09-26
 芸都恩仇录		2023-03-14
 Castlevania Advance Collection		2021-09-24
+Super Sami Roll		2021-07-21
 the Sequence [2]		2021-11-12
  狂暴小子		2024-03-06
+SPOOKWARE		2021-08-26
 Agent 64: Spies Never Die		2024-09-15
 Frogun		2022-08-02
 枪伞游侠		2023-09-13
@@ -410,13 +437,16 @@ Clawfish		2021-06-12
 Pekoe		2023-06-28
 勇敢小骑士		2024-09-15
 Spark the Electric Jester 3		2022-08-14
+Dumpy and Bumpy		2021-05-27
 离火长明		2023-06-07
 Project Warlock II		2022-06-10
 永恒天空		2023-06-22
+潜行者2：切尔诺贝利之心		2024-09-05
 Loddlenaut		2023-11-16
 NEO: The World Ends with You		2022-10-19
 Returnal™		2023-02-15
 生死轮回		2022-07-13
+Kochu's Dream		2021-06-10
 &quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 UNCHARTED™: 盗贼传奇合辑		2022-10-19
 Fallow		2021-08-25
@@ -427,6 +457,7 @@ Athenian Rhapsody		2024-05-14
 心之蜃		2023-05-31
 MIO: Memories in Orbit		2025-09-15
 Forspoken		2023-01-24
+CULTIC		2022-10-13
 Sky Oceans: Wings for Hire		2024-09-15
 Fortune's Run		2023-09-28
 Lake Haven - Chrysalis		2023-01-18
@@ -445,6 +476,7 @@ Petit Island		2024-09-15
 Peace Island		2025-11-17
 ADACA		2022-07-26
 接线疑云 The Operator		2024-07-22
+Contract Rush DX		2025-09-15
 Promenade		2024-02-23
 Solarpunk		2025-09-15
 九日		2024-05-29
@@ -455,6 +487,7 @@ Panic Porcupine		2022-10-27
 Hole in the Clouds		2022-08-26
 Monkey Barrels		2022-09-26
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+箱庭铁道物语 (Station Manager)		2022-03-28
 Funko Fusion		2024-09-13
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
@@ -484,6 +517,7 @@ Diesel Legacy: The Brazen Age		2024-09-15
 黎明前20分钟		2023-06-08
 退潮		2023-10-31
 愤怒的大脚		2024-07-11
+The Looker		2022-06-17
 奇星协力 (Synergy)		2024-05-21
 有手就行		2023-09-21
 Crow Country		2024-05-09
@@ -571,6 +605,7 @@ Pinball Spire		2024-11-30
 Entropy Survivors		2024-09-15
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
+Endacopia		2024-11-30
 Mind Over Magnet		2024-09-15
 勇者斗恶龙III HD-2D Remake		2024-11-14
 Rocket Knight Adventures: Re-Sparked Collection		2024-06-11
@@ -589,38 +624,3 @@ Squeakross: Home Squeak Home		2025-09-15
 Desvelado		2024-09-15
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
-潜行者2：切尔诺贝利之心		2024-09-05
-Critter Crunch		2012-09-11
-Transmissions: Element 120		2016-06-16
-Deios II // DEIDIA		2016-12-08
-Valley		2016-08-24
-Receiver 2		2020-04-14
-Chex Quest HD		2020-05-18
-Infinitode 2 - Infinite Tower Defense		2021-05-06
-Cathedral 3-D		2020-10-28
-The Hunger: Games Ensemble		2020-11-03
-Pocket Watch		2021-01-09
-迷走深空：碎舰师		2022-05-24
-FOOTSIES Rollback Edition		2020-09-30
-Wonder Boy Returns Remix		2019-08-09
-Dread Templar		2023-01-26
-涅克罗蒙达：赏金猎人		2021-05-31
-Dogworld		2021-03-18
-轮回塔 (Revita)		2022-04-21
-Dandy Dungeon - Legend of Brave Yamada -		2019-11-28
-Dumpy and Bumpy		2021-05-27
-Slipways		2021-06-03
-Kochu's Dream		2021-06-10
-Little Square Things		2019-09-28
-CULTIC		2022-10-13
-Onirism		2019-04-26
-SPOOKWARE		2021-08-26
-Sophstar		2022-02-18
-Contract Rush DX		2025-09-15
-Super Sami Roll		2021-07-21
-Eyes in the Dark		2022-07-14
-Cosmo Clash		2022-12-21
-哥布林弹球 Peglin		2022-04-25
-The Looker		2022-06-17
-Vane		2019-07-22
-箱庭铁道物语 (Station Manager)		2022-03-28
