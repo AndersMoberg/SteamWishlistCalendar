@@ -262,7 +262,7 @@ Gloomwood		2022-09-05
 Book of Travels		2021-10-11
 Shady Knight		2024-08-31
 DOOMBRINGER		2021-06-04
-Iron Meat		2024-09-15
+Iron Meat		2024-09-25
 虚空列车		2023-05-09
 天堂岛杀手		2020-09-04
 迷走深空：碎舰师		2022-05-24
@@ -302,6 +302,7 @@ Everhood		2021-03-04
 ULTRAKILL		2020-09-03
 Disc Room		2020-10-22
 高尔夫小游记		2021-10-14
+Oddventure		2024-10-31
 Sea of Stars 星之海		2023-08-29
 金色的光芒		2022-03-11
 Sephonie		2022-04-12
@@ -441,7 +442,7 @@ Dumpy and Bumpy		2021-05-27
 离火长明		2023-06-07
 Project Warlock II		2022-06-10
 永恒天空		2023-06-22
-潜行者2：切尔诺贝利之心		2024-09-05
+潜行者2：切尔诺贝利之心		2024-11-20
 Loddlenaut		2023-11-16
 NEO: The World Ends with You		2022-10-19
 Returnal™		2023-02-15
@@ -547,7 +548,6 @@ CorpoNation: The Sorting Process		2024-02-22
 Electrokinetic		2024-09-15
 荒绝之剑 DX		2023-06-08
 Tiny Glade		2024-08-31
-奇々怪界 黒マントの謎		2023-02-24
 Hardhat Wombat		2023-10-26
 Splodey		2024-06-04
 Tiny Lands 2		2025-09-15
@@ -560,7 +560,6 @@ Lovux		2023-07-07
 站点连连 Station to Station		2023-10-03
 污泥人生2		2023-06-27
 Runa &amp; the Chaikurú Legacy		2024-09-15
-The Ninja Saviors: Return of the Warriors		2023-07-25
 繁荣之初		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2024-09-15
@@ -600,7 +599,6 @@ Toree Saturn		2024-09-15
 Astral Throne		2024-11-30
 KIPIDON		2025-09-15
 Project Tides		2025-09-15
-Arranger: A Role-Puzzling Adventure		2024-07-25
 Pinball Spire		2024-11-30
 Entropy Survivors		2024-09-15
 Duck Detective: The Secret Salami		2024-05-23
@@ -608,7 +606,6 @@ Sam &amp; Max: The Devil's Playhouse		2024-08-14
 Endacopia		2024-11-30
 Mind Over Magnet		2024-09-15
 勇者斗恶龙III HD-2D Remake		2024-11-14
-Rocket Knight Adventures: Re-Sparked Collection		2024-06-11
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
 极地煎蛋		2024-05-16
