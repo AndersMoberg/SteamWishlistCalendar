@@ -3,6 +3,7 @@ Defender's Quest: Valley of the Forgotten (DX edition)		2012-10-30
 N++ (NPLUSPLUS)		2016-08-25
 Dungeon of the ENDLESS™		2014-10-27
 Defender's Quest 2: Mists of Ruin		2024-09-15
+FOTONICA		2014-11-06
 Black Ice		2014-07-09
 Spud's Quest		2014-07-31
 Soft Body		2016-05-17
@@ -84,6 +85,7 @@ AMID EVIL		2019-06-20
 Fight'N Rage		2017-09-19
 地牢小霸王		2021-08-31
 Dujanah		2017-09-19
+The 25th Ward: The Silver Case		2018-03-13
 Gunhouse		2020-02-06
 Generation Zero®		2019-03-26
 Strange Telephone		2019-01-21
@@ -130,6 +132,7 @@ BLACK BIRD		2018-10-31
 重力回路		2023-07-13
 The Eternal Cylinder		2022-10-13
 NYKRA: Before		2021-09-27
+killer7		2018-11-15
 遗忘之城		2021-07-28
 Salio		2019-03-22
 Times and Galaxy		2024-06-21
@@ -538,6 +541,7 @@ Rift of the NecroDancer		2024-09-15
 Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
 叠叠高城 Pile Up!		2023-06-02
+Mediterranea Inferno		2023-08-24
 揭谜而起！		2023-07-19
 On Your Tail™		2024-09-15
 SteamWorld Build		2023-12-01
@@ -593,6 +597,7 @@ The Amazing Crackpots Club!		2024-06-08
 Bogdan's Cross		2025-09-15
 索尼克×夏特 世代重启		2024-10-24
 HYNPYTOL (白塞尔大冒险)		2023-09-22
+Shadows of the Damned: Hella Remastered		2024-10-31
 整蛊鸦 | Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
 Toree Saturn		2024-09-15
@@ -618,11 +623,6 @@ Great God Grove		2024-09-15
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
 Squeakross: Home Squeak Home		2025-09-15
+Rules &amp; Rodents		2024-11-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
-Shadows of the Damned: Hella Remastered		2024-10-31
-The 25th Ward: The Silver Case		2018-03-13
-killer7		2018-11-15
-Mediterranea Inferno		2023-08-24
-FOTONICA		2014-11-06
-Rules &amp; Rodents		2024-11-30
