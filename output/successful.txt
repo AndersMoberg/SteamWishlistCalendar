@@ -474,7 +474,7 @@ Wizordum		2023-11-29
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
-Smack Studio		2021-09-20
+Smack Studio		2024-07-31
 Petit Island		2024-09-15
 莫莫多拉: 月下告别		2024-01-11
 Peace Island		2025-11-17
@@ -621,6 +621,7 @@ Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
 Great God Grove		2024-09-15
+Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
 Squeakross: Home Squeak Home		2025-09-15
@@ -632,3 +633,4 @@ BLIGHTWRECK		2025-09-15
 Artisan TD		2024-07-22
 Orcs Must Die! 3		2021-07-23
 球球大塔防		2024-07-29
+Thank Goodness You're Here!		2024-08-01
