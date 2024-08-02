@@ -42,7 +42,6 @@ Scanner Sombre		2017-04-26
 Deios II // DEIDIA		2016-12-08
 Eximius: Seize the Frontline		2021-03-16
 Redout: Enhanced Edition		2016-09-02
-DUSK		2018-12-10
 Pool Panic		2018-07-19
 Wandersong		2018-09-27
 Just Shapes &amp; Beats		2018-05-31
@@ -236,7 +235,7 @@ Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
 Wonder Boy Returns Remix		2019-08-09
 Calico		2020-12-15
-Persona 4 Golden		2020-06-13
+女神异闻录４ 黄金版		2020-06-13
 Windjammers 2		2022-01-20
 我的阴暗面		2020-12-10
 GONNER2		2020-10-22
@@ -340,7 +339,6 @@ Whisker Squadron: Untitled Space Game		2025-09-15
 Toodee and Topdee		2021-08-04
 Nongunz: Doppelganger Edition		2021-05-07
 TOEM: A Photo Adventure		2021-09-17
-咩咩启示录		2022-08-11
 现尝好滋味！超级猴子球1&amp;2重制版		2021-10-05
 Cassette Beasts 磁带妖怪		2023-04-26
 Aerial_Knight's Never Yield		2021-05-19
@@ -419,7 +417,7 @@ El Paso, Elsewhere		2023-09-26
 Castlevania Advance Collection		2021-09-24
 Super Sami Roll		2021-07-21
 the Sequence [2]		2021-11-12
- 狂暴小子		2024-03-06
+Berserk Boy		2024-03-06
 SPOOKWARE		2021-08-26
 Agent 64: Spies Never Die		2024-09-15
 Frogun		2022-08-02
@@ -633,4 +631,3 @@ BLIGHTWRECK		2025-09-15
 Artisan TD		2024-07-22
 Orcs Must Die! 3		2021-07-23
 球球大塔防		2024-07-29
-Thank Goodness You're Here!		2024-08-01
