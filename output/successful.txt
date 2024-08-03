@@ -224,6 +224,7 @@ Staden under Gamlestaden		2019-06-19
 水晶传说 Cris Tales		2021-07-20
 The Signifier Director's Cut		2020-10-15
 Disc Creatures		2019-10-17
+Selfloss		2024-09-12
 Cathedral 3-D		2020-10-28
 梅雨之日		2020-08-19
 Unexplored 2: The Wayfarer's Legacy		2022-05-27
@@ -608,7 +609,7 @@ Entropy Survivors		2024-09-15
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
 Endacopia		2024-11-30
-Mind Over Magnet		2024-09-15
+Mind Over Magnet		2024-11-06
 勇者斗恶龙III HD-2D Remake		2024-11-14
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
@@ -631,3 +632,20 @@ BLIGHTWRECK		2025-09-15
 Artisan TD		2024-07-22
 Orcs Must Die! 3		2021-07-23
 球球大塔防		2024-07-29
+24 Killers		2023-03-09
+Half-Life: Alyx		2020-03-23
+The Pathless		2021-11-16
+《星球大战 绝地：陨落的武士团™》		2019-11-15
+System Shock		2023-05-30
+麻布仔大冒险		2022-10-27
+Ghost of Tsushima导演剪辑版		2024-05-16
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
+KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
+KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
+Mare		2022-04-01
+Resident Evil 3		2019-01-24
+Clive 'N' Wrench		2023-02-23
+FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
+Ghostwire: Tokyo		2022-03-25
+WHAT THE GOLF?		2020-10-22
+Halo: The Master Chief Collection		2019-12-03
