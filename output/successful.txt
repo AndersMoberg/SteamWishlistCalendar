@@ -39,6 +39,7 @@ Absolver		2017-08-29
 BallisticNG		2018-12-15
 Manifold Garden		2020-10-20
 Scanner Sombre		2017-04-26
+System Shock		2023-05-30
 Deios II // DEIDIA		2016-12-08
 Eximius: Seize the Frontline		2021-03-16
 Redout: Enhanced Edition		2016-09-02
@@ -52,6 +53,7 @@ GTTOD: Get To The Orange Door		2017-10-27
 小雷神		2023-06-05
 Feral Fury		2017-04-02
 Snake Pass		2017-03-28
+Half-Life: Alyx		2020-03-23
 Alwa's Awakening		2017-02-02
 ECHO		2017-09-19
 TUNIC		2022-03-16
@@ -112,6 +114,7 @@ Airhead		2024-02-12
 Exo One		2021-11-18
 Heaven's Vault		2019-04-16
 The Riftbreaker 银河破裂者		2021-10-14
+WHAT THE GOLF?		2020-10-22
 Spinch		2020-09-03
 Grapple Force Rena		2018-12-04
 Chex Quest HD		2020-05-18
@@ -164,6 +167,7 @@ Sparklite		2019-11-14
 Little Square Things		2019-09-28
 To The Rescue!		2021-11-02
 BROK the InvestiGator 鳄鱼侦探布罗格		2022-08-26
+Resident Evil 3		2019-01-24
 Hyper Echelon		2021-11-11
 红怪		2020-07-23
 光明记忆		2020-03-25
@@ -174,6 +178,7 @@ Omno		2021-07-29
 Thousand Threads		2020-07-30
 狂野星球之旅 / Journey To The Savage Planet		2021-01-28
 Panzer Paladin		2020-07-21
+Halo: The Master Chief Collection		2019-12-03
 风来之国 (Eastward)		2021-09-16
 Twinfold		2018-12-05
 GIGABUSTER		2022-10-03
@@ -227,6 +232,7 @@ Disc Creatures		2019-10-17
 Selfloss		2024-09-12
 Cathedral 3-D		2020-10-28
 梅雨之日		2020-08-19
+Clive 'N' Wrench		2023-02-23
 Unexplored 2: The Wayfarer's Legacy		2022-05-27
 Skellboy Refractured		2021-01-13
 The Hunger: Games Ensemble		2020-11-03
@@ -277,6 +283,7 @@ Teardown		2022-04-21
 环形子弹		2022-03-21
 摩天机动队（Danger Scavenger）-赛博朋克风-3D动作闯关-肉鸽游戏		2021-03-25
 Boomerang X		2021-07-08
+《星球大战 绝地：陨落的武士团™》		2019-11-15
 Carto		2020-10-27
 INDUSTRIA		2021-09-30
 FINAL FANTASY IV		2021-09-08
@@ -391,8 +398,10 @@ Arcus Chroma: Classic		2024-05-30
 海鼠诅咒		2023-04-06
 电锯娇娃 / Chenso Club		2022-09-01
 Dorfromantik		2022-04-28
+FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 World Fighting Soccer 22		2022-08-30
+Ghostwire: Tokyo		2022-03-25
 AK-xolotl		2023-09-14
 Fake Racing		2022-06-23
 Cosmo Clash		2022-12-21
@@ -404,12 +413,14 @@ Astronite		2022-11-30
 We Are OFK		2022-08-18
 Binarystar Infinity		2021-02-04
 Venba		2023-07-31
+The Pathless		2021-11-16
 奇娅 Tchia		2024-03-21
 COCOON		2023-09-29
 Nova Lands		2023-06-22
 Pocket Watch		2021-01-09
 Exodition		2024-05-01
 Disney Epic Mickey: Rebrushed		2024-09-24
+Orcs Must Die! 3		2021-07-23
 Escape from Terror City		2021-07-14
 Dysterra		2022-11-23
 The Magnificent Trufflepigs		2021-06-03
@@ -434,6 +445,7 @@ Bloodless		2024-08-29
 Victory Heat Rally		2024-09-15
 Tres-Bashers		2021-10-01
 FREERIDE		2025-02-28
+麻布仔大冒险		2022-10-27
 LOVE 3		2021-12-06
 纵横命途		2023-11-29
 Clawfish		2021-06-12
@@ -455,6 +467,7 @@ UNCHARTED™: 盗贼传奇合辑		2022-10-19
 Fallow		2021-08-25
 Wild Bastards		2024-09-12
 因果动物园		2023-11-14
+24 Killers		2023-03-09
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 心之蜃		2023-05-31
@@ -495,6 +508,7 @@ Funko Fusion		2024-09-13
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
 In Sink		2024-11-30
+Mare		2022-04-01
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-08-15
 ANTONBLAST		2024-11-12
@@ -554,6 +568,8 @@ Tiny Glade		2024-08-31
 Hardhat Wombat		2023-10-26
 Splodey		2024-06-04
 Tiny Lands 2		2025-09-15
+Ghost of Tsushima导演剪辑版		2024-05-16
+Artisan TD		2024-07-22
 Cash Cow DX		2024-02-16
 狂星滥炸		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
@@ -573,6 +589,7 @@ Constance		2025-11-30
 A Corgi's Cozy Hike		2024-11-30
 风暴驭使		2024-09-30
 深岩银河：幸存者		2024-02-14
+BLIGHTWRECK		2025-09-15
 You are Peter Shorts		2024-05-10
 抓抓地牢		2024-11-30
 Coreupt		2024-09-15
@@ -589,6 +606,7 @@ Calcium Contract		2023-10-17
 A Void Hope		2024-02-29
 Dark Deity 2		2025-09-15
 首尾圆回		2024-05-22
+球球大塔防		2024-07-29
 Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
 Oberty		2024-02-07
@@ -600,6 +618,9 @@ Shadows of the Damned: Hella Remastered		2024-10-31
 整蛊鸦 | Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
 Toree Saturn		2024-09-15
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
+KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
+KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
 Astral Throne		2024-11-30
 KIPIDON		2025-09-15
 Project Tides		2025-09-15
@@ -607,6 +628,7 @@ Pinball Spire		2024-11-30
 Entropy Survivors		2024-09-15
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
+Kidbash: Super Legend		2025-09-15
 Endacopia		2024-11-30
 Mind Over Magnet		2024-11-06
 勇者斗恶龙III HD-2D Remake		2024-11-14
@@ -627,24 +649,3 @@ Desvelado		2024-08-14
 Rules &amp; Rodents		2024-11-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
-BLIGHTWRECK		2025-09-15
-Artisan TD		2024-07-22
-Orcs Must Die! 3		2021-07-23
-球球大塔防		2024-07-29
-24 Killers		2023-03-09
-Half-Life: Alyx		2020-03-23
-The Pathless		2021-11-16
-《星球大战 绝地：陨落的武士团™》		2019-11-15
-System Shock		2023-05-30
-麻布仔大冒险		2022-10-27
-Ghost of Tsushima导演剪辑版		2024-05-16
-KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
-KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
-KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
-Mare		2022-04-01
-Resident Evil 3		2019-01-24
-Clive 'N' Wrench		2023-02-23
-FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
-Ghostwire: Tokyo		2022-03-25
-WHAT THE GOLF?		2020-10-22
-Halo: The Master Chief Collection		2019-12-03
