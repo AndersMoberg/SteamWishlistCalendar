@@ -451,7 +451,7 @@ LOVE 3		2021-12-06
 纵横命途		2023-11-29
 Clawfish		2021-06-12
 Pekoe		2023-06-28
-勇敢小骑士		2024-09-15
+勇敢小骑士		2024-09-17
 Spark the Electric Jester 3		2022-08-14
 Dumpy and Bumpy		2021-05-27
 离火长明		2023-06-07
@@ -556,16 +556,16 @@ Quest Master		2024-05-29
 叠叠高城 Pile Up!		2023-06-02
 Mediterranea Inferno		2023-08-24
 揭谜而起！		2023-07-19
+Hollowbody		2024-09-12
 On Your Tail™		2024-09-15
 SteamWorld Build		2023-12-01
 Elation For The Wonder Box 6000		2024-11-30
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 女神异闻录３ Reload		2024-02-02
-异形工厂2		2024-08-15
 Electrokinetic		2024-09-15
 荒绝之剑 DX		2023-06-08
-Tiny Glade		2024-08-31
+Tiny Glade		2024-09-23
 Hardhat Wombat		2023-10-26
 Splodey		2024-06-04
 Tiny Lands 2		2025-09-15
