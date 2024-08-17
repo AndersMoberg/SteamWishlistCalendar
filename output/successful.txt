@@ -539,7 +539,7 @@ The Looker		2022-06-17
 有手就行		2023-09-21
 Crow Country		2024-05-09
 Skator Gator 3D		2023-08-31
-CATO 黄油猫		2024-09-15
+CATO 黄油猫		2024-08-31
 Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 熔炉密林		2024-04-24
@@ -652,3 +652,4 @@ Rules &amp; Rodents		2024-11-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 羽袈流		2024-09-03
+Castaway		2024-08-16
