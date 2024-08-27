@@ -218,7 +218,7 @@ Crumble		2020-12-04
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 暗邪西部		2022-11-21
-Earth From Another Sun		2024-09-15
+Earth From Another Sun		2025-09-15
 洛基：北欧怪奇之旅		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -580,7 +580,6 @@ UNBEATABLE		2025-09-15
 Lovux		2023-07-07
 站点连连 Station to Station		2023-10-03
 污泥人生2		2023-06-27
-Runa &amp; the Chaikurú Legacy		2024-08-26
 繁荣之初		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2024-09-15
