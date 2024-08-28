@@ -338,7 +338,7 @@ Post Void		2020-08-06
 酷极轮滑		2022-08-16
 勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition		2020-12-04
 Helskate		2024-02-15
-哥布林弹球 Peglin		2022-04-25
+哥布林弹球 Peglin		2024-08-27
 Tandis		2022-04-21
 奥利亚		2021-01-28
 The Fabled Woods		2021-03-25
@@ -545,7 +545,7 @@ Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 熔炉密林		2024-04-24
 Leximan		2024-08-13
-CORPUS EDAX		2024-08-28
+CORPUS EDAX		2024-09-05
 Tokyo Underground Killer		2025-09-15
 Voidborn		2023-08-18
 Word Factori		2023-08-03
@@ -570,6 +570,7 @@ Tiny Glade		2024-09-23
 Hardhat Wombat		2023-10-26
 Splodey		2024-06-04
 Tiny Lands 2		2025-09-15
+Europa		2024-10-11
 Ghost of Tsushima导演剪辑版		2024-05-16
 Artisan TD		2024-07-22
 Cash Cow DX		2024-02-16
@@ -580,6 +581,7 @@ UNBEATABLE		2025-09-15
 Lovux		2023-07-07
 站点连连 Station to Station		2023-10-03
 污泥人生2		2023-06-27
+Runa &amp; the Chaikurú Legacy		2024-08-27
 繁荣之初		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2024-09-15
@@ -627,6 +629,7 @@ KIPIDON		2025-09-15
 Project Tides		2025-09-15
 Pinball Spire		2024-11-30
 Entropy Survivors		2024-09-15
+MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-11
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
 Kidbash: Super Legend		2025-09-15
@@ -659,3 +662,6 @@ Wilmot Works It Out		2024-10-23
 Orbo's Exodus		2025-09-15
 At Dead Of Night		2020-11-19
 Yars Rising		2024-09-10
+Cairn		2025-09-15
+Castlevania Dominus Collection		2024-08-27
+Concord™		2024-08-23
