@@ -204,7 +204,6 @@ Pupperazzi		2022-01-20
 Eyes in the Dark		2022-07-14
 层层梦境		2021-08-05
 Guts And Goals		2021-08-31
-Tactical Breach Wizards		2024-08-22
 Frog Detective 2: The Case of the Invisible Wizard		2019-12-09
 Voidrun		2019-06-05
 Minute of Islands		2021-06-13
@@ -515,7 +514,7 @@ Mare		2022-04-01
 I Am Your Beast		2024-09-10
 ANTONBLAST		2024-11-12
 The Last of Us™ Part I		2023-03-28
-Demonschool		2024-09-13
+Demonschool		2025-02-28
 Light Odyssey		2025-09-15
 泰拉往事 Terra Memoria		2024-03-27
 SUPER BOMBERMAN R 2		2023-09-13
@@ -540,7 +539,7 @@ The Looker		2022-06-17
 有手就行		2023-09-21
 Crow Country		2024-05-09
 Skator Gator 3D		2023-08-31
-CATO 黄油猫		2024-09-30
+CATO 黄油猫		2024-09-05
 Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 熔炉密林		2024-04-24
@@ -599,7 +598,6 @@ Coreupt		2024-09-15
 Balatro		2024-02-20
 Angeline Era		2025-09-15
 Kid Chaos		2023-05-02
-冥界清道夫(Crypt Custodian)		2024-08-27
 SteamWorld Heist II		2024-08-08
 再来一张		2024-08-08
 逆转检察官1&amp;2 御剑精选集		2024-09-05
@@ -649,6 +647,7 @@ Great God Grove		2024-09-15
 Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
+Star Fetchers : Escape from Pork Belly		2024-09-09
 Squeakross: Home Squeak Home		2025-09-15
 Desvelado		2024-08-14
 Rules &amp; Rodents		2024-11-30
