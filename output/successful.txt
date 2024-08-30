@@ -228,7 +228,7 @@ Staden under Gamlestaden		2019-06-19
 水晶传说 Cris Tales		2021-07-20
 The Signifier Director's Cut		2020-10-15
 Disc Creatures		2019-10-17
-Selfloss		2024-09-12
+Selfloss		2024-09-05
 Cathedral 3-D		2020-10-28
 梅雨之日		2020-08-19
 Clive 'N' Wrench		2023-02-23
@@ -557,7 +557,7 @@ Quest Master		2024-05-29
 Mediterranea Inferno		2023-08-24
 揭谜而起！		2023-07-19
 Hollowbody		2024-09-12
-On Your Tail™		2024-09-15
+On Your Tail™		2024-11-21
 SteamWorld Build		2023-12-01
 Elation For The Wonder Box 6000		2024-11-30
 CorpoNation: The Sorting Process		2024-02-22
@@ -664,3 +664,9 @@ Yars Rising		2024-09-10
 Cairn		2025-09-15
 Castlevania Dominus Collection		2024-08-27
 Concord™		2024-08-23
+圣剑传说 Visions of Mana		2024-08-29
+Neva		2024-10-15
+Morsels		2025-02-28
+Tetris® Forever		2024-09-15
+Capcom Fighting Collection 2		2025-09-15
+Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
