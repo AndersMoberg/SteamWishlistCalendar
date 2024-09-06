@@ -539,7 +539,7 @@ The Looker		2022-06-17
 有手就行		2023-09-21
 Crow Country		2024-05-09
 Skator Gator 3D		2023-08-31
-CATO 黄油猫		2024-09-05
+CATO 黄油猫		2024-09-06
 Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 熔炉密林		2024-04-24
@@ -604,7 +604,6 @@ Rogue Labyrinth		2025-01-31
 Escape Simulator: Magic DLC		2024-02-22
 Calcium Contract		2023-10-17
 A Void Hope		2024-02-29
-Dark Deity 2		2025-09-15
 首尾圆回		2024-05-22
 球球大塔防		2024-07-29
 Avowed		2025-02-18
