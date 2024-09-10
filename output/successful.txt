@@ -6,6 +6,7 @@ Defender's Quest 2: Mists of Ruin		2024-09-15
 FOTONICA		2014-11-06
 Black Ice		2014-07-09
 Spud's Quest		2014-07-31
+Ostrich Island		2015-01-09
 Soft Body		2016-05-17
 On A Roll 3D		2015-02-12
 CRYPTARK		2017-06-20
@@ -395,6 +396,7 @@ R-Type Final 2		2021-04-30
 Teacup		2021-09-23
 MONSTER HUNTER RISE		2022-01-12
 Arcus Chroma: Classic		2024-05-30
+At Dead Of Night		2020-11-19
 海鼠诅咒		2023-04-06
 电锯娇娃 / Chenso Club		2022-09-01
 Dorfromantik		2022-04-28
@@ -439,6 +441,7 @@ Bittersweet Birthday		2025-05-31
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
+Cairn		2025-09-15
 Spirit Swap: Lofi Beats to Match-3 To		2024-09-15
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
@@ -452,6 +455,7 @@ LOVE 3		2021-12-06
 Clawfish		2021-06-12
 Pekoe		2023-06-28
 勇敢小骑士		2024-09-17
+ODDADA		2024-08-15
 Spark the Electric Jester 3		2022-08-14
 Dumpy and Bumpy		2021-05-27
 离火长明		2023-06-07
@@ -484,6 +488,7 @@ moon: Remix RPG Adventure		2021-12-16
 《矮人元祖》 (First Dwarf)		2024-06-19
 UNDETECTED		2022-09-30
 Wizordum		2023-11-29
+Morsels		2025-02-28
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
@@ -522,6 +527,7 @@ Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
 #BLUD		2024-06-18
 Wrekless™		2025-02-28
+Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 SOPA - Tale of the Stolen Potato		2024-09-15
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
@@ -545,7 +551,9 @@ LIVE A LIVE		2023-04-27
 熔炉密林		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
+Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-15
+Squirrel with a Gun		2024-08-29
 Voidborn		2023-08-18
 Word Factori		2023-08-03
 地下城骑士团		2024-11-30
@@ -595,13 +603,17 @@ BLIGHTWRECK		2025-09-15
 You are Peter Shorts		2024-05-10
 抓抓地牢		2024-11-30
 Coreupt		2024-09-15
+Castlevania Dominus Collection		2024-08-27
 Balatro		2024-02-20
 Angeline Era		2025-09-15
 Kid Chaos		2023-05-02
+冥界清道夫(Crypt Custodian)		2024-08-27
 SteamWorld Heist II		2024-08-08
+Capcom Fighting Collection 2		2025-09-15
 再来一张		2024-08-08
 Rogue Labyrinth		2025-01-31
 Escape Simulator: Magic DLC		2024-02-22
+Neva		2024-10-15
 Calcium Contract		2023-10-17
 A Void Hope		2024-02-29
 首尾圆回		2024-05-22
@@ -610,9 +622,11 @@ Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
 Oberty		2024-02-07
 The Amazing Crackpots Club!		2024-06-08
+圣剑传说 Visions of Mana		2024-08-29
 Bogdan's Cross		2025-09-15
 索尼克×夏特 世代重启		2024-10-24
 HYNPYTOL (白塞尔大冒险)		2023-09-22
+Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 整蛊鸦 | Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
@@ -621,6 +635,7 @@ KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
 Astral Throne		2024-11-30
+Castaway		2024-08-16
 KIPIDON		2025-09-15
 Project Tides		2025-09-15
 Pinball Spire		2024-10-02
@@ -632,6 +647,7 @@ Kidbash: Super Legend		2025-09-15
 Endacopia		2024-11-30
 Mind Over Magnet		2024-11-06
 勇者斗恶龙III HD-2D Remake		2024-11-14
+WHAT THE CAR? 万物皆可赛车		2024-09-09
 Goblin Cleanup		2025-09-15
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
@@ -642,6 +658,8 @@ Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
 Great God Grove		2024-09-15
+FANTASIAN Neo Dimension		2024-11-30
+Utopia Must Fall		2024-09-09
 Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
@@ -652,22 +670,6 @@ Rules &amp; Rodents		2024-11-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 羽袈流		2024-09-03
-Electric Fairyland		2024-08-26
-Castaway		2024-08-16
-ODDADA		2024-08-15
-Wilmot Works It Out		2024-10-23
 Orbo's Exodus		2025-09-15
-At Dead Of Night		2020-11-19
-Yars Rising		2024-09-10
-Cairn		2025-09-15
-Castlevania Dominus Collection		2024-08-27
-圣剑传说 Visions of Mana		2024-08-29
-Neva		2024-10-15
-Morsels		2025-02-28
+Electric Fairyland		2024-08-26
 Tetris® Forever		2024-09-15
-Capcom Fighting Collection 2		2025-09-15
-Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
-Squirrel with a Gun		2024-08-29
-冥界清道夫(Crypt Custodian)		2024-08-27
-FANTASIAN Neo Dimension		2024-11-30
-Utopia Must Fall		2024-09-09
