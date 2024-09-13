@@ -573,6 +573,7 @@ Aero GPX		2024-08-06
 女神异闻录３ Reload		2024-02-02
 Electrokinetic		2024-09-15
 荒绝之剑 DX		2023-06-08
+Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
 Hardhat Wombat		2023-10-26
 Splodey		2024-06-04
@@ -640,6 +641,7 @@ KIPIDON		2025-09-15
 Project Tides		2025-09-15
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-09-15
+MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
 Kidbash: Super Legend		2025-09-15
@@ -672,3 +674,4 @@ POOOOL		2024-06-08
 Orbo's Exodus		2025-09-15
 Electric Fairyland		2024-08-26
 Tetris® Forever		2024-09-15
+Sol Cesto		2024-09-15
