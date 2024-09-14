@@ -312,7 +312,7 @@ Everhood		2021-03-04
 ULTRAKILL		2020-09-03
 Disc Room		2020-10-22
 高尔夫小游记		2021-10-14
-Oddventure		2024-10-31
+Oddventure		2025-02-13
 Sea of Stars 星之海		2023-08-29
 金色的光芒		2022-03-11
 Sephonie		2022-04-12
@@ -510,7 +510,6 @@ Hole in the Clouds		2022-08-26
 Monkey Barrels		2022-09-26
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 箱庭铁道物语 (Station Manager)		2022-03-28
-Funko Fusion		2024-09-13
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
 In Sink		2024-11-30
