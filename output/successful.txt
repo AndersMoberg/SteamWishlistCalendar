@@ -2,7 +2,7 @@ Critter Crunch		2012-09-11
 Defender's Quest: Valley of the Forgotten (DX edition)		2012-10-30
 N++ (NPLUSPLUS)		2016-08-25
 Dungeon of the ENDLESS™		2014-10-27
-Defender's Quest 2: Mists of Ruin		2024-09-15
+Defender's Quest 2: Mists of Ruin		2024-12-31
 FOTONICA		2014-11-06
 Black Ice		2014-07-09
 Spud's Quest		2014-07-31
@@ -187,7 +187,7 @@ FOUNDRY		2024-05-02
 Haven		2020-12-03
 再编译		2021-08-19
 After Hours		2018-12-20
-Rebots		2024-09-15
+Rebots		2024-12-31
 Sky Racket		2019-10-22
 放弃		2021-03-01
 ШХД: ЗИМА / IT'S WINTER		2019-03-07
@@ -269,7 +269,6 @@ UFO 50		2024-09-18
 Tesla Force		2020-11-19
 Gloomwood		2022-09-05
 Book of Travels		2021-10-11
-Shady Knight		2024-09-30
 DOOMBRINGER		2021-06-04
 Iron Meat		2024-09-25
 虚空列车		2023-05-09
@@ -320,14 +319,14 @@ American Arcadia		2023-11-15
 Ex-Zodiac		2022-07-21
 Aeon Drive		2021-09-30
 Myst		2021-08-26
-Skate Story		2024-09-15
+Skate Story		2024-12-31
 Slipways		2021-06-03
 Land of Screens		2022-02-04
 Adios		2021-03-17
 田园记		2023-06-13
 The Outbound Ghost		2022-09-20
 Steel Assault		2021-09-28
-一步一脚印		2024-09-15
+一步一脚印		2024-12-31
 Fatum Betula		2020-06-20
 循环勇士		2021-03-04
 Mad Streets		2022-03-15
@@ -382,7 +381,7 @@ Rainbow Laser Disco Dungeon		2021-09-27
 Viewfinder		2023-07-18
 Fech The Ferret		2022-09-21
 Sondro Gomez: A Sunova Story		2024-11-30
-崩溃大陆 2		2024-09-15
+崩溃大陆 2		2024-12-31
 9 Years of Shadows		2023-03-27
 Viscerafest		2021-05-20
 Sophstar		2022-02-18
@@ -434,7 +433,7 @@ Super Sami Roll		2021-07-21
 the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
 SPOOKWARE		2021-08-26
-Agent 64: Spies Never Die		2024-09-15
+Agent 64: Spies Never Die		2024-12-31
 Frogun		2022-08-02
 枪伞游侠		2023-09-13
 Bittersweet Birthday		2025-05-31
@@ -442,7 +441,7 @@ Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
 Cairn		2025-09-15
-Spirit Swap: Lofi Beats to Match-3 To		2024-09-15
+Spirit Swap: Lofi Beats to Match-3 To		2024-12-31
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
 伊始之地		2023-03-28
@@ -493,7 +492,7 @@ Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
 Smack Studio		2024-07-31
-Petit Island		2024-09-15
+Petit Island		2024-12-31
 莫莫多拉: 月下告别		2024-01-11
 Peace Island		2025-11-17
 ADACA		2022-07-26
@@ -527,14 +526,14 @@ Backfirewall_		2023-01-30
 #BLUD		2024-06-18
 Wrekless™		2025-02-28
 Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
-SOPA - Tale of the Stolen Potato		2024-09-15
+SOPA - Tale of the Stolen Potato		2024-12-31
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
 Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
-Diesel Legacy: The Brazen Age		2024-09-15
+Diesel Legacy: The Brazen Age		2024-12-31
 惧怕聚光灯		2023-09-15
 黎明前20分钟		2023-06-08
 退潮		2023-10-31
@@ -556,7 +555,7 @@ Squirrel with a Gun		2024-08-29
 Voidborn		2023-08-18
 Word Factori		2023-08-03
 地下城骑士团		2024-11-30
-Rift of the NecroDancer		2024-09-15
+Rift of the NecroDancer		2024-12-31
 电钻少女		2024-03-28
 Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
@@ -570,7 +569,7 @@ Elation For The Wonder Box 6000		2024-11-30
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 女神异闻录３ Reload		2024-02-02
-Electrokinetic		2024-09-15
+Electrokinetic		2024-12-31
 荒绝之剑 DX		2023-06-08
 Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
@@ -591,7 +590,7 @@ Lovux		2023-07-07
 Runa &amp; the Chaikurú Legacy		2024-08-27
 繁荣之初		2023-10-16
 Death of a Wish		2024-03-11
-Full Fathom		2024-09-15
+Full Fathom		2024-12-31
 Digital Eclipse Arcade: Q.P.I.D.		2024-02-07
 Devil's Dive		2023-07-07
 Linkito		2024-07-23
@@ -602,7 +601,7 @@ A Corgi's Cozy Hike		2024-11-30
 BLIGHTWRECK		2025-09-15
 You are Peter Shorts		2024-05-10
 抓抓地牢		2024-11-30
-Coreupt		2024-09-15
+Coreupt		2024-12-31
 Castlevania Dominus Collection		2024-08-27
 Balatro		2024-02-20
 Angeline Era		2025-09-15
@@ -630,7 +629,7 @@ Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 整蛊鸦 | Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
-Toree Saturn		2024-09-15
+Toree Saturn		2024-12-31
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
@@ -639,7 +638,7 @@ Castaway		2024-08-16
 KIPIDON		2025-09-15
 Project Tides		2025-09-15
 Pinball Spire		2024-10-02
-Entropy Survivors		2024-09-15
+Entropy Survivors		2024-12-31
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
@@ -653,11 +652,11 @@ The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
 极地煎蛋		2024-05-16
 FREAKHUNTER		2024-01-26
-阿斯加德的陨落		2024-09-15
+阿斯加德的陨落		2024-12-31
 Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
-Great God Grove		2024-09-15
+Great God Grove		2024-12-31
 FANTASIAN Neo Dimension		2024-11-30
 Utopia Must Fall		2024-09-09
 Tomba! Special Edition		2024-08-01
@@ -672,5 +671,5 @@ POOOOL		2024-06-08
 羽袈流		2024-09-03
 Orbo's Exodus		2025-09-15
 Electric Fairyland		2024-08-26
-Tetris® Forever		2024-09-15
-Sol Cesto		2024-09-15
+Tetris® Forever		2024-12-31
+Sol Cesto		2024-12-31
