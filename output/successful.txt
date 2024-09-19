@@ -187,7 +187,7 @@ FOUNDRY		2024-05-02
 Haven		2020-12-03
 再编译		2021-08-19
 After Hours		2018-12-20
-Rebots		2024-12-31
+Rebots		2024-10-07
 Sky Racket		2019-10-22
 放弃		2021-03-01
 ШХД: ЗИМА / IT'S WINTER		2019-03-07
@@ -265,7 +265,6 @@ Murder by Numbers		2020-03-06
 Nour: Play with Your Food		2023-09-12
 Pawnbarian		2021-09-24
 Ready or Not		2023-12-13
-UFO 50		2024-09-18
 Tesla Force		2020-11-19
 Gloomwood		2022-09-05
 Book of Travels		2021-10-11
@@ -441,7 +440,7 @@ Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
 Cairn		2025-09-15
-Spirit Swap: Lofi Beats to Match-3 To		2024-12-31
+Spirit Swap: Lofi Beats to Match-3 To		2025-09-15
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
 伊始之地		2023-03-28
@@ -659,7 +658,7 @@ HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
 Great God Grove		2024-12-31
 FANTASIAN Neo Dimension		2024-11-30
-Utopia Must Fall		2024-09-09
+Rivals of Aether II		2024-10-23
 Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
