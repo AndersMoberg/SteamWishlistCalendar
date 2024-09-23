@@ -535,6 +535,7 @@ Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
 Diesel Legacy: The Brazen Age		2024-12-31
 惧怕聚光灯		2023-09-15
+Judero		2024-09-16
 黎明前20分钟		2023-06-08
 退潮		2023-10-31
 愤怒的大脚		2024-07-11
@@ -578,6 +579,7 @@ Splodey		2024-06-04
 Tiny Lands 2		2025-09-15
 Europa		2024-10-11
 Ghost of Tsushima导演剪辑版		2024-05-16
+Rivals of Aether II		2024-10-23
 Artisan TD		2024-07-22
 Cash Cow DX		2024-02-16
 狂星滥炸		2024-05-23
@@ -646,6 +648,8 @@ Endacopia		2024-11-30
 Mind Over Magnet		2024-11-06
 勇者斗恶龙III HD-2D Remake		2024-11-14
 WHAT THE CAR? 万物皆可赛车		2024-09-09
+Parking Garage Rally Circuit		2024-09-20
+Sol Cesto		2024-12-31
 Goblin Cleanup		2025-09-15
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
@@ -657,13 +661,13 @@ HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
 Great God Grove		2024-12-31
 FANTASIAN Neo Dimension		2024-11-30
-Rivals of Aether II		2024-10-23
 Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
 Star Fetchers : Escape from Pork Belly		2024-09-09
 Squeakross: Home Squeak Home		2025-09-15
 Desvelado		2024-08-14
+Dale &amp; Dawson Stationery Supplies		2024-08-30
 Rules &amp; Rodents		2024-11-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
@@ -671,7 +675,3 @@ POOOOL		2024-06-08
 Orbo's Exodus		2025-09-15
 Electric Fairyland		2024-08-26
 Tetris® Forever		2024-12-31
-Sol Cesto		2024-12-31
-Judero		2024-09-16
-Dale &amp; Dawson Stationery Supplies		2024-08-30
-Parking Garage Rally Circuit		2024-09-20
