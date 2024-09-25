@@ -507,7 +507,6 @@ Panic Porcupine		2022-10-27
 Hole in the Clouds		2022-08-26
 Monkey Barrels		2022-09-26
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
-Echo Point Nova		2024-09-24
 箱庭铁道物语 (Station Manager)		2022-03-28
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
@@ -649,7 +648,7 @@ Mind Over Magnet		2024-11-06
 勇者斗恶龙III HD-2D Remake		2024-11-14
 WHAT THE CAR? 万物皆可赛车		2024-09-09
 Parking Garage Rally Circuit		2024-09-20
-Sol Cesto		2024-12-31
+Sol Cesto		2025-05-31
 Goblin Cleanup		2025-09-15
 The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
@@ -660,7 +659,7 @@ Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
 Great God Grove		2024-12-31
-FANTASIAN Neo Dimension		2024-11-30
+FANTASIAN Neo Dimension		2024-12-05
 Tomba! Special Edition		2024-08-01
 巧克力工厂		2024-06-18
 一起来扫雷		2024-07-24
