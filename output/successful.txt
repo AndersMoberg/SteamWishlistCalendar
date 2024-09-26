@@ -268,8 +268,9 @@ Ready or Not		2023-12-13
 Tesla Force		2020-11-19
 Gloomwood		2022-09-05
 Book of Travels		2021-10-11
+Shady Knight		2024-10-09
 DOOMBRINGER		2021-06-04
-Iron Meat		2024-09-25
+Iron Meat		2024-09-26
 虚空列车		2023-05-09
 天堂岛杀手		2020-09-04
 迷走深空：碎舰师		2022-05-24
@@ -518,6 +519,7 @@ ANTONBLAST		2024-11-12
 The Last of Us™ Part I		2023-03-28
 Demonschool		2025-02-28
 Light Odyssey		2025-09-15
+Atomic Picnic		2024-11-30
 泰拉往事 Terra Memoria		2024-03-27
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
@@ -596,6 +598,7 @@ Digital Eclipse Arcade: Q.P.I.D.		2024-02-07
 Devil's Dive		2023-07-07
 Linkito		2024-07-23
 Constance		2025-11-30
+Little Big Adventure – Twinsen’s Quest		2024-11-14
 A Corgi's Cozy Hike		2024-11-30
 风暴驭使		2024-09-13
 深岩银河：幸存者		2024-02-14
