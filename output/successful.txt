@@ -520,6 +520,7 @@ The Last of Us™ Part I		2023-03-28
 Demonschool		2025-02-28
 Light Odyssey		2025-09-15
 Atomic Picnic		2024-11-30
+Psycho Patrol R		2025-03-31
 泰拉往事 Terra Memoria		2024-03-27
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
@@ -658,7 +659,6 @@ The Transylvania Adventure of Simon Quest		2025-09-15
 Solar Storm		2024-04-03
 极地煎蛋		2024-05-16
 FREAKHUNTER		2024-01-26
-阿斯加德的陨落		2024-12-31
 Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
