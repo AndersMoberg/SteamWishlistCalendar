@@ -512,7 +512,7 @@ Monkey Barrels		2022-09-26
 箱庭铁道物语 (Station Manager)		2022-03-28
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
-In Sink		2024-11-30
+合力逃脱		2024-11-30
 Mare		2022-04-01
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
@@ -537,7 +537,7 @@ Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
 Diesel Legacy: The Brazen Age		2024-12-03
-惧怕聚光灯		2023-09-15
+Fear the Spotlight		2023-09-15
 Judero		2024-09-16
 黎明前20分钟		2023-06-08
 退潮		2023-10-31
