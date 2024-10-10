@@ -268,7 +268,6 @@ Ready or Not		2023-12-13
 Tesla Force		2020-11-19
 Gloomwood		2022-09-05
 Book of Travels		2021-10-11
-Shady Knight		2024-10-09
 DOOMBRINGER		2021-06-04
 Iron Meat		2024-09-26
 虚空列车		2023-05-09
@@ -311,6 +310,7 @@ Everhood		2021-03-04
 ULTRAKILL		2020-09-03
 Disc Room		2020-10-22
 高尔夫小游记		2021-10-14
+Star Fetchers : Episode 1		2021-10-14
 Oddventure		2025-02-13
 Sea of Stars 星之海		2023-08-29
 金色的光芒		2022-03-11
