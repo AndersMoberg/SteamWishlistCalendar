@@ -310,7 +310,6 @@ Everhood		2021-03-04
 ULTRAKILL		2020-09-03
 Disc Room		2020-10-22
 高尔夫小游记		2021-10-14
-Star Fetchers : Episode 1		2021-10-14
 Oddventure		2025-02-13
 Sea of Stars 星之海		2023-08-29
 金色的光芒		2022-03-11
@@ -520,7 +519,7 @@ ANTONBLAST		2024-11-12
 The Last of Us™ Part I		2023-03-28
 Demonschool		2025-02-28
 Light Odyssey		2025-09-15
-Atomic Picnic		2024-11-30
+Atomic Picnic		2024-11-07
 Psycho Patrol R		2025-03-31
 泰拉往事 Terra Memoria		2024-03-27
 SUPER BOMBERMAN R 2		2023-09-13
@@ -661,6 +660,7 @@ Solar Storm		2024-04-03
 极地煎蛋		2024-05-16
 ATLYSS		2024-11-30
 FREAKHUNTER		2024-01-26
+Archons		2024-12-31
 Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-09-15
@@ -673,7 +673,7 @@ Star Fetchers : Escape from Pork Belly		2024-09-09
 Squeakross: Home Squeak Home		2025-09-15
 Desvelado		2024-08-14
 Dale &amp; Dawson Stationery Supplies		2024-08-30
-Rules &amp; Rodents		2024-11-30
+Rules &amp; Rodents		2025-02-28
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 羽袈流		2024-09-03
