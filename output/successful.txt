@@ -511,7 +511,7 @@ Monkey Barrels		2022-09-26
 箱庭铁道物语 (Station Manager)		2022-03-28
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-11-30
-合力逃脱		2024-11-30
+合力逃脱		2024-11-12
 Mare		2022-04-01
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
@@ -648,7 +648,7 @@ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam &amp; Max: The Devil's Playhouse		2024-08-14
 Endacopia		2024-11-30
-Mind Over Magnet		2024-11-06
+Mind Over Magnet		2024-11-13
 勇者斗恶龙III HD-2D Remake		2024-11-14
 WHAT THE CAR? 万物皆可赛车		2024-09-09
 Parking Garage Rally Circuit		2024-09-20
@@ -678,4 +678,4 @@ POOOOL		2024-06-08
 羽袈流		2024-09-03
 Orbo's Exodus		2025-09-15
 Electric Fairyland		2024-08-26
-Tetris® Forever		2024-12-31
+Tetris® Forever		2024-11-12
