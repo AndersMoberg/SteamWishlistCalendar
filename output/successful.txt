@@ -435,7 +435,7 @@ SPOOKWARE		2021-08-26
 Agent 64: Spies Never Die		2024-12-31
 Frogun		2022-08-02
 枪伞游侠		2023-09-13
-Bittersweet Birthday		2025-05-31
+Bittersweet Birthday		2025-09-15
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
@@ -490,7 +490,7 @@ Morsels		2025-02-28
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
-Killing Time: Resurrected		2024-10-17
+Killing Time: Resurrected		2024-10-18
 Smack Studio		2024-07-31
 Petit Island		2024-11-14
 莫莫多拉: 月下告别		2024-01-11
