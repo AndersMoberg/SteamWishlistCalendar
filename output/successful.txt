@@ -60,7 +60,7 @@ ECHO		2017-09-19
 TUNIC		2022-03-16
 MidBoss		2017-05-25
 LOST EMBER		2022-07-12
-饮魔人		2021-01-30
+饮魔人		2024-10-28
 Punch Planet - Early Access		2017-11-08
 Wild Guns Reloaded		2017-07-11
 Trackless		2017-09-12
