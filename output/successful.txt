@@ -200,7 +200,7 @@ Unrailed!		2020-09-23
 Smile For Me		2019-05-31
 1-Bit Revival: The Residuals of Null		2019-03-20
 Bravery Network Online		2021-02-16
-Pupperazzi		2022-01-20
+Pupperazzi: The Dog Photography Game		2022-01-20
 30XX		2023-08-09
 灾厄逆刃		2020-10-21
 Eyes in the Dark		2022-07-14
@@ -511,7 +511,7 @@ Monkey Barrels		2022-09-26
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 箱庭铁道物语 (Station Manager)		2022-03-28
 WAVECADE		2022-07-10
-Uncle Chop's Rocket Shop		2024-11-30
+Uncle Chop's Rocket Shop		2024-12-31
 合力逃脱		2024-11-12
 Mare		2022-04-01
 真·女神转生Ⅴ Vengeance		2024-06-14
@@ -566,7 +566,7 @@ Quest Master		2024-05-29
 Mediterranea Inferno		2023-08-24
 揭谜而起！		2023-07-19
 Hollowbody		2024-09-12
-On Your Tail		2024-11-21
+On Your Tail		2024-11-30
 SteamWorld Build		2023-12-01
 Elation For The Wonder Box 6000		2025-02-28
 CorpoNation: The Sorting Process		2024-02-22
