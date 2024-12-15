@@ -368,6 +368,7 @@ Lemon Cake		2021-02-18
 McPixel 3		2022-11-14
 Sherwood Extreme		2024-04-29
 The Cosmic Wheel Sisterhood		2023-08-16
+The Cabbage Effect		2025-12-31
 Everlasting Guilt		2021-07-12
 FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
@@ -432,6 +433,7 @@ Orcs Must Die! 3		2021-07-23
 Escape from Terror City		2021-07-14
 Dysterra		2022-11-23
 The Magnificent Trufflepigs		2021-06-03
+Hyper Light Breaker		2025-01-14
 El Paso, Elsewhere		2023-09-26
 Vernal Edge		2023-03-14
 Castlevania Advance Collection		2021-09-24
@@ -447,7 +449,7 @@ Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
 Cairn		2025-12-31
-Spirit Swap: Lofi Beats to Match-3 To		2025-12-31
+Spirit Swap: Lofi Beats to Match-3 To		2025-02-03
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
 Terra Nil		2023-03-28
@@ -494,7 +496,7 @@ moon: Remix RPG Adventure		2021-12-16
 First Dwarf		2024-06-19
 UNDETECTED		2022-09-30
 Wizordum		2023-11-29
-Morsels		2025-02-28
+Morsels		2025-12-31
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
@@ -510,6 +512,7 @@ Promenade		2024-02-23
 Solarpunk		2025-12-31
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
+NAIAD		2024-12-10
 Marvel’s Spider-Man Remastered		2022-08-12
 Grindstone		2022-06-20
 Panic Porcupine		2022-10-27
@@ -564,7 +567,7 @@ Tokyo Underground Killer		2025-12-31
 Squirrel with a Gun		2024-08-29
 Voidborn		2023-08-18
 Word Factori		2023-08-03
-FINAL KNIGHT		2024-12-31
+FINAL KNIGHT		2025-01-31
 Rift of the NecroDancer		2025-02-05
 Pepper Grinder		2024-03-28
 Picayune Dreams		2023-12-04
@@ -614,7 +617,7 @@ You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Coreupt		2024-12-31
 Castlevania Dominus Collection		2024-08-27
-Nikoderiko: The Magical World		2024-12-05
+Nikoderiko		2024-12-05
 Balatro		2024-02-20
 Beyond the Ice Palace 2		2025-03-13
 Angeline Era		2025-12-31
@@ -654,7 +657,7 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-03-31
 Castaway		2024-08-16
 KIPIDON: We Will Always Love You		2025-02-28
-Project Tides		2025-12-31
+Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
