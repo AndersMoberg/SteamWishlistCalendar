@@ -481,6 +481,7 @@ Fallow		2021-08-25
 Wild Bastards		2024-09-12
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
+Eternity Egg		2025-12-31
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 Decarnation		2023-05-31
@@ -615,7 +616,7 @@ Deep Rock Galactic: Survivor		2024-02-14
 BLIGHTWRECK		2025-12-31
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
-Coreupt		2024-12-31
+Coreupt		2024-12-19
 Castlevania Dominus Collection		2024-08-27
 Nikoderiko		2024-12-05
 Balatro		2024-02-20
