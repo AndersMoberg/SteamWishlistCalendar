@@ -575,6 +575,7 @@ LIVE A LIVE		2023-04-27
 Rotwood		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
+Forgotlings		2025-06-12
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-12-31
 Squirrel with a Gun		2024-08-29
@@ -714,21 +715,24 @@ FANTASIAN Neo Dimension		2024-12-05
 Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
+Pipistrello and the Cursed Yoyo		2025-05-28
 Squeakross: Home Squeak Home		2025-12-31
 Desvelado		2024-08-14
 Dale & Dawson Stationery Supplies		2024-08-30
-Rules & Rodents		2025-03-31
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-12-31
 BAKERU		2024-09-03
 HOLE		2024-11-28
 Puck		2025-01-04
+TAMASHIKA		2025-12-31
 Orbo's Exodus		2025-12-31
 Day of the Shell		2025-06-30
 DOOM: The Dark Ages		2025-05-15
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
+Herdling		2025-12-31
+Rocket Rats		2024-12-17
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
@@ -740,4 +744,5 @@ Egg Squeeze		2024-10-01
 NINJA GAIDEN 2 Black		2025-01-23
 WHITE CHOCOLATE		2025-01-03
 Zeizen		2026-12-31
+Orb Tower		2025-03-10
 Team Fortress 2 Classic		2025-12-31
