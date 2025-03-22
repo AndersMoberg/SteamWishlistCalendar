@@ -184,6 +184,7 @@ Spiritfarer®: Farewell Edition		2020-08-18
 Thousand Threads		2020-07-30
 Journey To The Savage Planet		2021-01-28
 Panzer Paladin		2020-07-21
+Venineth		2020-04-16
 Halo: The Master Chief Collection		2019-12-03
 Eastward		2021-09-16
 Twinfold		2018-12-05
@@ -215,6 +216,7 @@ Frog Detective 2: The Case of the Invisible Wizard		2019-12-09
 Voidrun		2019-06-05
 Minute of Islands		2021-06-13
 LUNARK		2023-03-30
+Starstruck: Hands of Time		2024-09-16
 Ori and the Will of the Wisps		2020-03-11
 Onirism		2019-04-26
 Floppy Knights		2022-05-24
@@ -408,6 +410,7 @@ At Dead Of Night		2020-11-19
 Curse of the Sea Rats		2023-04-06
 Chenso Club		2022-09-01
 Dorfromantik		2022-04-28
+Fallen Leaf		2024-07-15
 FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 World Fighting Soccer 22		2022-08-30
@@ -432,6 +435,7 @@ Pocket Watch		2021-01-09
 Slime Heroes		2025-03-06
 Elsie		2024-09-10
 Exodition		2024-05-01
+Salamander County Public Television		2022-07-29
 Disney Epic Mickey: Rebrushed		2024-09-24
 Orcs Must Die! 3		2021-07-23
 Escape from Terror City		2021-07-14
@@ -465,6 +469,7 @@ OTXO		2023-04-20
 Cross Blitz		2023-11-29
 Clawfish		2021-06-12
 Pekoe		2023-06-28
+DEAD LETTER DEPT.		2025-01-30
 The Plucky Squire		2024-09-17
 ODDADA		2024-08-15
 Spark the Electric Jester 3		2022-08-14
@@ -529,7 +534,9 @@ Flintlock: The Siege of Dawn		2024-07-18
 Station Manager		2022-03-28
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-12-05
+Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
+Beastieball		2024-11-12
 Mare		2022-04-01
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
@@ -538,13 +545,15 @@ Final Vendetta		2022-06-17
 Demonschool		2025-06-30
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
-Psycho Patrol R		2025-03-31
+Slave Zero X		2024-02-22
+Psycho Patrol R		2025-03-24
 Terra Memoria		2024-03-27
 Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
 #BLUD		2024-06-18
+Phantom Spark		2024-08-15
 Wrekless™		2025-12-31
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 South of Midnight		2025-04-08
@@ -591,6 +600,7 @@ Mediterranea Inferno		2023-08-24
 Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-12-31
 Hollowbody		2024-09-12
+SULFUR		2024-10-28
 On Your Tail		2024-12-16
 ENA: Dream BBQ		2025-03-27
 SteamWorld Build		2023-12-01
@@ -598,6 +608,8 @@ Elation For The Wonder Box 6000		2025-09-30
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
+DREAMWILD		2022-10-31
+BOWLOUT		2025-01-07
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
@@ -615,9 +627,11 @@ Tiny Terry's Turbo Trip		2024-05-30
 Spilled!		2025-03-26
 UNBEATABLE		2025-12-31
 Lovux		2023-07-07
+Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 Station to Station		2023-10-03
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
+Painkiller		2025-12-31
 Growth		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2025-12-31
@@ -634,6 +648,7 @@ Moonlighter 2: The Endless Vault		2025-12-31
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
+despelote		2025-05-01
 Castlevania Dominus Collection		2024-08-27
 Nikoderiko		2024-12-05
 Beyond the Ice Palace 2		2025-03-10
@@ -653,6 +668,7 @@ Calcium Contract		2023-10-17
 A Void Hope		2024-02-29
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
+Yooka-Replaylee		2025-12-31
 Ouros		2024-05-22
 Dreamcore		2025-01-23
 Towerful Defense: A Rogue TD		2024-07-29
@@ -685,6 +701,7 @@ Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 NINJA GAIDEN 4		2025-12-31
+Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam & Max: The Devil's Playhouse		2024-08-14
@@ -694,6 +711,7 @@ WORMHOLE		2024-10-31
 Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
 DRAGON QUEST III HD-2D Remake		2024-11-14
+Duck Detective: The Ghost of Glamping		2025-12-31
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
@@ -703,14 +721,17 @@ The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
 ATLYSS		2024-11-22
+ANEURISM IV		2025-03-11
 FREAKHUNTER		2024-01-26
 Disillusion ST		2024-10-26
 Revenge of the Savage Planet		2025-05-08
+Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 HOP TOP		2024-02-27
 MOTORSLICE		2025-12-31
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
+ASTROLANCER		2024-04-19
 FANTASIAN Neo Dimension		2024-12-05
 Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
@@ -718,12 +739,15 @@ Let's Minesweeper		2024-07-24
 Pipistrello and the Cursed Yoyo		2025-05-28
 Squeakross: Home Squeak Home		2025-12-31
 Desvelado		2024-08-14
+GRUEL		2025-03-05
 Dale & Dawson Stationery Supplies		2024-08-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-12-31
+Cyclopean: The Great Abyss		2025-01-17
 BAKERU		2024-09-03
 HOLE		2024-11-28
+Squirreled Away		2025-03-28
 Puck		2025-01-04
 TAMASHIKA		2025-12-31
 Orbo's Exodus		2025-12-31
@@ -740,9 +764,15 @@ Gold Gold Adventure Gold		2025-06-30
 Satisfrustration		2024-11-25
 Tetris® Forever		2024-11-12
 GEX Trilogy		2025-06-30
+Mini Mini Golf Golf		2024-12-12
+Neongarten		2025-06-30
+Anthology Of The Killer		2024-10-08
 Egg Squeeze		2024-10-01
 NINJA GAIDEN 2 Black		2025-01-23
+New Active Object		2025-12-31
+Desktop Survivors 98		2025-12-31
 WHITE CHOCOLATE		2025-01-03
+Mashina		2025-12-31
 Zeizen		2026-12-31
 Orb Tower		2025-03-10
 Team Fortress 2 Classic		2025-12-31
