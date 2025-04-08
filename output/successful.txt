@@ -490,6 +490,7 @@ Wild Bastards		2024-09-12
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
 Eternity Egg		2025-12-31
+DELTARUNE		2025-06-05
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 Decarnation		2023-05-31
@@ -578,7 +579,6 @@ Super Adventure Hand		2023-09-21
 Crow Country		2024-05-09
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
-Split Fiction		2025-03-06
 Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 Rotwood		2024-04-24
@@ -588,7 +588,7 @@ Forgotlings		2025-06-12
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-12-31
 Squirrel with a Gun		2024-08-29
-Voidborn		2023-08-18
+Voidborn		2025-04-07
 Word Factori		2023-08-03
 Final Knight		2025-01-13
 Rift of the NecroDancer		2025-02-05
@@ -647,6 +647,7 @@ Moonlighter 2: The Endless Vault		2025-12-31
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
+SHINOBI: Art of Vengeance		2025-08-29
 despelote		2025-05-01
 Castlevania Dominus Collection		2024-08-27
 Nikoderiko		2024-12-05
@@ -694,7 +695,6 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2025-12-31
-KIPIDON: We Will Always Love You		2025-04-01
 Promise Mascot Agency		2025-04-10
 Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
@@ -745,6 +745,7 @@ Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-12-31
 Cyclopean: The Great Abyss		2025-01-17
+Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
 Squirreled Away		2025-03-28
@@ -771,6 +772,7 @@ Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 NINJA GAIDEN 2 Black		2025-01-23
 New Active Object		2025-12-31
+TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Desktop Survivors 98		2025-12-31
 Maze Mice		2025-05-02
 WHITE CHOCOLATE		2025-01-03
