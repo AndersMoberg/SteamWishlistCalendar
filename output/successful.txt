@@ -394,7 +394,7 @@ Fech The Ferret		2022-09-21
 Sondro Gomez: A Sunova Story		2025-06-30
 Crashlands 2		2025-04-10
 9 Years of Shadows		2023-03-27
-Viscerafest		2021-05-20
+Viscerafest		2025-04-14
 Sophstar		2022-02-18
 Doko Roko		2022-09-09
 Shin Megami Tensei III Nocturne HD Remaster		2021-05-21
@@ -476,7 +476,7 @@ Spark the Electric Jester 3		2022-08-14
 Dumpy and Bumpy		2021-05-27
 Nocturnal		2023-06-07
 Project Warlock II		2022-06-10
-Forever Skies		2023-06-22
+Forever Skies		2025-04-14
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
 Loddlenaut		2023-11-16
 NEO: The World Ends with You		2022-10-19
@@ -487,6 +487,7 @@ Eiyuden Chronicle: Hundred Heroes		2024-04-23
 UNCHARTED™: Legacy of Thieves Collection		2022-10-19
 Fallow		2021-08-25
 Wild Bastards		2024-09-12
+SacriFire		2026-03-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
 Eternity Egg		2025-12-31
@@ -549,6 +550,7 @@ Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
 Psycho Patrol R		2025-03-24
 Terra Memoria		2024-03-27
+Tears of Metal		2025-12-31
 Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
@@ -557,11 +559,11 @@ Backfirewall_		2023-01-30
 Phantom Spark		2024-08-15
 Wrekless™		2025-12-31
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
-South of Midnight		2025-04-08
 SOPA - Tale of the Stolen Potato		2025-12-31
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
+OPUS: Prism Peak		2025-12-31
 Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
@@ -598,11 +600,12 @@ Quest Master		2024-05-29
 Pile Up!		2023-06-02
 Mediterranea Inferno		2023-08-24
 Let's! Revolution!		2023-07-19
-Creepy Redneck Dinosaur Mansion 3		2025-12-31
+Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
 SteamWorld Build		2023-12-01
+REMATCH		2025-06-19
 Elation For The Wonder Box 6000		2025-09-30
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
@@ -627,8 +630,10 @@ UNBEATABLE		2025-12-31
 Lovux		2023-07-07
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 Station to Station		2023-10-03
+BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
+Super Fantasy Kingdom		2025-09-30
 Painkiller		2025-12-31
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -695,10 +700,10 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2025-12-31
-Promise Mascot Agency		2025-04-10
 Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
+VOID/BREAKER		2025-12-31
 NINJA GAIDEN 4		2025-12-31
 Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
@@ -711,6 +716,7 @@ Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
 DRAGON QUEST III HD-2D Remake		2024-11-14
 Duck Detective: The Ghost of Glamping		2025-12-31
+Star Birds		2025-12-31
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
@@ -744,7 +750,9 @@ Dale & Dawson Stationery Supplies		2024-08-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-12-31
+Sonic Rumble		2025-05-08
 Cyclopean: The Great Abyss		2025-01-17
+Shotgun Cop Man		2025-05-01
 Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
@@ -752,11 +760,12 @@ Squirreled Away		2025-03-28
 Puck		2025-01-04
 TAMASHIKA		2025-12-31
 Orbo's Exodus		2025-12-31
-Day of the Shell		2025-06-30
+Day of the Shell		2025-09-30
 DOOM: The Dark Ages		2025-05-15
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-12-31
+Marathon		2025-09-23
 Rocket Rats		2024-12-17
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
@@ -766,17 +775,19 @@ Satisfrustration		2024-11-25
 Tetris® Forever		2024-11-12
 GEX Trilogy		2025-06-30
 Mini Mini Golf Golf		2024-12-12
-Neongarten		2025-06-30
+Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 NINJA GAIDEN 2 Black		2025-01-23
 New Active Object		2025-12-31
+CloverPit		2025-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
-Desktop Survivors 98		2025-12-31
+Desktop Survivors 98		2025-06-30
 Maze Mice		2025-05-02
 WHITE CHOCOLATE		2025-01-03
 Mashina		2025-12-31
 Zeizen		2026-12-31
 Orb Tower		2025-03-10
+Frostrail		2026-12-31
 Team Fortress 2 Classic		2025-12-31
