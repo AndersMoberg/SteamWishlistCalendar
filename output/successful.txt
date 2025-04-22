@@ -413,7 +413,6 @@ Dorfromantik		2022-04-28
 Fallen Leaf		2024-07-15
 FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
-World Fighting Soccer 22		2022-08-30
 Ghostwire: Tokyo		2022-03-25
 AK-xolotl: Together		2023-09-14
 Fake Racing		2022-06-23
@@ -439,7 +438,7 @@ Salamander County Public Television		2022-07-29
 Disney Epic Mickey: Rebrushed		2024-09-24
 Orcs Must Die! 3		2021-07-23
 Escape from Terror City		2021-07-14
-Dysterra		2022-11-23
+Dysterra		2025-04-17
 The Magnificent Trufflepigs		2021-06-03
 El Paso, Elsewhere		2023-09-26
 Vernal Edge		2023-03-14
@@ -544,7 +543,7 @@ Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Demonschool		2025-06-30
+Demonschool		2025-09-30
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
@@ -576,16 +575,16 @@ Jusant		2023-10-31
 Anger Foot		2024-07-11
 Everhood 2		2025-03-04
 The Looker		2022-06-17
-Synergy		2024-05-21
+Synergy		2025-04-16
 Super Adventure Hand		2023-09-21
 Crow Country		2024-05-09
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
-Lorelei and the Laser Eyes		2024-05-16
 LIVE A LIVE		2023-04-27
 Rotwood		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
+Star Overdrive		2025-06-19
 Forgotlings		2025-06-12
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-12-31
@@ -655,7 +654,7 @@ Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 despelote		2025-05-01
 Castlevania Dominus Collection		2024-08-27
-Nikoderiko		2024-12-05
+Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-31
 Kid Chaos		2023-05-02
