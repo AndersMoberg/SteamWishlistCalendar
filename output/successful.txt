@@ -196,6 +196,7 @@ After Hours		2018-12-20
 Rebots		2024-10-07
 Sky Racket		2019-10-22
 Foregone		2021-03-01
+Ruffy and the Riverside		2025-06-26
 ШХД: ЗИМА / IT'S WINTER		2019-03-07
 Knuckle Sandwich		2023-11-22
 TASOMACHI: Behind the Twilight		2021-04-14
@@ -626,6 +627,7 @@ Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
 UNBEATABLE		2025-12-31
 Lovux		2023-07-07
+Kulebra and the Souls of Limbo		2025-05-16
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 Station to Station		2023-10-03
 BlazBlue Entropy Effect		2024-02-14
@@ -685,6 +687,7 @@ Bogdan's Cross		2025-12-31
 SONIC X SHADOW GENERATIONS		2024-10-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
+Gears of War: Reloaded		2025-08-26
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
@@ -718,7 +721,7 @@ Star Birds		2025-12-31
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
-Sol Cesto		2025-06-30
+Sol Cesto		2025-05-27
 Goblin Cleanup		2025-12-31
 The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
@@ -741,7 +744,7 @@ Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
 Pipistrello and the Cursed Yoyo		2025-05-28
-Squeakross: Home Squeak Home		2025-12-31
+Squeakross: Home Squeak Home		2025-06-30
 Desvelado		2024-08-14
 GRUEL		2025-03-05
 Dale & Dawson Stationery Supplies		2024-08-30
@@ -776,11 +779,13 @@ Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
+Mycopunk		2025-12-31
 NINJA GAIDEN 2 Black		2025-01-23
+Easy Delivery Co.		2025-12-31
 New Active Object		2025-12-31
 CloverPit		2025-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
-Desktop Survivors 98		2025-06-30
+Desktop Survivors 98		2025-05-20
 Maze Mice		2025-05-02
 WHITE CHOCOLATE		2025-01-03
 Mashina		2025-12-31
