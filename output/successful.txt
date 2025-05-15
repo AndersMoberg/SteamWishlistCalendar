@@ -4,7 +4,6 @@ N++ (NPLUSPLUS)		2016-08-25
 Dungeon of the ENDLESS™		2014-10-27
 Defender's Quest 2: Mists of Ruin		2025-01-30
 FOTONICA		2014-11-06
-Skin Deep		2025-04-30
 Black Ice		2014-07-09
 Spud's Quest		2014-07-31
 Tempopo		2025-04-17
@@ -84,6 +83,7 @@ Dig Dog		2018-02-08
 Rising Hell		2021-05-19
 救う(SHE SAVE)		2017-07-14
 Bomb Chicken		2019-04-16
+Super Farming Boy		2025-08-12
 AMID EVIL		2019-06-20
 Fight'N Rage		2017-09-19
 Gone Viral		2021-08-31
@@ -378,7 +378,7 @@ FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
 Wargroove 2		2023-10-05
 IMMORTALITY		2022-08-30
-PaperKlay		2025-06-30
+PaperKlay		2025-05-27
 Bomb Rush Cyberfunk		2023-08-18
 Ring of Fire: Prologue		2020-12-15
 RAILGRADE		2023-10-13
@@ -392,7 +392,7 @@ Raccoon Roller		2024-10-22
 Beasts of Maravilla Island		2021-06-12
 Viewfinder		2023-07-18
 Fech The Ferret		2022-09-21
-Sondro Gomez: A Sunova Story		2025-06-30
+Sondro Gomez: A Sunova Story		2026-03-31
 Crashlands 2		2025-04-10
 9 Years of Shadows		2023-03-27
 Viscerafest		2025-04-14
@@ -447,6 +447,7 @@ Castlevania Advance Collection		2021-09-24
 Super Sami Roll		2021-07-21
 the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
+Dread Delusion		2024-05-14
 SPOOKWARE		2021-08-26
 Agent 64: Spies Never Die		2025-12-31
 Frogun		2022-08-02
@@ -615,6 +616,7 @@ Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
 Hardhat Wombat		2023-10-26
+BURGGEIST		2024-10-14
 Splodey		2024-06-04
 Tiny Lands 2		2025-12-31
 Europa		2024-10-11
@@ -630,6 +632,7 @@ Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 Station to Station		2023-10-03
+FBC: Firebreak		2025-06-17
 BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
@@ -664,11 +667,13 @@ SteamWorld Heist II		2024-08-08
 Capcom Fighting Collection 2		2025-05-15
 Dungeons & Degenerate Gamblers		2024-08-08
 Rusty's Day Off: Episode One - Janitor on Duty		2024-10-30
+Air Twister		2023-11-10
 KIBORG		2025-04-30
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Escape Simulator: Magic DLC		2024-02-22
 Neva		2024-10-15
 Calcium Contract		2023-10-17
+Chambers		2025-05-12
 A Void Hope		2024-02-29
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
@@ -726,6 +731,7 @@ Goblin Cleanup		2025-12-31
 The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
+EarWorm		2025-04-17
 ATLYSS		2024-11-22
 ANEURISM IV		2025-03-11
 FREAKHUNTER		2024-01-26
@@ -761,7 +767,6 @@ Puck		2025-01-04
 TAMASHIKA		2025-12-31
 Orbo's Exodus		2025-12-31
 Day of the Shell		2025-09-30
-DOOM: The Dark Ages		2025-05-15
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-12-31
@@ -773,7 +778,7 @@ Chroma Zero		2024-12-12
 Gold Gold Adventure Gold		2025-06-30
 Satisfrustration		2024-11-25
 Tetris® Forever		2024-11-12
-GEX Trilogy		2025-06-30
+GEX Trilogy		2025-06-16
 Mini Mini Golf Golf		2024-12-12
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
@@ -793,3 +798,4 @@ Zeizen		2026-12-31
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
 Team Fortress 2 Classic		2025-12-31
+The New Flesh		2025-06-03
