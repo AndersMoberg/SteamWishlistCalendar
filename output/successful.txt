@@ -688,7 +688,7 @@ Oberty		2024-02-07
 The Amazing Crackpots Club!		2024-06-08
 Mouthwashing		2024-09-26
 Visions of Mana		2024-08-29
-Bogdan's Cross		2025-12-31
+Bogdan's Cross		2026-12-31
 SONIC X SHADOW GENERATIONS		2024-10-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
@@ -798,3 +798,4 @@ Frostrail		2026-12-31
 Team Fortress 2 Classic		2025-12-31
 Word Play		2025-06-30
 The New Flesh		2025-06-03
+Shooty Shooty Robot Invasion		2025-07-10
