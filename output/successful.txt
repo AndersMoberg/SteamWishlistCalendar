@@ -109,7 +109,6 @@ Hellbound		2020-08-04
 Sable		2021-09-23
 Atomicrops		2020-09-17
 Maquette		2021-03-02
-Projekt Z: Beyond Order		2025-06-30
 Witchball		2018-01-02
 Draugen		2019-05-29
 Primal Light		2020-07-09
@@ -153,7 +152,6 @@ The Last Cube		2022-03-10
 Minotaur Arcade Volume 1		2018-12-21
 Rebel Galaxy Outlaw		2020-09-22
 Jet Lancer		2020-05-12
-Train Station Renovation		2020-10-01
 Saturnalia		2023-11-08
 Century: Age of Ashes		2021-12-02
 OCTOPATH TRAVELER™		2019-06-07
@@ -336,7 +334,7 @@ Adios		2021-03-17
 Dordogne		2023-06-13
 The Outbound Ghost		2022-09-20
 Steel Assault		2021-09-28
-Baby Steps		2025-12-31
+Baby Steps		2025-09-08
 Fatum Betula		2020-06-20
 Loop Hero		2021-03-04
 Mad Streets		2022-03-15
@@ -345,6 +343,7 @@ Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
 CONSCRIPT		2024-07-23
+Gecko Gods		2025-12-31
 Rollerdrome		2022-08-16
 DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition		2020-12-04
 Helskate		2025-01-20
@@ -456,7 +455,7 @@ Bittersweet Birthday		2025-12-31
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
-Cairn		2025-12-31
+Cairn		2025-11-05
 Spirit Swap: Lofi Beats to Match-3 To		2025-02-03
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
@@ -556,6 +555,7 @@ Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
+FUMES		2025-07-28
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
 Wrekless™		2025-12-31
@@ -587,7 +587,6 @@ Rotwood		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Star Overdrive		2025-06-19
-Forgotlings		2025-06-12
 Wilmot Works It Out		2024-10-23
 Squirrel with a Gun		2024-08-29
 Voidborn		2025-04-07
@@ -638,6 +637,7 @@ BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Super Fantasy Kingdom		2025-09-30
+Claire a la Mode		2025-12-31
 Painkiller		2025-12-31
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -645,7 +645,7 @@ Full Fathom		2025-12-31
 Digital Eclipse Arcade: Q.P.I.D.		2024-02-07
 Devil's Dive		2023-07-07
 Linkito		2024-07-23
-Constance		2025-12-31
+Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
 Captain Wayne - Vacation Desperation		2025-12-31
 A Corgi's Cozy Hike		2025-09-30
@@ -655,6 +655,7 @@ BLIGHTWRECK		2025-12-31
 Moonlighter 2: The Endless Vault		2025-12-31
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
+Consume Me		2025-09-25
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
@@ -680,19 +681,21 @@ Dark Deity 2		2025-03-24
 Yooka-Replaylee		2025-12-31
 Ouros		2024-05-22
 Dreamcore		2025-01-23
-Sword of the Sea		2025-12-31
+Sword of the Sea		2025-08-19
 Towerful Defense: A Rogue TD		2024-07-29
 Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
 Oberty		2024-02-07
 The Amazing Crackpots Club!		2024-06-08
 Mouthwashing		2024-09-26
+Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 Bogdan's Cross		2026-12-31
 SONIC X SHADOW GENERATIONS		2024-10-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
+TEXNOPLAZM		2025-09-30
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
@@ -749,7 +752,7 @@ Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
 Pipistrello and the Cursed Yoyo		2025-05-28
-Squeakross: Home Squeak Home		2025-06-30
+Squeakross: Home Squeak Home		2025-06-07
 Desvelado		2024-08-14
 GRUEL		2025-03-05
 Dale & Dawson Stationery Supplies		2024-08-30
@@ -767,9 +770,11 @@ TAMASHIKA		2025-12-31
 Orbo's Exodus		2025-12-31
 Day of the Shell		2025-09-30
 TRON: Catalyst		2025-06-17
+Is This Seat Taken?		2025-08-31
 Breakout Beyond		2025-03-25
 Herdling		2025-12-31
 Marathon		2025-09-23
+Automaton Heart		2025-12-01
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
@@ -796,6 +801,5 @@ Zeizen		2026-12-31
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
 Team Fortress 2 Classic		2025-12-31
-Word Play		2025-06-30
-The New Flesh		2025-06-03
+The New Flesh		2025-06-02
 Shooty Shooty Robot Invasion		2025-07-10
