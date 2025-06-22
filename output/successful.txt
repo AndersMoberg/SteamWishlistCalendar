@@ -501,6 +501,7 @@ CULTIC		2022-10-13
 Warden's Will		2025-01-08
 Sky Oceans: Wings for Hire		2024-10-10
 Fortune's Run		2023-09-28
+Supplice		2023-04-06
 Lake Haven - Chrysalis		2023-01-18
 Teslagrad 2		2023-04-19
 Lunistice		2022-11-10
@@ -669,6 +670,7 @@ Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
+Mariachi Legends		2026-06-30
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-31
 Kid Chaos		2023-05-02
@@ -739,7 +741,7 @@ Star Birds		2025-12-31
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
-Goblin Cleanup		2025-12-31
+Goblin Cleanup		2025-08-28
 The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
@@ -785,7 +787,6 @@ Is This Seat Taken?		2025-08-31
 Breakout Beyond		2025-03-25
 Keeper		2025-10-17
 Herdling		2025-12-31
-Marathon		2025-09-23
 Automaton Heart		2025-12-01
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
@@ -806,7 +807,9 @@ Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
+Super Meat Boy 3D		2026-12-31
 Easy Delivery Co.		2025-12-31
+Effulgence RPG		2025-10-23
 New Active Object		2025-12-31
 CloverPit		2025-12-31
 Leap Galaxy		2026-12-31
