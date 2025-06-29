@@ -146,6 +146,7 @@ Tunche		2021-11-02
 Shadow Brawlers		2019-12-13
 Death's Door		2021-07-20
 Project Wingman		2020-12-01
+Snap & Grab		2026-12-31
 Among Trees		2021-11-10
 Endling - Extinction is Forever		2022-07-19
 The Last Cube		2022-03-10
@@ -225,7 +226,7 @@ Timberborn		2021-09-15
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
-Earth From Another Sun		2025-12-31
+Pax Autocratica		2025-12-31
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -411,6 +412,7 @@ Curse of the Sea Rats		2023-04-06
 Chenso Club		2022-09-01
 Dorfromantik		2022-04-28
 Fallen Leaf		2024-07-15
+Elephantasy		2020-12-07
 FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 Ghostwire: Tokyo		2022-03-25
@@ -523,7 +525,7 @@ Peace Island		2025-11-17
 Master Key		2024-05-17
 ADACA		2022-07-26
 The Operator		2024-07-22
-Contract Rush DX		2025-12-31
+Contract Rush DX		2025-07-30
 Promenade		2024-02-23
 Solarpunk		2025-12-31
 ARC Raiders		2025-10-30
@@ -640,14 +642,16 @@ UNBEATABLE		2025-12-31
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
+The Karters 2: Turbo Charged		2025-07-17
 Station to Station		2023-10-03
 FBC: Firebreak		2025-06-17
 BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
+Elephantasy: Flipside		2023-02-28
 Super Fantasy Kingdom		2025-09-30
 Claire a la Mode		2025-12-31
-Painkiller		2025-12-31
+Painkiller		2025-10-09
 Growth		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2025-12-31
