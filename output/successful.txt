@@ -490,6 +490,7 @@ Eiyuden Chronicle: Hundred Heroes		2024-04-23
 UNCHARTED™: Legacy of Thieves Collection		2022-10-19
 Fallow		2021-08-25
 Wild Bastards		2024-09-12
+Windswept		2025-12-31
 SacriFire		2026-03-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
@@ -614,7 +615,6 @@ Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
-SteamWorld Build		2023-12-01
 REMATCH		2025-06-19
 Elation For The Wonder Box 6000		2025-09-30
 CorpoNation: The Sorting Process		2024-02-22
@@ -777,16 +777,16 @@ GRUEL		2025-03-05
 Dale & Dawson Stationery Supplies		2024-08-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
-Ratatan		2025-07-24
 Cyclopean: The Great Abyss		2025-01-17
 Shotgun Cop Man		2025-05-01
+PowerWash Simulator 2		2025-12-31
 Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
 Squirreled Away		2025-03-28
 Puck		2025-01-04
 TAMASHIKA		2025-12-31
-Day of the Shell		2025-09-30
+Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
 Is This Seat Taken?		2025-08-31
 Breakout Beyond		2025-03-25
