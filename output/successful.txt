@@ -664,8 +664,8 @@ Captain Wayne - Vacation Desperation		2025-12-31
 A Corgi's Cozy Hike		2025-09-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2024-02-14
-BLIGHTWRECK		2025-12-31
-Ra Ra BOOM		2025-08-31
+BLIGHTWRECK		2026-12-31
+Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-12-31
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
@@ -819,7 +819,7 @@ New Active Object		2025-12-31
 CloverPit		2025-12-31
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
-Maze Mice		2025-05-02
+Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
 Mashina		2025-12-31
 Zeizen		2026-12-31
@@ -831,4 +831,4 @@ Word Play		2025-07-14
 Earthion		2025-07-31
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
-Shooty Shooty Robot Invasion		2025-07-10
+Sunfluffs		2025-07-14
