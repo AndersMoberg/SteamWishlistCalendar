@@ -416,6 +416,7 @@ Elephantasy		2020-12-07
 FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 Ghostwire: Tokyo		2022-03-25
+Big Walk		2026-12-31
 AK-xolotl: Together		2023-09-14
 Fake Racing		2022-06-23
 Cosmo Clash		2022-12-21
@@ -452,7 +453,7 @@ Dread Delusion		2024-05-14
 SPOOKWARE		2021-08-26
 Agent 64: Spies Never Die		2025-12-31
 Frogun		2022-08-02
-Wander Stars		2025-08-01
+Wander Stars		2025-09-19
 Gunbrella		2023-09-13
 Bittersweet Birthday		2025-12-31
 Caravan SandWitch		2024-09-12
@@ -675,6 +676,7 @@ SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-06-30
+Super 10 Pin		2025-07-18
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-31
 Kid Chaos		2023-05-02
@@ -711,7 +713,8 @@ SONIC X SHADOW GENERATIONS		2024-10-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
-TEXNOPLAZM		2025-09-30
+Desktop Explorer		2026-06-30
+TEXNOPLAZM		2025-08-04
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
@@ -774,10 +777,11 @@ Pipistrello and the Cursed Yoyo		2025-05-28
 Desvelado		2024-08-14
 Escape Simulator 2		2025-10-21
 GRUEL		2025-03-05
+Nitronauts		2025-04-04
 Dale & Dawson Stationery Supplies		2024-08-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
-Cyclopean: The Great Abyss		2025-01-17
+Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
 PowerWash Simulator 2		2025-12-31
 Bub-O Burst		2024-11-18
@@ -797,7 +801,7 @@ Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
-Gold Gold Adventure Gold		2025-07-31
+Gold Gold Adventure Gold		2025-07-30
 Satisfrustration		2024-11-25
 Avante! Atlantis		2026-12-31
 No, I'm not a Human		2025-09-30
@@ -821,8 +825,9 @@ Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
-Mashina		2025-12-31
+Mashina		2025-07-31
 Zeizen		2026-12-31
+Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
 Clawsome		2025-12-31
