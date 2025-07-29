@@ -546,7 +546,7 @@ Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
 Beastieball		2024-11-12
-Morbid Metal		2025-08-20
+Supraworld		2025-08-31
 Mare		2022-04-01
 Mina the Hollower		2025-10-31
 Shin Megami Tensei V: Vengeance		2024-06-14
@@ -564,7 +564,6 @@ Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
-FUMES		2025-07-28
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
 Wrekless™		2025-12-31
@@ -608,7 +607,7 @@ Pepper Grinder		2024-03-28
 Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
-Pile Up!		2023-06-02
+Pile Up!		2025-07-23
 Mediterranea Inferno		2023-08-24
 All Systems Dance		2025-08-20
 Let's! Revolution!		2023-07-19
@@ -720,7 +719,7 @@ Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
-Toree Saturn		2025-12-31
+Toree Saturn		2025-08-08
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
@@ -826,6 +825,7 @@ TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
 Mashina		2025-07-31
+Guilty as Sock!		2025-05-29
 Zeizen		2026-12-31
 Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
