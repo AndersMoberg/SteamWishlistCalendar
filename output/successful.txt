@@ -609,7 +609,6 @@ Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
 Pile Up!		2025-07-23
 Mediterranea Inferno		2023-08-24
-All Systems Dance		2025-08-20
 Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
@@ -762,6 +761,7 @@ Asgard's Fall — Viking Survivors		2025-04-09
 Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
+Battlefield™ 6		2025-10-10
 HOP TOP		2024-02-27
 MOTORSLICE		2025-12-31
 Great God Grove		2024-11-15
@@ -800,7 +800,6 @@ Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
-Gold Gold Adventure Gold		2025-07-30
 Satisfrustration		2024-11-25
 Avante! Atlantis		2026-12-31
 No, I'm not a Human		2025-09-30
