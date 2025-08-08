@@ -546,14 +546,14 @@ Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
 Beastieball		2024-11-12
-Supraworld		2025-08-31
+Supraworld		2025-08-15
 Mare		2022-04-01
 Mina the Hollower		2025-10-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Demonschool		2025-09-30
+Demonschool		2025-09-03
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
@@ -603,6 +603,7 @@ Word Factori		2023-08-03
 Final Knight		2025-01-13
 Rift of the NecroDancer		2025-02-05
 KinitoPET		2024-01-09
+Death In Abyss		2025-12-31
 Pepper Grinder		2024-03-28
 Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
@@ -648,6 +649,7 @@ BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
+HOTEL BARCELONA		2025-09-30
 Super Fantasy Kingdom		2025-09-30
 Claire a la Mode		2025-12-31
 Painkiller		2025-10-09
@@ -659,6 +661,7 @@ Devil's Dive		2023-07-07
 Linkito		2024-07-23
 Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
+Neverway		2026-12-31
 Captain Wayne - Vacation Desperation		2025-12-31
 A Corgi's Cozy Hike		2025-09-30
 StormEdge		2024-09-13
@@ -686,6 +689,7 @@ Rusty's Day Off: Episode One - Janitor on Duty		2024-10-30
 Air Twister		2023-11-10
 KIBORG		2025-04-30
 Trash Goblin		2025-05-28
+Rogue Labyrinth		2025-09-01
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Escape Simulator: Magic DLC		2024-02-22
 Neva		2024-10-15
@@ -729,7 +733,7 @@ Castaway		2024-08-16
 Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
-VOID/BREAKER		2025-08-20
+VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-21
 Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
@@ -746,7 +750,7 @@ Star Birds		2025-12-31
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
-Goblin Cleanup		2025-08-28
+Goblin Cleanup		2025-09-18
 The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
@@ -791,10 +795,10 @@ Puck		2025-01-04
 TAMASHIKA		2025-12-31
 Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
-Is This Seat Taken?		2025-08-31
+Is This Seat Taken?		2025-08-07
 Breakout Beyond		2025-03-25
 Keeper		2025-10-17
-Herdling		2025-12-31
+Herdling		2025-08-21
 Automaton Heart		2025-12-01
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
@@ -829,7 +833,7 @@ Zeizen		2026-12-31
 Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
-Clawsome		2025-12-31
+Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
 Word Play		2025-07-14
 Earthion		2025-07-31
