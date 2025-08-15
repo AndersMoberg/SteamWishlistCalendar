@@ -781,9 +781,11 @@ Desvelado		2024-08-14
 Escape Simulator 2		2025-10-21
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
+Platypus Reclayed		2025-09-18
 Dale & Dawson Stationery Supplies		2024-08-30
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
+Ratatan		2025-09-18
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
 PowerWash Simulator 2		2025-12-31
@@ -819,10 +821,10 @@ Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
-Easy Delivery Co.		2025-12-31
+Easy Delivery Co.		2025-09-30
 Effulgence RPG		2025-10-23
 New Active Object		2025-12-31
-CloverPit		2025-12-31
+CloverPit		2025-09-03
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Maze Mice		2025-07-11
