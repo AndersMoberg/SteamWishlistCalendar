@@ -73,6 +73,7 @@ Slasher's Keep		2020-11-19
 Shakedown: Hawaii		2020-10-20
 Portal: Revolution		2024-01-06
 Chippy		2019-06-14
+ROUTINE		2025-12-31
 FAR: Lone Sails		2018-05-17
 Journey		2020-06-11
 Strikey Sisters		2017-06-01
@@ -513,7 +514,7 @@ moon: Remix RPG Adventure		2021-12-16
 First Dwarf		2024-06-19
 UNDETECTED		2022-09-30
 Wizordum		2025-04-29
-Morsels		2025-12-31
+Morsels		2025-11-18
 Abyssus		2025-08-12
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
@@ -546,7 +547,6 @@ Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
 Beastieball		2024-11-12
-Supraworld		2025-08-15
 Mare		2022-04-01
 Mina the Hollower		2025-10-31
 Shin Megami Tensei V: Vengeance		2024-06-14
@@ -557,6 +557,7 @@ Demonschool		2025-09-03
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
+Absolum		2025-10-09
 Psycho Patrol R		2025-03-24
 Terra Memoria		2024-03-27
 Tears of Metal		2025-12-31
@@ -597,6 +598,7 @@ Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Star Overdrive		2025-06-19
 Wilmot Works It Out		2024-10-23
+Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
 Voidborn		2025-04-07
 Word Factori		2023-08-03
@@ -621,6 +623,7 @@ CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
+Rising Heat		2025-10-14
 BOWLOUT		2025-01-07
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
@@ -629,7 +632,7 @@ Hardhat Wombat		2023-10-26
 BURGGEIST		2024-10-14
 Splodey		2024-06-04
 At Fate's End		2026-12-31
-Tiny Lands 2		2025-12-31
+Tiny Lands 2		2025-11-06
 Europa		2024-10-11
 Ghost of Tsushima DIRECTOR'S CUT		2024-05-16
 Rivals of Aether II		2024-10-23
@@ -638,7 +641,7 @@ Cash Cow DX		2024-02-16
 Zet Zillions		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
-UNBEATABLE		2025-12-31
+UNBEATABLE		2025-11-06
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
@@ -649,7 +652,7 @@ BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
-HOTEL BARCELONA		2025-09-30
+HOTEL BARCELONA		2025-09-26
 Super Fantasy Kingdom		2025-09-30
 Claire a la Mode		2025-12-31
 Painkiller		2025-10-09
@@ -668,7 +671,7 @@ StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2024-02-14
 BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
-Moonlighter 2: The Endless Vault		2025-12-31
+Moonlighter 2: The Endless Vault		2025-10-23
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Consume Me		2025-09-25
@@ -722,7 +725,6 @@ Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
 The Cable Guy		2024-02-29
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
-Toree Saturn		2025-08-08
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
@@ -797,7 +799,6 @@ Puck		2025-01-04
 TAMASHIKA		2025-12-31
 Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
-Is This Seat Taken?		2025-08-07
 Breakout Beyond		2025-03-25
 Keeper		2025-10-17
 Herdling		2025-08-21
@@ -825,6 +826,7 @@ Easy Delivery Co.		2025-09-30
 Effulgence RPG		2025-10-23
 New Active Object		2025-12-31
 CloverPit		2025-09-03
+Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Maze Mice		2025-07-11
