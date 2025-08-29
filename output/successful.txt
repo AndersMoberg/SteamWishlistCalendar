@@ -336,7 +336,7 @@ Adios		2021-03-17
 Dordogne		2023-06-13
 The Outbound Ghost		2022-09-20
 Steel Assault		2021-09-28
-Baby Steps		2025-09-08
+Baby Steps		2025-09-23
 Fatum Betula		2020-06-20
 Loop Hero		2021-03-04
 Mad Streets		2022-03-15
@@ -553,7 +553,7 @@ Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Demonschool		2025-09-03
+Demonschool		2025-11-19
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
@@ -809,14 +809,14 @@ Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
 Satisfrustration		2024-11-25
 Avante! Atlantis		2026-12-31
-No, I'm not a Human		2025-09-30
+No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 GEX Trilogy		2025-06-16
 Mini Mini Golf Golf		2024-12-12
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
-The Trolley Solution		2025-12-31
+The Trolley Solution		2025-09-30
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
@@ -825,10 +825,11 @@ Super Meat Boy 3D		2026-12-31
 Easy Delivery Co.		2025-09-30
 Effulgence RPG		2025-10-23
 New Active Object		2025-12-31
-CloverPit		2025-09-03
+CloverPit		2025-09-30
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
+Outlaws + Handful of Missions: Remaster		2025-11-20
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
 Mashina		2025-07-31
@@ -841,6 +842,7 @@ Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
 Word Play		2025-07-14
 Earthion		2025-07-31
+Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Sunfluffs		2025-07-14
