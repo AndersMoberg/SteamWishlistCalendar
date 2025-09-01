@@ -416,6 +416,7 @@ Fallen Leaf		2024-07-15
 Elephantasy		2020-12-07
 FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
+The Knightling		2025-08-28
 Ghostwire: Tokyo		2022-03-25
 Big Walk		2026-12-31
 AK-xolotl: Together		2023-09-14
@@ -666,7 +667,7 @@ Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
 Neverway		2026-12-31
 Captain Wayne - Vacation Desperation		2025-12-31
-A Corgi's Cozy Hike		2025-09-30
+A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2024-02-14
 BLIGHTWRECK		2026-12-31
@@ -701,7 +702,7 @@ Chambers		2025-05-12
 A Void Hope		2024-02-29
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
-Yooka-Replaylee		2025-12-31
+Yooka-Replaylee		2025-10-09
 Ouros		2024-05-22
 Dreamcore		2025-01-23
 Sword of the Sea		2025-08-19
@@ -748,7 +749,7 @@ Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
 DRAGON QUEST III HD-2D Remake		2024-11-14
 Duck Detective: The Ghost of Glamping		2025-05-22
-Star Birds		2025-12-31
+Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
@@ -823,7 +824,7 @@ Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
 Easy Delivery Co.		2025-09-30
-Effulgence RPG		2025-10-23
+Effulgence RPG		2025-11-20
 New Active Object		2025-12-31
 CloverPit		2025-09-30
 Blippo+		2025-09-23
@@ -832,6 +833,7 @@ TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 Outlaws + Handful of Missions: Remaster		2025-11-20
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
+Zexion		2025-03-21
 Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
 Zeizen		2026-12-31
@@ -842,6 +844,7 @@ Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
 Word Play		2025-07-14
 Earthion		2025-07-31
+Stray Children		2025-12-31
 Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
