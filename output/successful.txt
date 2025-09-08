@@ -340,7 +340,7 @@ Baby Steps		2025-09-23
 Fatum Betula		2020-06-20
 Loop Hero		2021-03-04
 Mad Streets		2022-03-15
-Borderlands 4		2025-09-12
+Borderlands 4		2025-09-11
 Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
@@ -373,7 +373,6 @@ Lemon Cake		2021-02-18
 McPixel 3		2022-11-14
 Sherwood Extreme		2024-04-29
 The Cosmic Wheel Sisterhood		2023-08-16
-The Cabbage Effect		2025-12-31
 Everlasting Guilt		2021-07-12
 FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
@@ -656,7 +655,7 @@ Elephantasy: Flipside		2023-02-28
 HOTEL BARCELONA		2025-09-26
 Super Fantasy Kingdom		2025-09-30
 Claire a la Mode		2025-12-31
-Painkiller		2025-10-09
+Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
 Full Fathom		2025-12-31
@@ -770,7 +769,7 @@ Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 HOP TOP		2024-02-27
-MOTORSLICE		2025-12-31
+Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
 ASTROLANCER		2024-04-19
@@ -781,14 +780,16 @@ Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
 Pipistrello and the Cursed Yoyo		2025-05-28
 Desvelado		2024-08-14
-Escape Simulator 2		2025-10-21
+Escape Simulator 2		2025-10-27
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
 Dale & Dawson Stationery Supplies		2024-08-30
+Extinction Rifts		2025-09-18
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
+PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
 PowerWash Simulator 2		2025-12-31
@@ -817,7 +818,7 @@ Mini Mini Golf Golf		2024-12-12
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
-The Trolley Solution		2025-09-30
+The Trolley Solution		2025-09-12
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
@@ -826,7 +827,7 @@ Super Meat Boy 3D		2026-12-31
 Easy Delivery Co.		2025-09-30
 Effulgence RPG		2025-11-20
 New Active Object		2025-12-31
-CloverPit		2025-09-30
+CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
@@ -849,3 +850,4 @@ Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Sunfluffs		2025-07-14
+Apparatus: Exanimus		2025-09-30
