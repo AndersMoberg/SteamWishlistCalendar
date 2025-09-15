@@ -653,7 +653,7 @@ SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 HOTEL BARCELONA		2025-09-26
-Super Fantasy Kingdom		2025-09-30
+Super Fantasy Kingdom		2025-12-31
 Claire a la Mode		2025-12-31
 Painkiller		2025-10-21
 Growth		2023-10-16
@@ -824,7 +824,7 @@ Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
-Easy Delivery Co.		2025-09-30
+Easy Delivery Co.		2025-09-18
 Effulgence RPG		2025-11-20
 New Active Object		2025-12-31
 CloverPit		2025-09-26
@@ -850,4 +850,5 @@ Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Sunfluffs		2025-07-14
-Apparatus: Exanimus		2025-09-30
+Apparatus: Exanimus		2025-10-31
+Factory 95		2026-03-31
