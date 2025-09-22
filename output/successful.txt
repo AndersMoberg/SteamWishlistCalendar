@@ -247,7 +247,7 @@ Skellboy Refractured		2021-01-13
 The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
 Shing!		2020-08-28
-Rune Fencer Illyia		2025-12-31
+Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
 Wonder Boy Returns Remix		2019-08-09
@@ -573,6 +573,7 @@ SOPA - Tale of the Stolen Potato		2025-12-31
 FROGUE		2024-02-14
 goblinAmerica		2025-12-31
 Katana Rama		2023-09-14
+CYCLE		2025-10-06
 Kitsune Zero / Super Bernie World		2022-09-12
 OPUS: Prism Peak		2025-12-31
 Super Kiwi 64		2022-12-02
@@ -668,7 +669,7 @@ Neverway		2026-12-31
 Captain Wayne - Vacation Desperation		2025-12-31
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
-Deep Rock Galactic: Survivor		2024-02-14
+Deep Rock Galactic: Survivor		2025-09-17
 BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-10-23
@@ -744,6 +745,7 @@ Sam & Max: The Devil's Playhouse		2024-08-14
 The Exit 8		2023-11-29
 Ballionaire		2024-12-10
 WORMHOLE		2024-10-31
+Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
 DRAGON QUEST III HD-2D Remake		2024-11-14
@@ -837,12 +839,14 @@ WHITE CHOCOLATE		2025-01-03
 Zexion		2025-03-21
 Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
+Megabonk		2025-09-18
 Zeizen		2026-12-31
 Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
 Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
+Vampire's Best Friend		2025-10-03
 Word Play		2025-07-14
 Earthion		2025-07-31
 Stray Children		2025-12-31
