@@ -322,6 +322,7 @@ Disc Room		2020-10-22
 A Little Golf Journey		2021-10-14
 Isles of Sea and Sky		2024-05-22
 Oddventure		2025-04-03
+Genokids		2025-10-02
 Sea of Stars		2023-08-29
 Golden Light		2022-03-11
 Sephonie		2022-04-12
@@ -448,6 +449,7 @@ El Paso, Elsewhere		2023-09-26
 Vernal Edge		2023-03-14
 Castlevania Advance Collection		2021-09-24
 Super Sami Roll		2021-07-21
+ILA: A Frosty Glide		2025-10-20
 the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
 Dread Delusion		2024-05-14
@@ -465,6 +467,7 @@ Spirit Swap: Lofi Beats to Match-3 To		2025-02-03
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
 Terra Nil		2023-03-28
+Wreckreation		2025-10-28
 Victory Heat Rally		2024-10-03
 Tres-Bashers		2021-10-01
 FREERIDE		2025-05-01
@@ -473,6 +476,7 @@ LOVE 3		2021-12-06
 OTXO		2023-04-20
 Cross Blitz		2023-11-29
 Clawfish		2021-06-12
+People of Note		2026-12-31
 Pekoe		2023-06-28
 DEAD LETTER DEPT.		2025-01-30
 The Plucky Squire		2024-09-17
@@ -618,8 +622,9 @@ Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
+Possessor(s)		2025-11-11
 REMATCH		2025-06-19
-Elation For The Wonder Box 6000		2025-09-30
+Elation For The Wonder Box 6000		2026-09-30
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
@@ -654,7 +659,7 @@ SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 HOTEL BARCELONA		2025-09-26
-Super Fantasy Kingdom		2025-12-31
+Super Fantasy Kingdom		2025-10-24
 Claire a la Mode		2025-12-31
 Painkiller		2025-10-21
 Growth		2023-10-16
@@ -666,7 +671,7 @@ Linkito		2024-07-23
 Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
 Neverway		2026-12-31
-Captain Wayne - Vacation Desperation		2025-12-31
+Captain Wayne - Vacation Desperation		2025-11-25
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
@@ -675,7 +680,6 @@ Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-10-23
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
-Consume Me		2025-09-25
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
@@ -724,6 +728,7 @@ TEXNOPLAZM		2025-08-04
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
+XF Extreme Formula		2024-06-11
 The Cable Guy		2024-02-29
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
@@ -800,7 +805,6 @@ BAKERU		2024-09-03
 HOLE		2024-11-28
 Squirreled Away		2025-03-28
 Puck		2025-01-04
-TAMASHIKA		2025-12-31
 Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
@@ -848,11 +852,16 @@ Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
 Vampire's Best Friend		2025-10-03
 Word Play		2025-07-14
+Object Impermanence		2026-03-31
 Earthion		2025-07-31
 Stray Children		2025-12-31
 Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
+Vital Shell		2026-03-31
 Sunfluffs		2025-07-14
+Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
+Blood: Refreshed Supply™		2025-12-04
+Unfair Flips		2025-09-25
 Apparatus: Exanimus		2025-10-31
 Factory 95		2026-03-31
