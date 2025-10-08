@@ -256,7 +256,6 @@ Windjammers 2		2022-01-20
 Shady Part of Me		2020-12-10
 GONNER2		2020-10-22
 Lake		2021-09-01
-Paralives		2025-12-08
 The Anacrusis		2023-12-05
 Eastern Exorcist		2021-07-08
 Griefhelm		2020-08-20
@@ -458,7 +457,7 @@ Agent 64: Spies Never Die		2025-12-31
 Frogun		2022-08-02
 Wander Stars		2025-09-19
 Gunbrella		2023-09-13
-Bittersweet Birthday		2025-12-31
+Bittersweet Birthday		2025-11-11
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
@@ -552,7 +551,6 @@ Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
 Beastieball		2024-11-12
 Mare		2022-04-01
-Mina the Hollower		2025-10-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
@@ -573,7 +571,7 @@ Backfirewall_		2023-01-30
 Phantom Spark		2024-08-15
 Wrekless™		2025-12-31
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
-SOPA - Tale of the Stolen Potato		2025-12-31
+SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 goblinAmerica		2025-12-31
 Katana Rama		2023-09-14
@@ -630,7 +628,6 @@ CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
-Rising Heat		2025-10-14
 BOWLOUT		2025-01-07
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
@@ -651,6 +648,7 @@ Tiny Terry's Turbo Trip		2024-05-30
 UNBEATABLE		2025-11-06
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
+HYPERBEAT		2025-12-31
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 The Karters 2: Turbo Charged		2025-07-17
 Station to Station		2023-10-03
@@ -678,7 +676,7 @@ StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
 BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
-Moonlighter 2: The Endless Vault		2025-10-23
+Moonlighter 2: The Endless Vault		2025-11-19
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
@@ -800,7 +798,7 @@ Ratatan		2025-09-18
 PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
-PowerWash Simulator 2		2025-12-31
+PowerWash Simulator 2		2025-10-23
 Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
@@ -846,16 +844,18 @@ Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Zeizen		2026-12-31
+Angry Video Game Nerd 8-bit		2025-10-23
 Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
 Frostrail		2026-12-31
 Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
-Vampire's Best Friend		2025-10-03
+Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Object Impermanence		2026-03-31
 Earthion		2025-07-31
-Stray Children		2025-12-31
+April Grove		2025-06-23
+Stray Children		2025-10-30
 Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
@@ -864,5 +864,5 @@ Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Blood: Refreshed Supply™		2025-12-04
 Unfair Flips		2025-09-25
-Apparatus: Exanimus		2025-10-31
+Apparatus: Exanimus		2025-11-30
 Factory 95		2026-03-31
