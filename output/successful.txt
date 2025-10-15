@@ -329,7 +329,7 @@ American Arcadia		2023-11-15
 Ex-Zodiac		2022-07-21
 Aeon Drive		2021-09-30
 Myst		2021-08-26
-Skate Story		2025-12-31
+Skate Story		2025-12-08
 Slipways		2021-06-03
 Land of Screens		2022-02-04
 Adios		2021-03-17
@@ -587,12 +587,14 @@ Judero		2024-09-16
 20 Minutes Till Dawn		2023-06-08
 Wild Woods		2024-12-09
 Jusant		2023-10-31
+Rebel Engine		2025-11-06
 Anger Foot		2024-07-11
 Everhood 2		2025-03-04
 The Looker		2022-06-17
 Synergy		2025-04-16
 Super Adventure Hand		2023-09-21
 Crow Country		2024-05-09
+Escape from Ever After		2026-03-31
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
 LIVE A LIVE		2023-04-27
@@ -705,7 +707,6 @@ Chambers		2025-05-12
 A Void Hope		2024-02-29
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
-Yooka-Replaylee		2025-10-09
 Ouros		2024-05-22
 Dreamcore		2025-01-23
 Sword of the Sea		2025-08-19
@@ -737,6 +738,7 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2025-12-31
+Ghost Vanguard		2026-12-31
 Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
@@ -809,7 +811,6 @@ TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Keeper		2025-10-17
 Herdling		2025-08-21
-Automaton Heart		2025-12-01
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
@@ -843,6 +844,7 @@ Zexion		2025-03-21
 Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
+Kero Quest 64		2026-12-31
 Zeizen		2026-12-31
 Angry Video Game Nerd 8-bit		2025-10-23
 Y2ROLL		2025-07-18
@@ -852,6 +854,7 @@ Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
+Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-03-31
 Earthion		2025-07-31
 April Grove		2025-06-23
@@ -859,6 +862,7 @@ Stray Children		2025-10-30
 Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
+FriendOS		2026-12-31
 Vital Shell		2026-03-31
 Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
