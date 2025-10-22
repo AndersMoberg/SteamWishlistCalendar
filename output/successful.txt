@@ -345,7 +345,7 @@ Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
 CONSCRIPT		2024-07-23
-Gecko Gods		2025-12-31
+Gecko Gods		2026-03-31
 Rollerdrome		2022-08-16
 DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition		2020-12-04
 Helskate		2025-01-20
@@ -495,7 +495,7 @@ Eiyuden Chronicle: Hundred Heroes		2024-04-23
 UNCHARTED™: Legacy of Thieves Collection		2022-10-19
 Fallow		2021-08-25
 Wild Bastards		2024-09-12
-Windswept		2025-12-31
+Windswept		2025-11-11
 SacriFire		2026-03-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
@@ -562,7 +562,7 @@ Slave Zero X		2024-02-22
 Absolum		2025-10-09
 Psycho Patrol R		2025-03-24
 Terra Memoria		2024-03-27
-Tears of Metal		2025-12-31
+Tears of Metal		2026-12-31
 Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
@@ -573,7 +573,6 @@ Wrekless™		2025-12-31
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
-goblinAmerica		2025-12-31
 Katana Rama		2023-09-14
 CYCLE		2025-10-06
 Kitsune Zero / Super Bernie World		2022-09-12
@@ -603,6 +602,7 @@ Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Star Overdrive		2025-06-19
 Wilmot Works It Out		2024-10-23
+BALL x PIT		2025-10-15
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
 Voidborn		2025-04-07
@@ -630,6 +630,7 @@ CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
+Rising Heat		2025-12-02
 BOWLOUT		2025-01-07
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
@@ -650,7 +651,7 @@ Tiny Terry's Turbo Trip		2024-05-30
 UNBEATABLE		2025-11-06
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
-HYPERBEAT		2025-12-31
+HYPERBEAT		2025-10-23
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 The Karters 2: Turbo Charged		2025-07-17
 Station to Station		2023-10-03
@@ -743,7 +744,7 @@ Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
-NINJA GAIDEN 4		2025-10-21
+NINJA GAIDEN 4		2025-10-20
 Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
@@ -809,7 +810,6 @@ Puck		2025-01-04
 Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
-Keeper		2025-10-17
 Herdling		2025-08-21
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
@@ -819,6 +819,7 @@ Satisfrustration		2024-11-25
 Avante! Atlantis		2026-12-31
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
+Minos		2026-12-31
 GEX Trilogy		2025-06-16
 Mini Mini Golf Golf		2024-12-12
 White Knuckle		2025-04-17
@@ -831,7 +832,7 @@ Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
 Easy Delivery Co.		2025-09-18
-Effulgence RPG		2025-11-20
+Effulgence RPG		2025-12-02
 New Active Object		2025-12-31
 CloverPit		2025-09-26
 Blippo+		2025-09-23
@@ -858,6 +859,7 @@ Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-03-31
 Earthion		2025-07-31
 April Grove		2025-06-23
+Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
 Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
