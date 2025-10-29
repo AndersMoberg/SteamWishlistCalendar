@@ -73,7 +73,7 @@ Slasher's Keep		2020-11-19
 Shakedown: Hawaii		2020-10-20
 Portal: Revolution		2024-01-06
 Chippy		2019-06-14
-ROUTINE		2025-12-31
+ROUTINE		2025-12-04
 FAR: Lone Sails		2018-05-17
 Journey		2020-06-11
 Strikey Sisters		2017-06-01
@@ -198,6 +198,7 @@ Sky Racket		2019-10-22
 Foregone		2021-03-01
 Ruffy and the Riverside		2025-06-26
 ШХД: ЗИМА / IT'S WINTER		2019-03-07
+FINAL FANTASY TACTICS - The Ivalice Chronicles		2025-09-30
 Knuckle Sandwich		2023-11-22
 TASOMACHI: Behind the Twilight		2021-04-14
 Ynglet		2021-06-05
@@ -219,7 +220,7 @@ Minute of Islands		2021-06-13
 LUNARK		2023-03-30
 Starstruck: Hands of Time		2024-09-16
 Ori and the Will of the Wisps		2020-03-11
-Onirism		2019-04-26
+Onirism		2025-10-23
 Floppy Knights		2022-05-24
 Lair of the Clockwork God		2020-02-21
 Crumble		2020-12-04
@@ -251,6 +252,7 @@ Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
 Wonder Boy Returns Remix		2019-08-09
+Lost Vulcan		2025-12-31
 Calico		2020-12-15
 Windjammers 2		2022-01-20
 Shady Part of Me		2020-12-10
@@ -266,7 +268,7 @@ Receiver 2		2020-04-14
 ITORAH		2022-03-21
 There Is No Light: Enhanced Edition		2022-09-19
 Pear Quest		2020-01-17
-The Falconeer		2020-11-10
+The Falconeer 		2020-11-10
 Sherlock Holmes Chapter One		2021-11-15
 Black Book		2021-08-10
 Dandy Dungeon - Legend of Brave Yamada -		2019-11-28
@@ -373,6 +375,7 @@ Lemon Cake		2021-02-18
 McPixel 3		2022-11-14
 Sherwood Extreme		2024-04-29
 The Cosmic Wheel Sisterhood		2023-08-16
+We Were Here Forever		2022-05-10
 Everlasting Guilt		2021-07-12
 FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
@@ -393,6 +396,7 @@ Beasts of Maravilla Island		2021-06-12
 Viewfinder		2023-07-18
 Fech The Ferret		2022-09-21
 Sondro Gomez: A Sunova Story		2026-03-31
+The Séance of Blake Manor		2025-10-27
 Crashlands 2		2025-04-10
 9 Years of Shadows		2023-03-27
 Viscerafest		2025-04-14
@@ -424,7 +428,7 @@ Cosmo Clash		2022-12-21
 Dead Estate		2021-10-19
 Hoa		2021-08-24
 Zen World		2021-10-07
-Nivalis		2025-12-31
+Nivalis		2026-12-31
 Astronite		2022-11-30
 We Are OFK		2022-08-18
 Binarystar Infinity		2021-02-04
@@ -533,6 +537,7 @@ ADACA		2022-07-26
 The Operator		2024-07-22
 Contract Rush DX		2025-07-30
 Promenade		2024-02-23
+The Last Caretaker		2025-11-06
 Solarpunk		2025-12-31
 ARC Raiders		2025-10-30
 Nine Sols		2024-05-29
@@ -610,7 +615,7 @@ Word Factori		2023-08-03
 Final Knight		2025-01-13
 Rift of the NecroDancer		2025-02-05
 KinitoPET		2024-01-09
-Death In Abyss		2025-12-31
+Death In Abyss		2025-11-28
 Pepper Grinder		2024-03-28
 Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
@@ -651,7 +656,7 @@ Tiny Terry's Turbo Trip		2024-05-30
 UNBEATABLE		2025-11-06
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
-HYPERBEAT		2025-10-23
+HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 The Karters 2: Turbo Charged		2025-07-17
 Station to Station		2023-10-03
@@ -685,6 +690,7 @@ Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
+Lumines Arise		2025-11-11
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-06-30
 Super 10 Pin		2025-07-18
@@ -726,6 +732,7 @@ Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
 Desktop Explorer		2026-06-30
 TEXNOPLAZM		2025-08-04
+Bloodthief		2025-09-22
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Just Crow Things		2024-08-15
@@ -744,7 +751,6 @@ Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
-NINJA GAIDEN 4		2025-10-20
 Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
@@ -755,7 +761,9 @@ WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
+Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
+No Players Online		2025-11-06
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -798,6 +806,7 @@ Extinction Rifts		2025-09-18
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
+Sonic Rumble		2025-11-05
 PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
@@ -831,6 +840,7 @@ Egg Squeeze		2024-10-01
 Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
+NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
 Effulgence RPG		2025-12-02
 New Active Object		2025-12-31
@@ -870,5 +880,6 @@ Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Blood: Refreshed Supply™		2025-12-04
 Unfair Flips		2025-09-25
-Apparatus: Exanimus		2025-11-30
+RV There Yet?		2025-10-21
+Apparatus: Exanimus		2025-11-07
 Factory 95		2026-03-31
