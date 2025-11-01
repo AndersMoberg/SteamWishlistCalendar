@@ -710,7 +710,7 @@ METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Escape Simulator: Magic DLC		2024-02-22
 Neva		2024-10-15
 Calcium Contract		2023-10-17
-Chambers		2025-05-12
+Golden Chambers		2025-05-12
 A Void Hope		2024-02-29
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
@@ -837,6 +837,7 @@ Anthology Of The Killer		2024-10-08
 The Trolley Solution		2025-09-12
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
+GANGSTALK		2026-12-31
 Mycopunk		2025-07-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
@@ -871,7 +872,6 @@ Earthion		2025-07-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
-Evil Egg		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 FriendOS		2026-12-31
