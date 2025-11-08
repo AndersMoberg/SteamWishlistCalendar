@@ -268,7 +268,7 @@ Receiver 2		2020-04-14
 ITORAH		2022-03-21
 There Is No Light: Enhanced Edition		2022-09-19
 Pear Quest		2020-01-17
-The Falconeer 		2020-11-10
+The Falconeer: Revolution Remaster		2020-11-10
 Sherlock Holmes Chapter One		2021-11-15
 Black Book		2021-08-10
 Dandy Dungeon - Legend of Brave Yamada -		2019-11-28
@@ -281,12 +281,13 @@ Gloomwood		2022-09-05
 Book of Travels		2021-10-11
 DOOMBRINGER		2021-06-04
 Iron Meat		2024-09-26
-Voidtrain		2023-05-09
+Voidtrain		2025-11-07
 Paradise Killer		2020-09-04
+Dragon Blazers		2025-11-10
 Hardspace: Shipbreaker		2022-05-24
 The Making of Karateka		2023-08-29
 Trepang2		2023-06-21
-Dead Static Drive		2025-12-31
+Dead Static Drive		2025-11-05
 Mind		2022-04-25
 Teardown		2022-04-21
 Orbital Bullet – The 360° Rogue-lite		2022-03-21
@@ -457,7 +458,6 @@ the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
 Dread Delusion		2024-05-14
 SPOOKWARE		2021-08-26
-Agent 64: Spies Never Die		2025-12-31
 Frogun		2022-08-02
 Wander Stars		2025-09-19
 Gunbrella		2023-09-13
@@ -538,7 +538,7 @@ The Operator		2024-07-22
 Contract Rush DX		2025-07-30
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
-Solarpunk		2025-12-31
+Solarpunk™		2025-12-31
 ARC Raiders		2025-10-30
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
@@ -653,7 +653,7 @@ Cash Cow DX		2024-02-16
 Zet Zillions		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
-UNBEATABLE		2025-11-06
+UNBEATABLE		2025-12-09
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 HYPERBEAT		2025-10-22
@@ -667,7 +667,7 @@ Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 HOTEL BARCELONA		2025-09-26
 Super Fantasy Kingdom		2025-10-24
-Claire a la Mode		2025-12-31
+Claire a la Mode		2025-11-17
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -691,6 +691,7 @@ Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
 Lumines Arise		2025-11-11
+Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-06-30
 Super 10 Pin		2025-07-18
@@ -745,7 +746,7 @@ KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
 Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
-500 CALIBER CONTRACTZ		2025-12-31
+500 CALIBER CONTRACTZ		2026-03-31
 Ghost Vanguard		2026-12-31
 Demon Tides		2025-12-31
 Pinball Spire		2024-10-02
@@ -761,6 +762,7 @@ WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
 Mind Over Magnet		2024-11-13
+Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
 No Players Online		2025-11-06
@@ -770,11 +772,10 @@ WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
 Goblin Cleanup		2025-09-18
-The Transylvania Adventure of Simon Quest		2025-12-31
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
 EarWorm		2025-04-17
-Saborus		2025-12-31
+Saborus		2025-11-20
 ATLYSS		2024-11-22
 ANEURISM IV		2025-03-11
 FREAKHUNTER		2024-01-26
@@ -803,6 +804,7 @@ Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
 Dale & Dawson Stationery Supplies		2024-08-30
 Extinction Rifts		2025-09-18
+over the hill		2026-12-31
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
@@ -875,6 +877,7 @@ Stray Children		2025-10-30
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 FriendOS		2026-12-31
+Q-UP		2025-11-05
 Vital Shell		2026-03-31
 Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
