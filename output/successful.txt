@@ -252,7 +252,6 @@ Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
 Wonder Boy Returns Remix		2019-08-09
-Lost Vulcan		2025-12-31
 Calico		2020-12-15
 Windjammers 2		2022-01-20
 Shady Part of Me		2020-12-10
@@ -538,7 +537,6 @@ The Operator		2024-07-22
 Contract Rush DX		2025-07-30
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
-Solarpunk™		2025-12-31
 ARC Raiders		2025-10-30
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
@@ -627,7 +625,6 @@ Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
-Possessor(s)		2025-11-11
 REMATCH		2025-06-19
 Elation For The Wonder Box 6000		2026-09-30
 BIRDCAGE		2025-11-18
@@ -765,7 +762,6 @@ Mind Over Magnet		2024-11-13
 Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
-No Players Online		2025-11-06
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -817,6 +813,7 @@ Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
 Squirreled Away		2025-03-28
+Hypogea		2025-11-09
 Puck		2025-01-04
 Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
@@ -863,6 +860,7 @@ Zeizen		2026-12-31
 Angry Video Game Nerd 8-bit		2025-10-23
 Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
+BENBOWARS		2026-12-31
 Frostrail		2026-12-31
 Clawsome		2026-03-31
 Team Fortress 2 Classic		2025-12-31
