@@ -502,7 +502,7 @@ Windswept		2025-11-11
 SacriFire		2026-03-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
-Eternity Egg		2025-12-31
+Eternity Egg		2025-12-10
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 Decarnation		2023-05-31
@@ -520,7 +520,6 @@ moon: Remix RPG Adventure		2021-12-16
 First Dwarf		2024-06-19
 UNDETECTED		2022-09-30
 Wizordum		2025-04-29
-Morsels		2025-11-18
 Abyssus		2025-08-12
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
@@ -530,13 +529,14 @@ Smack Studio		2024-07-31
 Petit Island		2024-11-14
 Momodora: Moonlit Farewell		2024-01-11
 Lushfoil Photography Sim		2025-04-15
-Peace Island		2025-11-17
+Peace Island		2026-07-01
 Master Key		2024-05-17
 ADACA		2022-07-26
 The Operator		2024-07-22
 Contract Rush DX		2025-07-30
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
+Solarpunk™		2026-12-31
 ARC Raiders		2025-10-30
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
@@ -558,7 +558,6 @@ Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Demonschool		2025-11-19
 Light Odyssey		2025-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
@@ -662,9 +661,9 @@ BlazBlue Entropy Effect		2024-02-14
 SLUDGE LIFE 2		2023-06-27
 Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
-HOTEL BARCELONA		2025-09-26
 Super Fantasy Kingdom		2025-10-24
 Claire a la Mode		2025-11-17
+Glory Hunters		2025-11-25
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -693,7 +692,7 @@ Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-06-30
 Super 10 Pin		2025-07-18
 Beyond the Ice Palace 2		2025-03-10
-Angeline Era		2025-12-31
+Angeline Era		2025-12-08
 Kid Chaos		2023-05-02
 Crypt Custodian		2024-08-27
 SteamWorld Heist II		2024-08-08
@@ -867,7 +866,7 @@ Team Fortress 2 Classic		2025-12-31
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
-Object Impermanence		2026-03-31
+Object Impermanence		2026-12-31
 Earthion		2025-07-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
