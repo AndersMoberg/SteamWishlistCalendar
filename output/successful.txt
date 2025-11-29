@@ -476,7 +476,7 @@ FREERIDE		2025-05-01
 Sackboy™: A Big Adventure		2022-10-27
 LOVE 3		2021-12-06
 OTXO		2023-04-20
-Cross Blitz		2023-11-29
+Cross Blitz		2025-11-24
 Clawfish		2021-06-12
 People of Note		2026-12-31
 Pekoe		2023-06-28
@@ -571,7 +571,6 @@ Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
-Wrekless™		2025-12-31
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
@@ -595,7 +594,7 @@ The Looker		2022-06-17
 Synergy		2025-04-16
 Super Adventure Hand		2023-09-21
 Crow Country		2024-05-09
-Escape from Ever After		2026-03-31
+Escape from Ever After		2026-01-23
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
 LIVE A LIVE		2023-04-27
@@ -619,6 +618,7 @@ Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
 Pile Up!		2025-07-23
 Mediterranea Inferno		2023-08-24
+Sektori		2025-11-18
 Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
@@ -883,3 +883,4 @@ Unfair Flips		2025-09-25
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-03-31
+Uktena 64 - Ultimate		2025-11-24
