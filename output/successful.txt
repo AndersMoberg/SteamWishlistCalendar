@@ -611,7 +611,6 @@ Word Factori		2023-08-03
 Final Knight		2025-01-13
 Rift of the NecroDancer		2025-02-05
 KinitoPET		2024-01-09
-Death In Abyss		2025-11-28
 Pepper Grinder		2024-03-28
 Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
@@ -663,7 +662,6 @@ Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 Super Fantasy Kingdom		2025-10-24
 Claire a la Mode		2025-11-17
-Glory Hunters		2025-11-25
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -674,7 +672,6 @@ Linkito		2024-07-23
 Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
 Neverway		2026-12-31
-Captain Wayne - Vacation Desperation		2025-11-25
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
@@ -736,7 +733,6 @@ Just Crow Things		2024-08-15
 XF Extreme Formula		2024-06-11
 The Cable Guy		2024-02-29
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
-KINGDOM HEARTS -HD 1.5+2.5 ReMIX-		2024-06-13
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
 Soul Drifter		2024-10-10
@@ -880,6 +876,7 @@ Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Blood: Refreshed Supply™		2025-12-04
 Unfair Flips		2025-09-25
+Incredicer		2025-11-27
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-03-31
