@@ -346,7 +346,7 @@ Borderlands 4		2025-09-11
 Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
-CONSCRIPT		2024-07-23
+CONSCRIPT: Director’s Cut		2024-07-23
 Gecko Gods		2026-03-31
 Rollerdrome		2022-08-16
 DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition		2020-12-04
@@ -376,6 +376,7 @@ McPixel 3		2022-11-14
 Sherwood Extreme		2024-04-29
 The Cosmic Wheel Sisterhood		2023-08-16
 We Were Here Forever		2022-05-10
+The Cabbage Effect		2026-12-31
 Everlasting Guilt		2021-07-12
 FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
@@ -464,7 +465,7 @@ Bittersweet Birthday		2025-11-11
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
 Fossil Corner		2021-06-12
-Cairn		2026-03-31
+Cairn		2026-01-29
 Spirit Swap: Lofi Beats to Match-3 To		2025-02-03
 Kitten Burst		2024-01-20
 Bloodless		2024-08-29
@@ -506,7 +507,7 @@ Eternity Egg		2025-12-10
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 Decarnation		2023-05-31
-MIO: Memories in Orbit		2025-12-31
+MIO: Memories in Orbit		2026-01-20
 Forspoken		2023-01-24
 CULTIC		2022-10-13
 Warden's Will		2025-01-08
@@ -572,12 +573,13 @@ Backfirewall_		2023-01-30
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
+Luna Abyss		2026-12-31
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
 CYCLE		2025-10-06
 Kitsune Zero / Super Bernie World		2022-09-12
-OPUS: Prism Peak		2025-12-31
+OPUS: Prism Peak		2026-03-31
 Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
@@ -630,7 +632,6 @@ CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
-Rising Heat		2025-12-02
 BOWLOUT		2025-01-07
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
@@ -665,7 +666,6 @@ Claire a la Mode		2025-11-17
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
-Full Fathom		2025-12-31
 Digital Eclipse Arcade: Q.P.I.D.		2024-02-07
 Devil's Dive		2023-07-07
 Linkito		2024-07-23
@@ -757,6 +757,7 @@ Mind Over Magnet		2024-11-13
 Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
+No Players Online		2025-11-06
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -814,11 +815,13 @@ Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
+ROMEO IS A DEAD MAN		2026-02-11
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
 Satisfrustration		2024-11-25
+THREE VERSES³		2026-12-31
 Avante! Atlantis		2026-12-31
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
@@ -858,7 +861,8 @@ Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
 Clawsome		2026-03-31
-Team Fortress 2 Classic		2025-12-31
+Team Fortress 2 Classified		2026-01-30
+Tricky and the Dream Caster		2027-12-31
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
@@ -872,6 +876,7 @@ The New Flesh		2025-06-02
 FriendOS		2026-12-31
 Q-UP		2025-11-05
 Vital Shell		2026-03-31
+Neath		2026-12-31
 Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Blood: Refreshed Supply™		2025-12-04
