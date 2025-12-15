@@ -228,7 +228,6 @@ Timberborn		2021-09-15
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
-Pax Autocratica		2025-12-31
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -503,7 +502,6 @@ Windswept		2025-11-11
 SacriFire		2026-03-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
-Eternity Egg		2025-12-10
 Somerville		2022-11-15
 Athenian Rhapsody		2024-05-14
 Decarnation		2023-05-31
@@ -553,13 +551,14 @@ WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
+Shadow Labyrinth		2025-07-17
 Beastieball		2024-11-12
 Mare		2022-04-01
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Light Odyssey		2025-12-31
+Light Odyssey		2026-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
 Absolum		2025-10-09
@@ -642,6 +641,7 @@ Splodey		2024-06-04
 At Fate's End		2026-12-31
 Tiny Lands 2		2025-11-06
 Europa		2024-10-11
+LEGO® Batman™: Legacy of the Dark Knight		2026-05-29
 Ghost of Tsushima DIRECTOR'S CUT		2024-05-16
 Rivals of Aether II		2024-10-23
 Artisan TD		2024-07-22
@@ -649,7 +649,6 @@ Cash Cow DX		2024-02-16
 Zet Zillions		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
-UNBEATABLE		2025-12-09
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 HYPERBEAT		2025-10-22
@@ -675,6 +674,7 @@ Neverway		2026-12-31
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
+PAC-MAN WORLD 2 Re-PAC		2025-09-25
 BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-11-19
@@ -740,7 +740,7 @@ Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2026-03-31
 Ghost Vanguard		2026-12-31
-Demon Tides		2025-12-31
+Demon Tides		2026-02-19
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
@@ -749,7 +749,6 @@ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam & Max: The Devil's Playhouse		2024-08-14
 The Exit 8		2023-11-29
-Ballionaire		2024-12-10
 WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
@@ -802,6 +801,7 @@ POOOOL		2024-06-08
 Ratatan		2025-09-18
 Sonic Rumble		2025-11-05
 PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
+Neon Inferno		2025-11-20
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
 PowerWash Simulator 2		2025-10-23
@@ -825,7 +825,7 @@ THREE VERSES³		2026-12-31
 Avante! Atlantis		2026-12-31
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
-Minos		2026-12-31
+MINOS		2026-12-31
 GEX Trilogy		2025-06-16
 Mini Mini Golf Golf		2024-12-12
 White Knuckle		2025-04-17
@@ -851,6 +851,7 @@ Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
 Zexion		2025-03-21
 Mashina		2025-07-31
+SantaCorps 4		2025-12-22
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
@@ -860,7 +861,7 @@ Y2ROLL		2025-07-18
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
-Clawsome		2026-03-31
+Clawsome		2026-12-31
 Team Fortress 2 Classified		2026-01-30
 Tricky and the Dream Caster		2027-12-31
 Vampire's Best Friend		2025-10-06
