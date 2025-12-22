@@ -228,6 +228,7 @@ Timberborn		2021-09-15
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
+Pax Autocratica		2026-02-02
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -536,7 +537,6 @@ Contract Rush DX		2025-07-30
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
 Solarpunk™		2026-12-31
-ARC Raiders		2025-10-30
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
 NAIAD		2024-12-10
@@ -762,6 +762,7 @@ Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
 Ninja Five-O		2025-02-25
 Parking Garage Rally Circuit		2024-09-20
+Death Machine		2026-01-06
 Goblin Cleanup		2025-09-18
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
@@ -816,6 +817,7 @@ TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
 ROMEO IS A DEAD MAN		2026-02-11
+Marathon		2026-03-31
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
@@ -869,6 +871,7 @@ Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
+Funi Raccoon Game		2026-12-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
