@@ -853,13 +853,13 @@ Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
 Zexion		2025-03-21
 Mashina		2025-07-31
-SantaCorps 4		2025-12-22
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Zeizen		2026-12-31
 Angry Video Game Nerd 8-bit		2025-10-23
 Y2ROLL		2025-07-18
+Aerial_Knight's DropShot		2026-12-31
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
@@ -879,7 +879,7 @@ s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 FriendOS		2026-12-31
 Q-UP		2025-11-05
-Vital Shell		2026-03-31
+Vital Shell		2026-01-07
 Neath		2026-12-31
 Sunfluffs		2025-07-14
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
