@@ -779,6 +779,7 @@ Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 HOP TOP		2024-02-27
+MOTORSLICE		2026-12-31
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
@@ -843,7 +844,6 @@ Super Meat Boy 3D		2026-12-31
 NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
 Effulgence RPG		2025-12-02
-New Active Object		2025-12-31
 CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
