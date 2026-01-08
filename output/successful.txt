@@ -342,7 +342,6 @@ Baby Steps		2025-09-23
 Fatum Betula		2020-06-20
 Loop Hero		2021-03-04
 Mad Streets		2022-03-15
-Borderlands 4		2025-09-11
 Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
@@ -576,7 +575,6 @@ Luna Abyss		2026-12-31
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
-CYCLE		2025-10-06
 Kitsune Zero / Super Bernie World		2022-09-12
 OPUS: Prism Peak		2026-03-31
 Super Kiwi 64		2022-12-02
@@ -604,7 +602,6 @@ Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Star Overdrive		2025-06-19
 Wilmot Works It Out		2024-10-23
-BALL x PIT		2025-10-15
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
 Voidborn		2025-04-07
@@ -683,11 +680,9 @@ Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Castlevania Dominus Collection		2024-08-27
-Lumines Arise		2025-11-11
 Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-06-30
-Super 10 Pin		2025-07-18
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-08
 Kid Chaos		2023-05-02
@@ -696,7 +691,6 @@ SteamWorld Heist II		2024-08-08
 Capcom Fighting Collection 2		2025-05-16
 Dungeons & Degenerate Gamblers		2024-08-08
 Rusty's Day Off: Episode One - Janitor on Duty		2024-10-30
-Air Twister		2023-11-10
 KIBORG		2025-04-30
 Trash Goblin		2025-05-28
 Rogue Labyrinth		2025-09-01
@@ -766,7 +760,6 @@ Death Machine		2026-01-06
 Goblin Cleanup		2025-09-18
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
-EarWorm		2025-04-17
 Saborus		2025-11-20
 ATLYSS		2024-11-22
 ANEURISM IV		2025-03-11
@@ -785,17 +778,14 @@ Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
 ASTROLANCER		2024-04-19
 FANTASIAN Neo Dimension		2024-12-05
-Axyz		2025-03-27
 Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
 Pipistrello and the Cursed Yoyo		2025-05-28
 Desvelado		2024-08-14
-Escape Simulator 2		2025-10-27
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
-Dale & Dawson Stationery Supplies		2024-08-30
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
@@ -819,6 +809,7 @@ Breakout Beyond		2025-03-25
 Herdling		2025-08-21
 ROMEO IS A DEAD MAN		2026-02-11
 Marathon		2026-03-31
+DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
@@ -830,7 +821,6 @@ No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-12-31
 GEX Trilogy		2025-06-16
-Mini Mini Golf Golf		2024-12-12
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
@@ -858,7 +848,6 @@ Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Zeizen		2026-12-31
 Angry Video Game Nerd 8-bit		2025-10-23
-Y2ROLL		2025-07-18
 Aerial_Knight's DropShot		2026-12-31
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
