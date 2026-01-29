@@ -248,6 +248,7 @@ Unexplored 2: The Wayfarer's Legacy		2022-05-27
 Skellboy Refractured		2021-01-13
 The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
+Wind Runners		2026-12-31
 Shing!		2020-08-28
 Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
@@ -287,6 +288,7 @@ Dragon Blazers		2025-11-10
 Hardspace: Shipbreaker		2022-05-24
 The Making of Karateka		2023-08-29
 Trepang2		2023-06-21
+Kiln		2026-12-31
 Dead Static Drive		2025-11-05
 Mind		2022-04-25
 Teardown		2022-04-21
@@ -578,7 +580,7 @@ SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
-OPUS: Prism Peak		2026-03-31
+OPUS: Prism Peak		2026-03-26
 Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
@@ -598,10 +600,12 @@ Crow Country		2024-05-09
 Escape from Ever After		2026-01-23
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
+Beast of Reincarnation		2026-12-31
 LIVE A LIVE		2023-04-27
 Rotwood		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
+Into The Unwell		2026-12-31
 Star Overdrive		2025-06-19
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-05
@@ -648,6 +652,8 @@ Cash Cow DX		2024-02-16
 Zet Zillions		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
+BABBDI		2022-12-22
+RUBATO		2026-03-20
 Lovux		2023-07-07
 Kulebra and the Souls of Limbo		2025-05-16
 HYPERBEAT		2025-10-22
@@ -745,6 +751,7 @@ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam & Max: The Devil's Playhouse		2024-08-14
 The Exit 8		2023-11-29
+Valkyrie Saga		2026-01-27
 WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
