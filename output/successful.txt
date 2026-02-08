@@ -19,6 +19,7 @@ Transmissions: Element 120		2016-06-16
 Metrico+		2016-08-23
 The Surge		2017-05-15
 Valley		2016-08-24
+Aviary Attorney		2015-12-22
 MegaSphere		2015-08-26
 Pocket Rumble		2016-02-01
 Horizon Chase Turbo		2018-05-15
@@ -531,7 +532,6 @@ Smack Studio		2024-07-31
 Petit Island		2024-11-14
 Momodora: Moonlit Farewell		2024-01-11
 Lushfoil Photography Sim		2025-04-15
-Peace Island		2026-02-04
 Master Key		2024-05-17
 ADACA		2022-07-26
 The Operator		2024-07-22
@@ -795,6 +795,7 @@ Desvelado		2024-08-14
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
+Many Mini Typing Games		2026-02-09
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
