@@ -230,7 +230,7 @@ Timberborn		2021-09-15
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
-Pax Autocratica		2026-03-04
+Pax Autocratica		2026-05-08
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -312,6 +312,7 @@ House Flipper 2		2023-12-14
 Dogworld		2021-03-18
 Record of Lodoss War-Deedlit in Wonder Labyrinth-		2021-03-27
 UnMetal		2021-09-28
+Phonopolis		2026-12-31
 Almighty: Kill Your Gods		2021-05-05
 Petal Crash		2020-10-12
 Coromon		2022-03-31
@@ -516,6 +517,7 @@ Warden's Will		2025-01-08
 Sky Oceans: Wings for Hire		2024-10-10
 Fortune's Run		2023-09-28
 Supplice		2023-04-06
+The Mermaid Mask		2026-12-31
 Lake Haven - Chrysalis		2023-01-18
 Teslagrad 2		2023-04-19
 Lunistice		2022-11-10
@@ -536,7 +538,7 @@ Master Key		2024-05-17
 ADACA		2022-07-26
 The Operator		2024-07-22
 Contract Rush DX		2025-07-30
-Mythmatch		2026-12-31
+Mythmatch		2026-03-13
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
 Solarpunk™		2026-12-31
@@ -557,6 +559,7 @@ In Sink: A Co-op Escape Adventure		2024-11-12
 Shadow Labyrinth		2025-07-17
 Beastieball		2024-11-12
 Mare		2022-04-01
+Mina the Hollower		2026-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
@@ -600,13 +603,14 @@ Crow Country		2024-05-09
 Escape from Ever After		2026-01-23
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
-Beast of Reincarnation		2026-12-31
+Beast of Reincarnation		2026-08-04
 LIVE A LIVE		2023-04-27
 Rotwood		2024-04-24
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Into The Unwell		2026-12-31
 Star Overdrive		2025-06-19
+Forgotlings		2026-02-17
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
@@ -717,7 +721,7 @@ Towerful Defense: A Rogue TD		2024-07-29
 Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
 Oberty		2024-02-07
-The Amazing Crackpots Club!		2024-06-08
+The Amazing Crackpots Club!		2026-02-11
 Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
@@ -731,6 +735,7 @@ TEXNOPLAZM		2025-08-04
 Bloodthief		2025-09-22
 Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
+Diablo II: Resurrected – Infernal Edition		2026-02-11
 Just Crow Things		2024-08-15
 XF Extreme Formula		2024-06-11
 The Cable Guy		2024-02-29
@@ -795,7 +800,6 @@ Desvelado		2024-08-14
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
-Many Mini Typing Games		2026-02-09
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
@@ -817,7 +821,7 @@ Day of the Shell		2025-07-29
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
-ROMEO IS A DEAD MAN		2026-02-11
+ROMEO IS A DEAD MAN		2026-02-10
 Marathon		2026-03-05
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
@@ -848,6 +852,7 @@ CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
+BrebeMan		2026-02-12
 Outlaws + Handful of Missions: Remaster		2025-11-20
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
@@ -871,7 +876,7 @@ Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
-Funi Raccoon Game		2026-12-31
+Funi Raccoon Game		2026-03-13
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
