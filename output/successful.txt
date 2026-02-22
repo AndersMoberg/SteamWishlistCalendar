@@ -166,6 +166,7 @@ Discolored		2019-11-11
 Infinitode 2 - Infinite Tower Defense		2021-05-06
 INMOST		2020-08-21
 Get In The Car, Loser!		2021-09-21
+The Free Shepherd		2027-12-31
 Minoria		2019-08-27
 BAYANI - Fighting Game		2019-06-12
 Relicta		2020-08-04
@@ -317,6 +318,7 @@ Almighty: Kill Your Gods		2021-05-05
 Petal Crash		2020-10-12
 Coromon		2022-03-31
 Blue Fire		2021-02-04
+Big Hops		2026-01-12
 Necromunda: Hired Gun		2021-05-31
 Umurangi Generation		2020-05-19
 Sea of Solitude		2020-06-04
@@ -351,7 +353,7 @@ Post Void		2020-08-06
 Pronty		2021-11-19
 Ship of Fools		2022-11-22
 CONSCRIPT: Director’s Cut		2024-07-23
-Gecko Gods		2026-03-31
+Gecko Gods		2026-04-16
 Rollerdrome		2022-08-16
 DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition		2020-12-04
 Helskate		2025-01-20
@@ -412,6 +414,7 @@ Lorn's Lure		2024-09-20
 Retchid		2023-08-18
 Battle Shapers		2024-12-04
 Rise of the Triad: Ludicrous Edition		2023-07-31
+Akatori		2026-12-31
 R-Type Final 2		2021-04-30
 Teacup		2021-09-23
 MONSTER HUNTER RISE		2022-01-12
@@ -483,7 +486,7 @@ LOVE 3		2021-12-06
 OTXO		2023-04-20
 Cross Blitz		2025-11-24
 Clawfish		2021-06-12
-People of Note		2026-12-31
+People of Note		2026-04-07
 Pekoe		2023-06-28
 DEAD LETTER DEPT.		2025-01-30
 The Plucky Squire		2024-09-17
@@ -614,6 +617,7 @@ Forgotlings		2026-02-17
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
+High On Life 2		2026-02-13
 Voidborn		2025-04-07
 Word Factori		2023-08-03
 Final Knight		2025-01-13
@@ -785,6 +789,7 @@ Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
+Screamer		2026-03-26
 HOP TOP		2024-02-27
 MOTORSLICE		2026-12-31
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
@@ -818,6 +823,7 @@ Squirreled Away		2025-03-28
 Hypogea		2025-11-09
 Puck		2025-01-04
 Day of the Shell		2025-07-29
+LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
@@ -830,6 +836,7 @@ Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
+Looney Landers		2025-02-05
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-12-31
@@ -853,6 +860,7 @@ Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 BrebeMan		2026-02-12
+PRAGMATA		2026-04-24
 Outlaws + Handful of Missions: Remaster		2025-11-20
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
@@ -862,9 +870,9 @@ Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Forbidden Solitaire		2026-03-31
-Zeizen		2026-12-31
 Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
+Stupid Never Dies		2026-12-31
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
@@ -880,6 +888,7 @@ Funi Raccoon Game		2026-03-13
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
+CONTROL Resonant		2026-12-31
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 FriendOS		2026-12-31
@@ -887,6 +896,7 @@ Q-UP		2025-11-05
 Vital Shell		2026-01-07
 Neath		2026-12-31
 Sunfluffs		2025-07-14
+RACCOIN: Coin Pusher Roguelike		2026-03-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
@@ -895,6 +905,8 @@ Incredicer		2025-11-27
 CiniCross		2026-02-11
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
-Factory 95		2026-03-31
+Factory 95		2026-06-30
+STAR WARS: Galactic Racer™		2026-12-31
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
+Rift Wizard 3		2026-06-30
