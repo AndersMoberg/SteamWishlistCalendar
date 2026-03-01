@@ -402,7 +402,7 @@ Raccoon Roller		2024-10-22
 Beasts of Maravilla Island		2021-06-12
 Viewfinder		2023-07-18
 Fech The Ferret		2022-09-21
-Sondro Gomez: A Sunova Story		2026-03-31
+Sondro Gomez: A Sunova Story		2026-12-31
 The Séance of Blake Manor		2025-10-27
 Crashlands 2		2025-04-10
 9 Years of Shadows		2023-03-27
@@ -537,6 +537,7 @@ Smack Studio		2024-07-31
 Petit Island		2024-11-14
 Momodora: Moonlit Farewell		2024-01-11
 Lushfoil Photography Sim		2025-04-15
+Peace Island		2026-02-27
 Master Key		2024-05-17
 ADACA		2022-07-26
 The Operator		2024-07-22
@@ -555,6 +556,7 @@ Hole in the Clouds		2022-08-26
 Monkey Barrels		2022-09-26
 Flintlock: The Siege of Dawn		2024-07-18
 Station Manager		2022-03-28
+Rogue Point		2026-02-12
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
@@ -729,6 +731,7 @@ The Amazing Crackpots Club!		2026-02-11
 Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
+DRAGON QUEST VII Reimagined		2026-02-05
 Bogdan's Cross		2026-12-31
 SONIC X SHADOW GENERATIONS		2024-10-25
 HYNPYTOL		2023-09-22
@@ -751,7 +754,6 @@ Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2026-12-31
 Ghost Vanguard		2026-12-31
-Demon Tides		2026-02-19
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
@@ -811,6 +813,7 @@ Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
 Sonic Rumble		2025-11-05
+Panthalassa		2026-05-17
 PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
 Neon Inferno		2025-11-20
 Cyclopean: The Great Abyss		2025-07-17
@@ -827,13 +830,13 @@ LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
-ROMEO IS A DEAD MAN		2026-02-10
 Marathon		2026-03-05
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
+Far Far West		2026-12-31
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
 Looney Landers		2025-02-05
@@ -897,6 +900,7 @@ Vital Shell		2026-01-07
 Neath		2026-12-31
 Sunfluffs		2025-07-14
 RACCOIN: Coin Pusher Roguelike		2026-03-31
+CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
@@ -906,6 +910,7 @@ CiniCross		2026-02-11
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-06-30
+Super Battle Golf		2026-02-19
 STAR WARS: Galactic Racer™		2026-12-31
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
