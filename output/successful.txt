@@ -507,7 +507,7 @@ UNCHARTED™: Legacy of Thieves Collection		2022-10-19
 Fallow		2021-08-25
 Wild Bastards		2024-09-12
 Windswept		2025-11-11
-SacriFire		2026-03-31
+SacriFire		2026-12-31
 KarmaZoo		2023-11-14
 24 Killers		2023-03-09
 Somerville		2022-11-15
@@ -588,7 +588,7 @@ SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
-OPUS: Prism Peak		2026-03-26
+OPUS: Prism Peak		2026-04-16
 Super Kiwi 64		2022-12-02
 Kena: Bridge of Spirits		2022-09-27
 Star Stuff		2024-06-07
@@ -610,7 +610,7 @@ Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
 Beast of Reincarnation		2026-08-04
 LIVE A LIVE		2023-04-27
-Rotwood		2024-04-24
+Rotwood		2026-03-03
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
 Into The Unwell		2026-12-31
@@ -771,6 +771,7 @@ Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
 No Players Online		2025-11-06
+Map Map - A Game About Maps		2026-06-30
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -830,7 +831,6 @@ LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
-Marathon		2026-03-05
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
@@ -842,7 +842,7 @@ THREE VERSES³		2026-12-31
 Looney Landers		2025-02-05
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
-MINOS		2026-12-31
+MINOS		2026-06-30
 GEX Trilogy		2025-06-16
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
@@ -863,7 +863,7 @@ Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 BrebeMan		2026-02-12
-PRAGMATA		2026-04-24
+PRAGMATA		2026-04-17
 Outlaws + Handful of Missions: Remaster		2025-11-20
 Maze Mice		2025-07-11
 WHITE CHOCOLATE		2025-01-03
@@ -876,6 +876,7 @@ Forbidden Solitaire		2026-03-31
 Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-12-31
+Lucid Blocks		2026-03-13
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
@@ -902,6 +903,7 @@ Sunfluffs		2025-07-14
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
+Antivirus Survivors 2003 Professional		2026-06-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
 Unfair Flips		2025-09-25
