@@ -52,7 +52,7 @@ Just Shapes & Beats		2018-05-31
 Guacamelee! 2		2018-08-21
 ReCore: Definitive Edition		2018-09-14
 Future Unfolding		2017-03-15
-GTTOD: Get To The Orange Door		2017-10-27
+GTTOD		2017-10-27
 Tiny Thor		2023-06-05
 Feral Fury		2017-04-02
 Snake Pass		2017-03-28
@@ -227,7 +227,7 @@ Onirism		2025-10-23
 Floppy Knights		2022-05-24
 Lair of the Clockwork God		2020-02-21
 Crumble		2020-12-04
-Timberborn		2021-09-15
+Timberborn		2026-03-12
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
@@ -580,6 +580,7 @@ Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
 Backfirewall_		2023-01-30
+Barkour		2026-12-31
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
@@ -665,6 +666,7 @@ Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
 RUBATO		2026-03-20
 Lovux		2023-07-07
+Tangy TD		2026-03-09
 Kulebra and the Souls of Limbo		2025-05-16
 HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
@@ -733,7 +735,9 @@ Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 DRAGON QUEST VII Reimagined		2026-02-05
 Bogdan's Cross		2026-12-31
+SoulQuest		2026-04-30
 SONIC X SHADOW GENERATIONS		2024-10-25
+INSECT		2026-02-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
@@ -839,6 +843,7 @@ Chroma Zero		2024-12-12
 Far Far West		2026-12-31
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
+Ratcheteer DX		2026-03-05
 Looney Landers		2025-02-05
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
@@ -851,6 +856,7 @@ The Trolley Solution		2025-09-12
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 GANGSTALK		2026-12-31
+Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 Relooted		2026-02-10
 NINJA GAIDEN 2 Black		2025-01-23
@@ -872,11 +878,10 @@ Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
-Forbidden Solitaire		2026-03-31
+Forbidden Solitaire		2026-04-30
 Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-12-31
-Lucid Blocks		2026-03-13
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
@@ -888,7 +893,6 @@ Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
-Funi Raccoon Game		2026-03-13
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
 Stray Children		2025-10-30
@@ -903,9 +907,11 @@ Sunfluffs		2025-07-14
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
+Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-06-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
+Blood Facsimile		2026-12-31
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
 CiniCross		2026-02-11
