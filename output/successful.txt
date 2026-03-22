@@ -290,7 +290,7 @@ Dragon Blazers		2025-11-10
 Hardspace: Shipbreaker		2022-05-24
 The Making of Karateka		2023-08-29
 Trepang2		2023-06-21
-Kiln		2026-12-31
+Kiln		2026-04-23
 Dead Static Drive		2025-11-05
 Mind		2022-04-25
 Teardown		2022-04-21
@@ -587,6 +587,7 @@ Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 Luna Abyss		2026-12-31
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
+goblinAmerica		2026-06-17
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
 OPUS: Prism Peak		2026-04-16
@@ -597,6 +598,7 @@ Diesel Legacy: The Brazen Age		2024-12-03
 Fear the Spotlight		2024-10-22
 Judero		2024-09-16
 20 Minutes Till Dawn		2023-06-08
+Enter the Chronosphere		2026-12-31
 Wild Woods		2024-12-09
 Jusant		2023-10-31
 Rebel Engine		2025-11-06
@@ -655,7 +657,7 @@ Splodey		2024-06-04
 At Fate's End		2026-12-31
 Tiny Lands 2		2025-11-06
 Europa		2024-10-11
-LEGO® Batman™: Legacy of the Dark Knight		2026-05-29
+LEGO® Batman™: Legacy of the Dark Knight		2026-05-22
 Ghost of Tsushima DIRECTOR'S CUT		2024-05-16
 Rivals of Aether II		2024-10-23
 Artisan TD		2024-07-22
@@ -664,7 +666,6 @@ Zet Zillions		2024-05-23
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
-RUBATO		2026-03-20
 Lovux		2023-07-07
 Tangy TD		2026-03-09
 Kulebra and the Souls of Limbo		2025-05-16
@@ -734,7 +735,6 @@ Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 DRAGON QUEST VII Reimagined		2026-02-05
-Bogdan's Cross		2026-12-31
 SoulQuest		2026-04-30
 SONIC X SHADOW GENERATIONS		2024-10-25
 INSECT		2026-02-25
@@ -817,7 +817,7 @@ over the hill		2026-12-31
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
-Sonic Rumble		2025-11-05
+Sonic Rumble Party		2025-11-05
 Panthalassa		2026-05-17
 PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
 Neon Inferno		2025-11-20
@@ -830,6 +830,7 @@ HOLE		2024-11-28
 Squirreled Away		2025-03-28
 Hypogea		2025-11-09
 Puck		2025-01-04
+TAMASHIKA		2026-04-09
 Day of the Shell		2025-07-29
 LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
@@ -859,6 +860,7 @@ GANGSTALK		2026-12-31
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 Relooted		2026-02-10
+Vampire Crawlers: The Turbo Wildcard from Vampire Survivors		2026-04-21
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-12-31
 NIGHT STRIKER GEAR		2025-10-22
@@ -911,6 +913,7 @@ Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-06-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
+Gamble With Your Friends		2026-06-30
 Blood Facsimile		2026-12-31
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
