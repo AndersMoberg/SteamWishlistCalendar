@@ -567,6 +567,7 @@ Mare		2022-04-01
 Mina the Hollower		2026-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
+Once Upon A KATAMARI		2025-10-23
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
 Light Odyssey		2026-12-31
@@ -830,7 +831,7 @@ HOLE		2024-11-28
 Squirreled Away		2025-03-28
 Hypogea		2025-11-09
 Puck		2025-01-04
-TAMASHIKA		2026-04-09
+TAMASHIKA		2026-04-10
 Day of the Shell		2025-07-29
 LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
@@ -862,7 +863,7 @@ Mycopunk		2025-07-10
 Relooted		2026-02-10
 Vampire Crawlers: The Turbo Wildcard from Vampire Survivors		2026-04-21
 NINJA GAIDEN 2 Black		2025-01-23
-Super Meat Boy 3D		2026-12-31
+Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
 Effulgence RPG		2025-12-02
@@ -888,6 +889,8 @@ Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
 Clawsome		2026-12-31
+Merge Maestro		2025-06-19
+Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
 Tricky and the Dream Caster		2027-12-31
 Vampire's Best Friend		2025-10-06
