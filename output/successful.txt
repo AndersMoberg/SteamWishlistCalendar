@@ -917,7 +917,7 @@ Antivirus Survivors 2003 Professional		2026-06-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-06-30
-Blood Facsimile		2026-12-31
+Blood Facsimile		2026-03-31
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
 CiniCross		2026-02-11
@@ -929,3 +929,4 @@ STAR WARS: Galactic Racer™		2026-12-31
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 Rift Wizard 3		2026-06-30
+veadotube		2026-12-31
