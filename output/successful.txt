@@ -148,7 +148,7 @@ Tunche		2021-11-02
 Shadow Brawlers		2019-12-13
 Death's Door		2021-07-20
 Project Wingman		2020-12-01
-Snap & Grab		2026-12-31
+Snap & Grab		2026-04-24
 Among Trees		2021-11-10
 Endling - Extinction is Forever		2022-07-19
 The Last Cube		2022-03-10
@@ -563,6 +563,7 @@ Mexico, 1921. A Deep Slumber.		2024-09-13
 In Sink: A Co-op Escape Adventure		2024-11-12
 Shadow Labyrinth		2025-07-17
 Beastieball		2024-11-12
+Morbid Metal		2026-04-08
 Mare		2022-04-01
 Mina the Hollower		2026-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
@@ -642,6 +643,7 @@ Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
+INDUSTRIA 2		2026-04-15
 Elation For The Wonder Box 6000		2026-09-30
 BIRDCAGE		2025-11-18
 CorpoNation: The Sorting Process		2024-02-22
@@ -736,7 +738,6 @@ Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 DRAGON QUEST VII Reimagined		2026-02-05
-SoulQuest		2026-04-30
 SONIC X SHADOW GENERATIONS		2024-10-25
 INSECT		2026-02-25
 HYNPYTOL		2023-09-22
@@ -799,7 +800,7 @@ Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 Screamer		2026-03-26
 HOP TOP		2024-02-27
-MOTORSLICE		2026-12-31
+MOTORSLICE		2026-05-31
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
@@ -849,7 +850,7 @@ Ratcheteer DX		2026-03-05
 Looney Landers		2025-02-05
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
-MINOS		2026-06-30
+MINOS		2026-04-09
 GEX Trilogy		2025-06-16
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
@@ -928,5 +929,6 @@ Super Battle Golf		2026-02-19
 STAR WARS: Galactic Racer™		2026-12-31
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
+PANLINE		2026-12-31
 Rift Wizard 3		2026-06-30
 veadotube		2026-12-31
