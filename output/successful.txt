@@ -545,7 +545,7 @@ Contract Rush DX		2025-07-30
 Mythmatch		2026-03-13
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
-Solarpunk™		2026-12-31
+Solarpunk™		2026-06-08
 Nine Sols		2024-05-29
 Escape Academy		2022-07-14
 NAIAD		2024-12-10
@@ -600,7 +600,7 @@ Diesel Legacy: The Brazen Age		2024-12-03
 Fear the Spotlight		2024-10-22
 Judero		2024-09-16
 20 Minutes Till Dawn		2023-06-08
-Enter the Chronosphere		2026-12-31
+Enter the Chronosphere		2026-06-30
 Wild Woods		2024-12-09
 Jusant		2023-10-31
 Rebel Engine		2025-11-06
@@ -643,7 +643,7 @@ Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
-INDUSTRIA 2		2026-04-15
+INDUSTRIA 2		2026-04-30
 Elation For The Wonder Box 6000		2026-09-30
 BIRDCAGE		2025-11-18
 CorpoNation: The Sorting Process		2024-02-22
@@ -691,7 +691,7 @@ Devil's Dive		2023-07-07
 Linkito		2024-07-23
 Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
-Neverway		2026-12-31
+Neverway		2026-10-31
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
@@ -703,6 +703,7 @@ You are Peter Shorts		2024-05-10
 Dungeon Clawler		2024-11-21
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
+Titanium Court		2026-04-23
 Castlevania Dominus Collection		2024-08-27
 Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
@@ -738,6 +739,7 @@ Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 DRAGON QUEST VII Reimagined		2026-02-05
+SoulQuest		2026-05-01
 SONIC X SHADOW GENERATIONS		2024-10-25
 INSECT		2026-02-25
 HYNPYTOL		2023-09-22
@@ -752,6 +754,7 @@ Diablo II: Resurrected – Infernal Edition		2026-02-11
 Just Crow Things		2024-08-15
 XF Extreme Formula		2024-06-11
 The Cable Guy		2024-02-29
+Duskfade		2026-12-31
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
@@ -838,12 +841,14 @@ LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
+Automaton Heart		2026-05-29
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
+Alabaster Dawn		2026-05-07
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Chroma Zero		2024-12-12
-Far Far West		2026-12-31
+Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
 Ratcheteer DX		2026-03-05
@@ -872,6 +877,7 @@ CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
+Thick As Thieves		2026-05-20
 BrebeMan		2026-02-12
 PRAGMATA		2026-04-17
 Outlaws + Handful of Missions: Remaster		2025-11-20
@@ -884,6 +890,7 @@ Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Forbidden Solitaire		2026-04-30
 Angry Video Game Nerd 8-bit		2025-10-23
+The House of Hikmah		2026-04-08
 Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-12-31
 Orb Tower		2025-03-10
@@ -924,8 +931,7 @@ Incredicer		2025-11-27
 CiniCross		2026-02-11
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
-Factory 95		2026-06-30
-Super Battle Golf		2026-02-19
+Factory 95		2026-04-22
 STAR WARS: Galactic Racer™		2026-12-31
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
