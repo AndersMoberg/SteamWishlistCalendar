@@ -231,7 +231,6 @@ Timberborn		2026-03-12
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
-Pax Autocratica		2026-05-08
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -613,7 +612,7 @@ Crow Country		2024-05-09
 Escape from Ever After		2026-01-23
 Skator Gator 3D		2023-08-31
 CATO: Buttered Cat		2024-09-06
-Beast of Reincarnation		2026-08-04
+Beast of Reincarnation		2026-08-03
 LIVE A LIVE		2023-04-27
 Rotwood		2026-03-03
 Leximan		2024-08-13
@@ -643,7 +642,7 @@ Hollowbody		2024-09-12
 SULFUR		2024-10-28
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
-INDUSTRIA 2		2026-04-30
+INDUSTRIA 2		2026-04-29
 Elation For The Wonder Box 6000		2026-09-30
 BIRDCAGE		2025-11-18
 CorpoNation: The Sorting Process		2024-02-22
@@ -671,7 +670,7 @@ Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
 Lovux		2023-07-07
 Tangy TD		2026-03-09
-Kulebra and the Souls of Limbo		2025-05-16
+Kulebra and the Souls of Limbo: Closure Edition		2025-05-16
 HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 The Karters 2: Turbo Charged		2025-07-17
@@ -762,7 +761,6 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2026-12-31
-Ghost Vanguard		2026-12-31
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
@@ -803,7 +801,7 @@ Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 Screamer		2026-03-26
 HOP TOP		2024-02-27
-MOTORSLICE		2026-05-31
+MOTORSLICE		2026-05-05
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
@@ -912,6 +910,7 @@ Stray Children		2025-10-30
 CONTROL Resonant		2026-12-31
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
+Penguin Colony		2026-12-31
 FriendOS		2026-12-31
 Q-UP		2025-11-05
 Vital Shell		2026-01-07
@@ -924,7 +923,7 @@ Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-06-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
-Gamble With Your Friends		2026-06-30
+Gamble With Your Friends		2026-05-01
 Blood Facsimile		2026-03-31
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
