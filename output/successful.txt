@@ -585,7 +585,7 @@ Barkour		2026-12-31
 #BLUD		2024-06-18
 Phantom Spark		2024-08-15
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
-Luna Abyss		2026-12-31
+Luna Abyss		2026-05-21
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
 goblinAmerica		2026-06-17
@@ -669,7 +669,6 @@ Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
 Lovux		2023-07-07
-Tangy TD		2026-03-09
 Kulebra and the Souls of Limbo: Closure Edition		2025-05-16
 HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
@@ -778,7 +777,7 @@ Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
 No Players Online		2025-11-06
-Map Map - A Game About Maps		2026-06-30
+Map Map - A Game About Maps		2026-05-28
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -899,6 +898,7 @@ Merge Maestro		2025-06-19
 Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
 Tricky and the Dream Caster		2027-12-31
+Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
