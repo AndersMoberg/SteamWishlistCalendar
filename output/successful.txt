@@ -312,7 +312,7 @@ House Flipper 2		2023-12-14
 Dogworld		2021-03-18
 Record of Lodoss War-Deedlit in Wonder Labyrinth-		2021-03-27
 UnMetal		2021-09-28
-Phonopolis		2026-12-31
+Phonopolis		2026-05-20
 Almighty: Kill Your Gods		2021-05-05
 Petal Crash		2020-10-12
 Coromon		2022-03-31
@@ -599,7 +599,7 @@ Diesel Legacy: The Brazen Age		2024-12-03
 Fear the Spotlight		2024-10-22
 Judero		2024-09-16
 20 Minutes Till Dawn		2023-06-08
-Enter the Chronosphere		2026-06-30
+Enter the Chronosphere		2026-05-14
 Wild Woods		2024-12-09
 Jusant		2023-10-31
 Rebel Engine		2025-11-06
@@ -698,14 +698,14 @@ BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-11-19
 You are Peter Shorts		2024-05-10
-Dungeon Clawler		2024-11-21
+Dungeon Clawler		2026-04-30
 Coreupt		2024-12-19
 SHINOBI: Art of Vengeance		2025-08-29
 Titanium Court		2026-04-23
 Castlevania Dominus Collection		2024-08-27
 Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
-Mariachi Legends		2026-06-30
+Mariachi Legends		2026-12-31
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-08
 Kid Chaos		2023-05-02
@@ -920,7 +920,7 @@ RACCOIN: Coin Pusher Roguelike		2026-03-31
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
-Antivirus Survivors 2003 Professional		2026-06-30
+Antivirus Survivors 2003 Professional		2026-09-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
@@ -931,7 +931,7 @@ CiniCross		2026-02-11
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-04-22
-STAR WARS: Galactic Racer™		2026-12-31
+STAR WARS: Galactic Racer™		2026-10-06
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 PANLINE		2026-12-31
