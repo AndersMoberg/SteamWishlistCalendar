@@ -533,6 +533,7 @@ Raster Prime [REMIX]		2021-09-13
 NeverAwake		2022-09-28
 Killing Time: Resurrected		2024-10-18
 Smack Studio		2024-07-31
+JellyCar Worlds		2022-12-08
 Petit Island		2024-11-14
 Momodora: Moonlit Farewell		2024-01-11
 Lushfoil Photography Sim		2025-04-15
@@ -564,7 +565,7 @@ Shadow Labyrinth		2025-07-17
 Beastieball		2024-11-12
 Morbid Metal		2026-04-08
 Mare		2022-04-01
-Mina the Hollower		2026-12-31
+Mina the Hollower		2026-05-29
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Once Upon A KATAMARI		2025-10-23
@@ -599,7 +600,7 @@ Diesel Legacy: The Brazen Age		2024-12-03
 Fear the Spotlight		2024-10-22
 Judero		2024-09-16
 20 Minutes Till Dawn		2023-06-08
-Enter the Chronosphere		2026-05-14
+Enter the Chronosphere		2026-05-25
 Wild Woods		2024-12-09
 Jusant		2023-10-31
 Rebel Engine		2025-11-06
@@ -650,6 +651,7 @@ Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
 BOWLOUT		2025-01-07
+Gurei		2026-07-23
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
 Tiny Glade		2024-09-23
@@ -669,6 +671,7 @@ Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
 Lovux		2023-07-07
+Tangy TD		2026-03-09
 Kulebra and the Souls of Limbo: Closure Edition		2025-05-16
 HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
@@ -743,7 +746,7 @@ INSECT		2026-02-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
-Desktop Explorer		2026-06-30
+Desktop Explorer		2026-09-30
 TEXNOPLAZM		2025-08-04
 Bloodthief		2025-09-22
 Yars Rising		2024-09-10
@@ -821,7 +824,7 @@ POOOOL		2024-06-08
 Ratatan		2025-09-18
 Sonic Rumble Party		2025-11-05
 Panthalassa		2026-05-17
-PVKK: Planetenverteidigungskanonenkommandant		2026-09-30
+PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 Neon Inferno		2025-11-20
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
@@ -902,7 +905,7 @@ Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
-Object Impermanence		2026-12-31
+Object Impermanence		2026-09-30
 Earthion		2025-07-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
@@ -917,6 +920,7 @@ Vital Shell		2026-01-07
 Neath		2026-12-31
 Sunfluffs		2025-07-14
 RACCOIN: Coin Pusher Roguelike		2026-03-31
+DERELIKT		2026-12-31
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
