@@ -143,6 +143,7 @@ The Cycle: Frontier		2022-06-08
 killer7		2018-11-15
 The Forgotten City		2021-07-28
 Salio		2019-03-22
+Guns 'n Goblins		2027-12-31
 Times and Galaxy		2024-06-21
 Tunche		2021-11-02
 Shadow Brawlers		2019-12-13
@@ -650,6 +651,7 @@ CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
 Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
+Corebreaker		2026-05-08
 BOWLOUT		2025-01-07
 Gurei		2026-07-23
 Bleak Sword DX		2023-06-08
@@ -736,6 +738,7 @@ Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
 Oberty		2024-02-07
 The Amazing Crackpots Club!		2026-02-11
+TetherGeist		2026-05-07
 Mouthwashing		2024-09-26
 Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
@@ -817,6 +820,7 @@ Desvelado		2024-08-14
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
+Dark Scrolls		2026-05-28
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
@@ -857,6 +861,7 @@ No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-04-09
 GEX Trilogy		2025-06-16
+City of None		2027-12-31
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
@@ -867,7 +872,6 @@ GANGSTALK		2026-12-31
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 Relooted		2026-02-10
-Vampire Crawlers: The Turbo Wildcard from Vampire Survivors		2026-04-21
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
