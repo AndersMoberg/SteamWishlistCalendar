@@ -149,7 +149,6 @@ Tunche		2021-11-02
 Shadow Brawlers		2019-12-13
 Death's Door		2021-07-20
 Project Wingman		2020-12-01
-Snap & Grab		2026-04-24
 Among Trees		2021-11-10
 Endling - Extinction is Forever		2022-07-19
 The Last Cube		2022-03-10
@@ -619,7 +618,7 @@ LIVE A LIVE		2023-04-27
 Rotwood		2026-03-03
 Leximan		2024-08-13
 CORPUS EDAX		2024-09-05
-Into The Unwell		2026-12-31
+Into The Unwell		2027-12-31
 Star Overdrive		2025-06-19
 Forgotlings		2026-02-17
 Wilmot Works It Out		2024-10-23
@@ -774,7 +773,6 @@ MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
 Sam & Max: The Devil's Playhouse		2024-08-14
 The Exit 8		2023-11-29
-Valkyrie Saga		2026-01-27
 WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
 Metaphor: ReFantazio		2024-10-11
@@ -820,14 +818,13 @@ Desvelado		2024-08-14
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
-Dark Scrolls		2026-05-28
+Dark Scrolls		2026-06-22
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
 Sonic Rumble Party		2025-11-05
-Panthalassa		2026-05-17
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 Neon Inferno		2025-11-20
 Cyclopean: The Great Abyss		2025-07-17
@@ -855,7 +852,6 @@ Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
-Ratcheteer DX		2026-03-05
 Looney Landers		2025-02-05
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
@@ -871,7 +867,6 @@ Egg Squeeze		2024-10-01
 GANGSTALK		2026-12-31
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
-Relooted		2026-02-10
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
@@ -881,7 +876,6 @@ CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2026-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
-Thick As Thieves		2026-05-20
 BrebeMan		2026-02-12
 PRAGMATA		2026-04-17
 Outlaws + Handful of Missions: Remaster		2025-11-20
@@ -894,7 +888,6 @@ Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Forbidden Solitaire		2026-04-30
 Angry Video Game Nerd 8-bit		2025-10-23
-The House of Hikmah		2026-04-08
 Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-12-31
 Orb Tower		2025-03-10
@@ -920,7 +913,6 @@ The New Flesh		2025-06-02
 Penguin Colony		2026-12-31
 FriendOS		2026-12-31
 Q-UP		2025-11-05
-Vital Shell		2026-01-07
 Neath		2026-12-31
 Sunfluffs		2025-07-14
 RACCOIN: Coin Pusher Roguelike		2026-03-31
@@ -933,9 +925,9 @@ YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
 Blood Facsimile		2026-03-31
+FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
-CiniCross		2026-02-11
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-04-22
