@@ -755,7 +755,7 @@ Yars Rising		2024-09-10
 Shadows of the Damned: Hella Remastered		2024-10-31
 Diablo II: Resurrected – Infernal Edition		2026-02-11
 Just Crow Things		2024-08-15
-XF Extreme Formula		2024-06-11
+XF Extreme Formula		2026-05-27
 The Cable Guy		2024-02-29
 Duskfade		2026-12-31
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
@@ -853,6 +853,7 @@ Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
 Looney Landers		2025-02-05
+Avante! Atlantis		2027-12-31
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-04-09
@@ -935,5 +936,6 @@ STAR WARS: Galactic Racer™		2026-10-06
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 PANLINE		2026-12-31
-Rift Wizard 3		2026-06-30
+Rift Wizard 3		2026-06-23
 veadotube		2026-12-31
+Mym's Sword		2026-12-31
