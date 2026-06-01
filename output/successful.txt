@@ -479,6 +479,7 @@ Terra Nil		2023-03-28
 Wreckreation		2025-10-28
 Victory Heat Rally		2024-10-03
 Tres-Bashers		2021-10-01
+Killer Bean		2026-06-08
 FREERIDE		2025-05-01
 Sackboy™: A Big Adventure		2022-10-27
 LOVE 3		2021-12-06
@@ -697,7 +698,6 @@ Neverway		2026-10-31
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
-PAC-MAN WORLD 2 Re-PAC		2025-09-25
 BLIGHTWRECK		2026-12-31
 Ra Ra BOOM		2025-08-12
 Moonlighter 2: The Endless Vault		2025-11-19
@@ -781,7 +781,6 @@ Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
 DRAGON QUEST III HD-2D Remake		2024-11-14
 No Players Online		2025-11-06
-Map Map - A Game About Maps		2026-05-28
 Duck Detective: The Ghost of Glamping		2025-05-22
 Star Birds		2025-09-10
 WHAT THE CAR?		2024-09-09
@@ -802,6 +801,7 @@ Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
+The Remake of the End of the Greatest RPG of All Time		2026-05-28
 Screamer		2026-03-26
 HOP TOP		2024-02-27
 MOTORSLICE		2026-05-05
@@ -842,7 +842,6 @@ LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
 Herdling		2025-08-21
-Automaton Heart		2026-05-29
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
