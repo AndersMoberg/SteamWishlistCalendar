@@ -249,7 +249,7 @@ Unexplored 2: The Wayfarer's Legacy		2022-05-27
 Skellboy Refractured		2021-01-13
 The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
-Wind Runners		2026-12-31
+Wind Runners		2026-09-23
 Shing!		2020-08-28
 Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
@@ -520,7 +520,7 @@ Warden's Will		2025-01-08
 Sky Oceans: Wings for Hire		2024-10-10
 Fortune's Run		2023-09-28
 Supplice		2023-04-06
-The Mermaid Mask		2026-12-31
+The Mermaid Mask		2026-07-16
 Lake Haven - Chrysalis		2023-01-18
 Teslagrad 2		2023-04-19
 Lunistice		2022-11-10
@@ -748,7 +748,7 @@ INSECT		2026-02-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
 Gears of War: Reloaded		2025-08-26
-Desktop Explorer		2026-09-30
+Desktop Explorer		2026-07-17
 TEXNOPLAZM		2025-08-04
 Bloodthief		2025-09-22
 Yars Rising		2024-09-10
@@ -757,7 +757,7 @@ Diablo II: Resurrected – Infernal Edition		2026-02-11
 Just Crow Things		2024-08-15
 XF Extreme Formula		2026-05-27
 The Cable Guy		2024-02-29
-Duskfade		2026-12-31
+Duskfade		2026-08-13
 Tony Hawk's™ Pro Skater™ 3 + 4		2025-07-11
 KINGDOM HEARTS HD 2.8 Final Chapter Prologue		2024-06-13
 KINGDOM HEARTS III + Re Mind (DLC)		2024-06-13
@@ -897,17 +897,19 @@ Clawsome		2026-12-31
 Merge Maestro		2025-06-19
 Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
+Tomb Raider: Legacy of Atlantis		2027-02-12
 Tricky and the Dream Caster		2027-12-31
 Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
-Object Impermanence		2026-09-30
+Object Impermanence		2026-12-31
 Earthion		2025-07-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
+Truck-kun is Supporting Me from Another World?!		2026-07-29
 Stray Children		2025-10-30
-CONTROL Resonant		2026-12-31
+CONTROL Resonant		2026-09-24
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Penguin Colony		2026-12-31
@@ -935,6 +937,7 @@ STAR WARS: Galactic Racer™		2026-10-06
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 PANLINE		2026-12-31
+FISH		2026-06-22
 Rift Wizard 3		2026-06-23
 veadotube		2026-12-31
 Mym's Sword		2026-12-31
