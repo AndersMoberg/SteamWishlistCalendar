@@ -231,6 +231,7 @@ Timberborn		2026-03-12
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
+Pax Autocratica		2026-09-30
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -330,7 +331,7 @@ A Little Golf Journey		2021-10-14
 Isles of Sea and Sky		2024-05-22
 Oddventure		2025-04-03
 Genokids		2025-10-02
-Sea of Stars		2023-08-29
+Sea of Stars: Sunset Edition		2023-08-29
 Golden Light		2022-03-11
 Sephonie		2022-04-12
 American Arcadia		2023-11-15
@@ -428,7 +429,7 @@ FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 The Knightling		2025-08-28
 Ghostwire: Tokyo		2022-03-25
-Big Walk		2026-12-31
+Big Walk		2026-08-04
 AK-xolotl: Together		2023-09-14
 Fake Racing		2022-06-23
 Cosmo Clash		2022-12-21
@@ -636,12 +637,14 @@ Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
 Quest Master		2024-05-29
 Pile Up!		2025-07-23
+Lou's Lagoon		2026-08-27
 Mediterranea Inferno		2023-08-24
 Sektori		2025-11-18
 Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
+HYPER PRIMATE		2026-07-17
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
 INDUSTRIA 2		2026-04-29
@@ -686,6 +689,7 @@ Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 Super Fantasy Kingdom		2025-10-24
 Claire a la Mode		2025-11-17
+The Button Effect		2026-08-31
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -710,6 +714,7 @@ Castlevania Dominus Collection		2024-08-27
 Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
 Mariachi Legends		2026-12-31
+Signy & Mino: Against All Gods		2026-07-30
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-08
 Kid Chaos		2023-05-02
@@ -727,6 +732,7 @@ Neva		2024-10-15
 Calcium Contract		2023-10-17
 Golden Chambers		2025-05-12
 A Void Hope		2024-02-29
+Clockwork Revolution		2027-12-31
 Concord™		2024-08-23
 Dark Deity 2		2025-03-24
 Ouros		2024-05-22
@@ -735,6 +741,7 @@ Sword of the Sea		2025-08-19
 Towerful Defense: A Rogue TD		2024-07-29
 Avowed		2025-02-18
 SPGP Super Polygon Grand Prix		2024-08-06
+Fading Echo		2026-07-21
 Oberty		2024-02-07
 The Amazing Crackpots Club!		2026-02-11
 TetherGeist		2026-05-07
@@ -775,7 +782,9 @@ Sam & Max: The Devil's Playhouse		2024-08-14
 The Exit 8		2023-11-29
 WORMHOLE		2024-10-31
 Brush Burial		2023-12-01
+Witchspire		2026-06-10
 Metaphor: ReFantazio		2024-10-11
+PAPERHEAD		2026-09-18
 Mind Over Magnet		2024-11-13
 Suika Shapes		2023-11-27
 Detective Instinct: Farewell, My Beloved		2025-11-26
@@ -796,6 +805,7 @@ ANEURISM IV		2025-03-11
 FREAKHUNTER		2024-01-26
 Disillusion ST		2024-10-26
 Asgard's Fall — Viking Survivors		2025-04-09
+Teeto		2026-07-15
 9 Kings		2025-05-23
 Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
@@ -813,6 +823,7 @@ FANTASIAN Neo Dimension		2024-12-05
 Tomba! Special Edition		2024-08-01
 Chocolate Factory		2024-06-18
 Let's Minesweeper		2024-07-24
+NBA THE RUN		2026-06-09
 Pipistrello and the Cursed Yoyo		2025-05-28
 Desvelado		2024-08-14
 GRUEL		2025-03-05
@@ -833,6 +844,8 @@ PowerWash Simulator 2		2025-10-23
 Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
+PRISON OF HUSKS		2026-12-31
+Shape Sender Deluxe		2026-12-31
 Squirreled Away		2025-03-28
 Hypogea		2025-11-09
 Puck		2025-01-04
@@ -841,6 +854,7 @@ Day of the Shell		2025-07-29
 LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Breakout Beyond		2025-03-25
+L8R SK8R		2026-12-31
 Herdling		2025-08-21
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
@@ -851,6 +865,7 @@ Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
+Hela: of Mice & Magic		2026-12-31
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
 No, I'm not a Human		2025-09-15
@@ -864,13 +879,15 @@ Anthology Of The Killer		2024-10-08
 The Trolley Solution		2025-09-12
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
-GANGSTALK		2026-12-31
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
+THE LIFT: Supernatural Handyman Simulator		2027-12-31
+MONOMOON		2026-09-30
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
+Escape Academy 2: Back 2 School		2026-09-30
 Effulgence RPG		2025-12-02
 CloverPit		2025-09-26
 Blippo+		2025-09-23
@@ -887,8 +904,10 @@ Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
 Kero Quest 64		2026-12-31
 Forbidden Solitaire		2026-04-30
+The Greenening		2026-05-07
 Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
+DOOM: The Dark Ages | Revelations		2026-07-07
 Stupid Never Dies		2026-12-31
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
@@ -899,16 +918,20 @@ Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
 Tomb Raider: Legacy of Atlantis		2027-02-12
 Tricky and the Dream Caster		2027-12-31
+Cozy Game Restoration		2026-09-24
 Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
+Cloudbreaker		2026-12-31
 April Grove		2025-06-23
 Slots & Daggers		2025-10-24
+DWARRF: A Pinball Roguelike		2026-08-21
 Truck-kun is Supporting Me from Another World?!		2026-07-29
 Stray Children		2025-10-30
+Marsupilami 2 - Salsa Palombia		2026-09-03
 CONTROL Resonant		2026-09-24
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
@@ -917,8 +940,11 @@ FriendOS		2026-12-31
 Q-UP		2025-11-05
 Neath		2026-12-31
 Sunfluffs		2025-07-14
+Colorbound		2026-08-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
+Expendabots		2026-12-31
 DERELIKT		2026-12-31
+Tiny Delivery		2026-09-30
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
@@ -926,6 +952,7 @@ Antivirus Survivors 2003 Professional		2026-09-30
 YAPYAP		2026-02-03
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
+WheelMates		2026-09-07
 Blood Facsimile		2026-03-31
 FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
@@ -933,10 +960,14 @@ Incredicer		2025-11-27
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Factory 95		2026-04-22
+Attack of the Astrals		2026-12-31
+Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
+Rayman Legends Retold		2026-10-01
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 PANLINE		2026-12-31
+AGX GP		2026-09-30
 FISH		2026-06-22
 Rift Wizard 3		2026-06-23
 veadotube		2026-12-31
