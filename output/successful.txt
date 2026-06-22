@@ -591,7 +591,6 @@ Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars		2025-03-06
 Luna Abyss		2026-05-21
 SOPA - Tale of the Stolen Potato		2025-10-07
 FROGUE		2024-02-14
-goblinAmerica		2026-06-17
 Katana Rama		2023-09-14
 Kitsune Zero / Super Bernie World		2022-09-12
 OPUS: Prism Peak		2026-04-16
@@ -799,6 +798,7 @@ Death Machine		2026-01-06
 Goblin Cleanup		2025-09-18
 Solar Storm		2024-04-03
 Arctic Eggs		2024-05-16
+PengPong		2026-08-31
 Saborus		2025-11-20
 ATLYSS		2024-11-22
 ANEURISM IV		2025-03-11
@@ -816,6 +816,7 @@ Screamer		2026-03-26
 HOP TOP		2024-02-27
 MOTORSLICE		2026-05-05
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
+Cozy Marbles		2026-12-31
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
 ASTROLANCER		2024-04-19
@@ -909,6 +910,7 @@ Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
 DOOM: The Dark Ages | Revelations		2026-07-07
 Stupid Never Dies		2026-12-31
+Magical Blush		2026-09-30
 Orb Tower		2025-03-10
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
@@ -925,8 +927,10 @@ Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
+Cool Game Pack		2026-07-31
 Cloudbreaker		2026-12-31
 April Grove		2025-06-23
+Prophet Margin		2026-09-09
 Slots & Daggers		2025-10-24
 DWARRF: A Pinball Roguelike		2026-08-21
 Truck-kun is Supporting Me from Another World?!		2026-07-29
@@ -950,25 +954,38 @@ Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-09-30
 YAPYAP		2026-02-03
+About Fishing		2026-12-31
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
 WheelMates		2026-09-07
 Blood Facsimile		2026-03-31
+Dicevaders		2026-12-31
 FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
 RV There Yet?		2025-10-21
+HYPER DETONATOR		2026-09-30
 Apparatus: Exanimus		2025-11-07
+Poly Fighter		2026-12-31
 Factory 95		2026-04-22
 Attack of the Astrals		2026-12-31
+BASED		2026-12-31
 Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
 Rayman Legends Retold		2026-10-01
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
+ORPHEUS: TO HELL AND BACK		2026-07-31
 PANLINE		2026-12-31
-AGX GP		2026-09-30
+GemCraft - Legacy Collection		2026-12-31
+BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
+AGX GP		2026-12-31
 FISH		2026-06-22
+EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
+Reason and Rhyme		2026-12-31
+Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 veadotube		2026-12-31
+walk		2026-09-30
+Lazy Kickers		2026-07-13
 Mym's Sword		2026-12-31
