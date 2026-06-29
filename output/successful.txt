@@ -231,7 +231,7 @@ Timberborn		2026-03-12
 UNSIGHTED		2021-09-30
 Vane		2019-07-22
 Evil West		2022-11-21
-Pax Autocratica		2026-09-30
+Pax Autocratica		2026-08-10
 Röki		2020-07-23
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
@@ -465,9 +465,9 @@ the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
 Dread Delusion		2024-05-14
 SPOOKWARE		2021-08-26
+Agent 64: Spies Never Die		2026-12-31
 Frogun		2022-08-02
 Wander Stars		2025-09-19
-Gunbrella		2023-09-13
 Bittersweet Birthday		2025-11-11
 Caravan SandWitch		2024-09-12
 Melatonin		2022-12-15
@@ -579,7 +579,7 @@ Slave Zero X		2024-02-22
 Absolum		2025-10-09
 Psycho Patrol R		2025-03-24
 Terra Memoria		2024-03-27
-Tears of Metal		2026-12-31
+Tears of Metal		2026-07-22
 Elevator Action™ -Returns- S-Tribute		2022-11-30
 SUPER BOMBERMAN R 2		2023-09-13
 Sociable Soccer 24		2023-11-16
@@ -643,7 +643,7 @@ Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
 SULFUR		2024-10-28
-HYPER PRIMATE		2026-07-17
+HYPER PRIMATE		2026-08-20
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
 INDUSTRIA 2		2026-04-29
@@ -749,11 +749,9 @@ Sonic Racing: CrossWorlds		2025-09-25
 Visions of Mana		2024-08-29
 DRAGON QUEST VII Reimagined		2026-02-05
 SoulQuest		2026-05-01
-SONIC X SHADOW GENERATIONS		2024-10-25
 INSECT		2026-02-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
-Gears of War: Reloaded		2025-08-26
 Desktop Explorer		2026-07-17
 TEXNOPLAZM		2025-08-04
 Bloodthief		2025-09-22
@@ -830,7 +828,6 @@ Desvelado		2024-08-14
 GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
-Dark Scrolls		2026-06-22
 Extinction Rifts		2025-09-18
 over the hill		2026-12-31
 Nightmare Kart		2024-06-05
@@ -867,6 +864,7 @@ Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
 Hela: of Mice & Magic		2026-12-31
+Low-Budget Repairs		2026-08-13
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
 No, I'm not a Human		2025-09-15
