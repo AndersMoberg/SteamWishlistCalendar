@@ -420,6 +420,7 @@ Teacup		2021-09-23
 MONSTER HUNTER RISE		2022-01-12
 Arcus Chroma: Classic		2024-05-30
 At Dead Of Night		2020-11-19
+Lawyer Guy: Defender of Justice		2020-11-06
 Curse of the Sea Rats		2023-04-06
 Chenso Club		2022-09-01
 Dorfromantik		2022-04-28
@@ -436,7 +437,7 @@ Cosmo Clash		2022-12-21
 Dead Estate		2021-10-19
 Hoa		2021-08-24
 Zen World		2021-10-07
-Nivalis		2026-12-31
+Nivalis Nights		2026-09-29
 Astronite		2022-11-30
 We Are OFK		2022-08-18
 Binarystar Infinity		2021-02-04
