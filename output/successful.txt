@@ -86,6 +86,7 @@ Rising Hell		2021-05-19
 救う(SHE SAVE)		2017-07-14
 Bomb Chicken		2019-04-16
 Super Farming Boy		2025-08-12
+Killer Queen Black		2019-10-11
 AMID EVIL		2019-06-20
 Fight'N Rage		2017-09-19
 Gone Viral		2021-08-31
@@ -807,11 +808,12 @@ Blood Typers		2025-02-20
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 The Remake of the End of the Greatest RPG of All Time		2026-05-28
+PAGER		2025-08-06
 Screamer		2026-03-26
 HOP TOP		2024-02-27
 MOTORSLICE		2026-05-05
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
-Cozy Marbles		2026-12-31
+Cozy Marbles		2026-08-20
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
 ASTROLANCER		2024-04-19
@@ -862,6 +864,7 @@ Hela: of Mice & Magic		2026-12-31
 Low-Budget Repairs		2026-08-13
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
+Royalty Free-For-All		2026-08-11
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-04-09
@@ -885,7 +888,7 @@ Escape Academy 2: Back 2 School		2026-09-30
 Effulgence RPG		2025-12-02
 CloverPit		2025-09-26
 Blippo+		2025-09-23
-Leap Galaxy		2026-12-31
+Leap Galaxy		2027-12-31
 TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-		2025-04-04
 BrebeMan		2026-02-12
 PRAGMATA		2026-04-17
@@ -908,6 +911,7 @@ BENBOWARS		2026-12-31
 Frostrail		2026-12-31
 Clawsome		2026-12-31
 Merge Maestro		2025-06-19
+ STICKER/BALL		2026-05-04
 Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
 Tomb Raider: Legacy of Atlantis		2027-02-12
@@ -921,8 +925,9 @@ Object Impermanence		2026-12-31
 Earthion		2025-07-31
 Cool Game Pack		2026-07-10
 Cloudbreaker		2026-12-31
+Pro Jank Footy		2026-08-12
 April Grove		2025-06-23
-Prophet Margin		2026-09-09
+Prophet Margin		2026-10-31
 Slots & Daggers		2025-10-24
 DWARRF: A Pinball Roguelike		2026-08-21
 Truck-kun is Supporting Me from Another World?!		2026-07-29
@@ -950,7 +955,7 @@ About Fishing		2026-12-31
 METAL GEAR SOLID: MASTER COLLECTION Vol.2		2026-08-27
 Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
-WheelMates		2026-09-07
+WheelMates		2026-09-01
 Blood Facsimile		2026-03-31
 Dicevaders		2026-12-31
 FISH³: FIRST CATCH		2025-11-06
@@ -967,6 +972,7 @@ Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
 Rayman Legends Retold		2026-10-01
 Uktena 64 - Ultimate		2025-11-24
+VHOLUME		2026-08-21
 Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
@@ -982,5 +988,5 @@ Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 Dear Passengers		2026-12-31
 veadotube		2026-12-31
 walk		2026-07-18
-Lazy Kickers		2026-07-13
+Dog of Wisdom		2026-07-23
 Mym's Sword		2026-12-31
