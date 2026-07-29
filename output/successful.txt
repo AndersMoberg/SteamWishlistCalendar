@@ -144,7 +144,7 @@ The Cycle: Frontier		2022-06-08
 killer7		2018-11-15
 The Forgotten City		2021-07-28
 Salio		2019-03-22
-Guns 'n Goblins		2027-12-31
+Guns 'n Goblins		2027-06-30
 Times and Galaxy		2024-06-21
 Tunche		2021-11-02
 Shadow Brawlers		2019-12-13
@@ -415,7 +415,7 @@ Lorn's Lure		2024-09-20
 Retchid		2023-08-18
 Battle Shapers		2024-12-04
 Rise of the Triad: Ludicrous Edition		2023-07-31
-Akatori		2026-12-31
+Akatori		2026-08-05
 R-Type Final 2		2021-04-30
 Teacup		2021-09-23
 MONSTER HUNTER RISE		2022-01-12
@@ -437,7 +437,7 @@ Fake Racing		2022-06-23
 Cosmo Clash		2022-12-21
 Dead Estate		2021-10-19
 Hoa		2021-08-24
-Zen World		2021-10-07
+Zen World		2026-07-28
 Nivalis Nights		2026-09-29
 Astronite		2022-11-30
 We Are OFK		2022-08-18
@@ -655,7 +655,7 @@ Persona 3 Reload		2024-02-02
 DREAMWILD		2022-10-31
 Corebreaker		2026-05-08
 BOWLOUT		2025-01-07
-Gurei		2026-07-23
+Gurei		2026-07-22
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
 Tiny Glade		2024-09-23
@@ -688,7 +688,7 @@ Runa & the Chaikurú Legacy		2025-01-29
 Elephantasy: Flipside		2023-02-28
 Super Fantasy Kingdom		2025-10-24
 Claire a la Mode		2025-11-17
-The Button Effect		2026-08-31
+The Button Effect		2027-03-31
 Painkiller		2025-10-21
 Growth		2023-10-16
 Death of a Wish		2024-03-11
@@ -728,6 +728,7 @@ Rogue Labyrinth		2025-09-01
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Escape Simulator: Magic DLC		2024-02-22
 Neva		2024-10-15
+Blood Dungeon		2026-08-25
 Golden Chambers		2025-05-12
 A Void Hope		2024-02-29
 Clockwork Revolution		2027-12-31
@@ -940,6 +941,7 @@ Penguin Colony		2026-12-31
 FriendOS		2026-12-31
 Q-UP		2025-11-05
 Neath		2026-12-31
+S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
 Colorbound		2026-08-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
@@ -988,5 +990,5 @@ Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 Dear Passengers		2026-12-31
 veadotube		2026-12-31
 walk		2026-07-18
-Dog of Wisdom		2026-07-23
+Dog of Wisdom		2026-07-28
 Mym's Sword		2026-12-31
