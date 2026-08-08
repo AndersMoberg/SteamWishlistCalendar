@@ -234,6 +234,7 @@ Vane		2019-07-22
 Evil West		2022-11-21
 Pax Autocratica		2026-08-10
 Röki		2020-07-23
+He Who Watches		2026-09-02
 Freshly Frosted		2022-06-10
 Falcon Age		2020-10-08
 Weaving Tides		2021-05-27
@@ -430,7 +431,6 @@ FINAL FANTASY VII REMAKE INTERGRADE		2022-06-17
 Space Station Sprint		2021-08-27
 The Knightling		2025-08-28
 Ghostwire: Tokyo		2022-03-25
-Big Walk		2026-08-04
 AK-xolotl: Together		2023-09-14
 Fake Racing		2022-06-23
 Cosmo Clash		2022-12-21
@@ -557,7 +557,7 @@ Hole in the Clouds		2022-08-26
 Monkey Barrels		2022-09-26
 Flintlock: The Siege of Dawn		2024-07-18
 Station Manager		2022-03-28
-Rogue Point		2026-02-12
+Rogue Point		2026-08-04
 WAVECADE		2022-07-10
 Uncle Chop's Rocket Shop		2024-12-05
 Mexico, 1921. A Deep Slumber.		2024-09-13
@@ -624,6 +624,7 @@ Forgotlings		2026-02-17
 Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
+Serious Sam: Shatterverse		2026-08-31
 RetroSpace		2026-12-31
 High On Life 2		2026-02-13
 Voidborn		2025-04-07
@@ -899,7 +900,7 @@ Zexion		2025-03-21
 Mashina		2025-07-31
 Guilty as Sock!		2025-05-29
 Megabonk		2025-09-18
-Kero Quest 64		2026-12-31
+Kero Quest 64		2027-12-31
 Forbidden Solitaire		2026-04-30
 The Greenening		2026-05-07
 Angry Video Game Nerd 8-bit		2025-10-23
@@ -916,7 +917,7 @@ Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
 Tomb Raider: Legacy of Atlantis		2027-02-12
 Tricky and the Dream Caster		2027-12-31
-Cozy Game Restoration		2026-09-24
+Cozy Game Restoration		2026-11-04
 Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
@@ -924,7 +925,7 @@ Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
 Cool Game Pack		2026-07-10
-Cloudbreaker		2026-12-31
+Cloudbreaker		2026-09-15
 Pro Jank Footy		2026-08-12
 April Grove		2025-06-23
 Prophet Margin		2026-10-31
@@ -941,11 +942,10 @@ Q-UP		2025-11-05
 Neath		2026-12-31
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
-Colorbound		2026-08-31
+Colorbound		2026-10-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Expendabots		2026-12-31
 DERELIKT		2026-12-31
-Tiny Delivery		2026-09-30
 CICADAMATA"		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
@@ -971,19 +971,20 @@ Attack of the Astrals		2026-12-31
 Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
 Rayman Legends Retold		2026-10-01
+Slayblade		2026-08-20
 Uktena 64 - Ultimate		2025-11-24
 VHOLUME		2026-08-21
 Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
-Ultrapool		2026-08-25
+Ultrapool		2026-08-24
 GemCraft - Legacy Collection		2026-12-31
 BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
 AGX GP		2026-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
-Reason and Rhyme		2026-12-31
+Reason and Rhyme		2026-10-01
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 Dear Passengers		2026-12-31
 veadotube		2026-12-31
