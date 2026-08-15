@@ -319,7 +319,7 @@ Almighty: Kill Your Gods		2021-05-05
 Petal Crash		2020-10-12
 Coromon		2022-03-31
 Blue Fire		2021-02-04
-Big Hops		2026-01-12
+Big Hops Together		2026-01-12
 Necromunda: Hired Gun		2021-05-31
 Umurangi Generation		2020-05-19
 Sea of Solitude		2020-06-04
@@ -466,7 +466,6 @@ the Sequence [2]		2021-11-12
 Berserk Boy		2024-03-06
 Dread Delusion		2024-05-14
 SPOOKWARE		2021-08-26
-Agent 64: Spies Never Die		2026-08-11
 Frogun		2022-08-02
 Wander Stars		2025-09-19
 Bittersweet Birthday		2025-11-11
@@ -648,7 +647,6 @@ HYPER PRIMATE		2026-08-20
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
 INDUSTRIA 2		2026-04-29
-Elation For The Wonder Box 6000		2026-09-30
 BIRDCAGE		2025-11-18
 CorpoNation: The Sorting Process		2024-02-22
 Aero GPX		2024-08-06
@@ -660,6 +658,7 @@ Gurei		2026-07-22
 Bleak Sword DX		2023-06-08
 Wizard of Legend 2		2025-06-12
 Tiny Glade		2024-09-23
+Crescent County		2027-12-31
 Hardhat Wombat		2023-10-26
 BURGGEIST		2024-10-14
 Splodey		2024-06-04
@@ -769,6 +768,7 @@ Soul Drifter		2024-10-10
 Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2026-12-31
+Woodo		2026-09-16
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
@@ -828,7 +828,7 @@ GRUEL		2025-03-05
 Nitronauts		2025-04-04
 Platypus Reclayed		2025-09-18
 Extinction Rifts		2025-09-18
-over the hill		2026-12-31
+over the hill		2026-10-14
 Nightmare Kart		2024-06-05
 POOOOL		2024-06-08
 Ratatan		2025-09-18
@@ -865,7 +865,6 @@ Hela: of Mice & Magic		2026-12-31
 Low-Budget Repairs		2026-08-13
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
-Royalty Free-For-All		2026-08-11
 No, I'm not a Human		2025-09-15
 Tetris® Forever		2024-11-12
 MINOS		2026-04-09
@@ -908,6 +907,7 @@ Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-10-21
 Magical Blush		2026-09-30
 Orb Tower		2025-03-10
+Normal Golf Game		2026-09-21
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
 Clawsome		2026-12-31
@@ -939,14 +939,14 @@ The New Flesh		2025-06-02
 Penguin Colony		2026-12-31
 FriendOS		2026-12-31
 Q-UP		2025-11-05
-Neath		2026-12-31
+SPRAWL zero		2026-09-08
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
 Colorbound		2026-10-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Expendabots		2026-12-31
 DERELIKT		2026-12-31
-CICADAMATA"		2026-12-31
+CICADAMATA"		2026-08-21
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-09-30
