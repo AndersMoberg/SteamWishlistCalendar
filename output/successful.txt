@@ -44,6 +44,7 @@ Manifold Garden		2020-10-20
 Scanner Sombre		2017-04-26
 System Shock		2023-05-30
 Deios II // DEIDIA		2016-12-08
+Order of the Sinking Star		2026-10-08
 Eximius: Seize the Frontline		2021-03-16
 Redout: Enhanced Edition		2016-09-02
 Pool Panic		2018-07-19
@@ -624,7 +625,7 @@ Wilmot Works It Out		2024-10-23
 Tokyo Underground Killer		2025-09-05
 Squirrel with a Gun		2024-08-29
 Serious Sam: Shatterverse		2026-08-31
-RetroSpace		2026-12-31
+RetroSpace		2026-10-01
 High On Life 2		2026-02-13
 Voidborn		2025-04-07
 Word Factori		2023-08-03
@@ -697,7 +698,7 @@ Devil's Dive		2023-07-07
 Linkito		2024-07-23
 Constance		2025-11-24
 Little Big Adventure – Twinsen’s Quest		2024-11-14
-Neverway		2026-10-31
+Neverway		2027-12-31
 A Corgi's Cozy Hike		2025-08-30
 StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
@@ -849,6 +850,7 @@ TAMASHIKA		2026-04-10
 Day of the Shell		2025-07-29
 LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
+Car Park Capital		2026-10-09
 Breakout Beyond		2025-03-25
 L8R SK8R		2026-12-31
 Herdling		2025-08-21
@@ -884,7 +886,8 @@ NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
-Escape Academy 2: Back 2 School		2026-09-30
+Memoirium		2026-08-13
+Escape Academy 2: Back 2 School		2026-11-30
 Effulgence RPG		2025-12-02
 CloverPit		2025-09-26
 Blippo+		2025-09-23
@@ -905,12 +908,12 @@ The Greenening		2026-05-07
 Angry Video Game Nerd 8-bit		2025-10-23
 Aerial_Knight's DropShot		2026-02-17
 Stupid Never Dies		2026-10-21
-Magical Blush		2026-09-30
+Magical Blush		2026-09-10
 Orb Tower		2025-03-10
 Normal Golf Game		2026-09-21
 BENBOWARS		2026-12-31
 Frostrail		2026-12-31
-Clawsome		2026-12-31
+Clawsome		2027-12-31
 Merge Maestro		2025-06-19
  STICKER/BALL		2026-05-04
 Metal Garden		2025-03-21
@@ -961,7 +964,6 @@ Dicevaders		2026-12-31
 FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
-Click the Button		2026-08-21
 RV There Yet?		2025-10-21
 HYPER DETONATOR		2026-09-30
 Apparatus: Exanimus		2025-11-07
@@ -973,7 +975,6 @@ STAR WARS: Galactic Racer™		2026-10-06
 Rayman Legends Retold		2026-10-01
 Slayblade		2026-08-20
 Uktena 64 - Ultimate		2025-11-24
-VHOLUME		2026-08-21
 Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
@@ -984,9 +985,10 @@ AGX GP		2026-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
-Reason and Rhyme		2026-10-01
+Reason and Rhyme		2026-10-15
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 Dear Passengers		2026-12-31
 veadotube		2026-12-31
 walk		2026-07-18
+HYPERDROP: A Pachinko Roguelite		2027-12-31
 Mym's Sword		2026-12-31
