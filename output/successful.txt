@@ -635,6 +635,7 @@ KinitoPET		2024-01-09
 Pepper Grinder		2024-03-28
 Perfect Tides: Station to Station		2026-01-22
 Picayune Dreams		2023-12-04
+Alpha Response		2024-10-08
 Quest Master		2024-05-29
 Pile Up!		2025-07-23
 Lou's Lagoon		2026-08-27
@@ -713,7 +714,7 @@ Titanium Court		2026-04-23
 Castlevania Dominus Collection		2024-08-27
 Moonring		2023-09-28
 Nikoderiko: The Magical World — Director’s Cut		2024-12-05
-Mariachi Legends		2026-12-31
+Mariachi Legends		2027-04-27
 Signy & Mino: Against All Gods		2026-07-30
 Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-08
@@ -729,7 +730,6 @@ Rogue Labyrinth		2025-09-01
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Escape Simulator: Magic DLC		2024-02-22
 Neva		2024-10-15
-Blood Dungeon		2026-08-25
 Golden Chambers		2025-05-12
 A Void Hope		2024-02-29
 Clockwork Revolution		2027-12-31
@@ -807,6 +807,7 @@ Teeto		2026-07-15
 9 Kings		2025-05-23
 Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
+The Magus Circle		2026-10-31
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 The Remake of the End of the Greatest RPG of All Time		2026-05-28
@@ -815,7 +816,6 @@ Screamer		2026-03-26
 HOP TOP		2024-02-27
 MOTORSLICE		2026-05-05
 Indiana Jones and the Great Circle™: The Order of Giants		2024-12-09
-Cozy Marbles		2026-08-20
 Great God Grove		2024-11-15
 Star Wars Outlaws		2024-11-21
 ASTROLANCER		2024-04-19
@@ -912,6 +912,7 @@ Magical Blush		2026-09-10
 Orb Tower		2025-03-10
 Normal Golf Game		2026-09-21
 BENBOWARS		2026-12-31
+Allumeria		2026-08-28
 Frostrail		2026-12-31
 Clawsome		2027-12-31
 Merge Maestro		2025-06-19
@@ -939,7 +940,7 @@ Marsupilami 2 - Salsa Palombia		2026-09-03
 CONTROL Resonant		2026-09-24
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
-Penguin Colony		2026-12-31
+Penguin Colony		2026-10-09
 FriendOS		2026-12-31
 Q-UP		2025-11-05
 SPRAWL zero		2026-09-08
@@ -949,7 +950,6 @@ Colorbound		2026-10-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Expendabots		2026-12-31
 DERELIKT		2026-12-31
-CICADAMATA"		2026-08-21
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
 Antivirus Survivors 2003 Professional		2026-09-30
@@ -964,6 +964,7 @@ Dicevaders		2026-12-31
 FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
+Click the Button		2026-08-26
 RV There Yet?		2025-10-21
 HYPER DETONATOR		2026-09-30
 Apparatus: Exanimus		2025-11-07
@@ -972,7 +973,6 @@ Factory 95		2026-04-22
 Attack of the Astrals		2026-12-31
 Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
-Rayman Legends Retold		2026-10-01
 Slayblade		2026-08-20
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
