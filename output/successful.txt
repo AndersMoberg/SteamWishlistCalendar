@@ -253,7 +253,7 @@ Unexplored 2: The Wayfarer's Legacy		2022-05-27
 Skellboy Refractured		2021-01-13
 The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
-Wind Runners		2026-09-23
+Wind Runners		2027-12-31
 Shing!		2020-08-28
 Rune Fencer Illyia		2026-12-31
 Pushy and Pully in Blockland		2020-05-04
@@ -384,7 +384,7 @@ McPixel 3		2022-11-14
 Sherwood Extreme		2024-04-29
 The Cosmic Wheel Sisterhood		2023-08-16
 We Were Here Forever		2022-05-10
-The Cabbage Effect		2026-12-31
+The Cabbage Effect		2027-12-31
 Everlasting Guilt		2021-07-12
 FOOTSIES Rollback Edition		2020-09-30
 Grapple Dog		2022-02-10
@@ -705,7 +705,7 @@ StormEdge		2024-09-13
 Deep Rock Galactic: Survivor		2025-09-17
 BLIGHTWRECK		2027-12-31
 Ra Ra BOOM		2025-08-12
-Moonlighter 2: The Endless Vault		2025-11-19
+Moonlighter 2: The Endless Vault		2026-09-02
 You are Peter Shorts		2024-05-10
 Dungeon Clawler		2026-04-30
 Coreupt		2024-12-19
@@ -752,6 +752,7 @@ SoulQuest		2026-05-01
 INSECT		2026-02-25
 HYNPYTOL		2023-09-22
 Warm Monkey		2025-03-06
+Airframe Ultra		2026-11-05
 Desktop Explorer		2026-07-17
 TEXNOPLAZM		2025-08-04
 Bloodthief		2025-09-22
@@ -881,7 +882,7 @@ Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 THE LIFT: Supernatural Handyman Simulator		2027-12-31
-MONOMOON		2026-09-30
+MONOMOON		2026-12-31
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
@@ -929,6 +930,7 @@ Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
 Cool Game Pack		2026-07-10
+Horsey Game		2026-02-18
 Cloudbreaker		2026-09-15
 Pro Jank Footy		2026-08-12
 April Grove		2025-06-23
@@ -941,13 +943,14 @@ CONTROL Resonant		2026-09-24
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Penguin Colony		2026-10-09
-FriendOS		2026-12-31
+FriendOS		2027-03-31
 Q-UP		2025-11-05
 SPRAWL zero		2026-09-08
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
 Colorbound		2026-10-31
 RACCOIN: Coin Pusher Roguelike		2026-03-31
+Rebounder		2027-12-31
 Expendabots		2026-12-31
 DERELIKT		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
@@ -979,7 +982,7 @@ Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
 Ultrapool		2026-08-24
-GemCraft - Legacy Collection		2026-12-31
+GemCraft - Legacy Collection		2026-10-21
 Castlevania: Belmont's Curse		2026-10-15
 BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
 AGX GP		2026-12-31
@@ -988,9 +991,7 @@ EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
 Reason and Rhyme		2026-10-15
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
-Dear Passengers		2026-12-31
 veadotube		2026-12-31
 walk		2026-07-18
 HYPERDROP: A Pachinko Roguelite		2027-12-31
 Mym's Sword		2026-12-31
-Up Pole!		2026-08-29
