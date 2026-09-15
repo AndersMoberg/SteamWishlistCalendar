@@ -255,7 +255,7 @@ The Hunger: Games Ensemble		2020-11-03
 Super Space Club		2023-08-04
 Wind Runners		2027-12-31
 Shing!		2020-08-28
-Rune Fencer Illyia		2026-12-31
+Rune Fencer Illyia		2027-12-31
 Pushy and Pully in Blockland		2020-05-04
 Pile Up! Box by Box		2021-03-18
 Wonder Boy Returns Remix		2019-08-09
@@ -496,6 +496,7 @@ ODDADA		2024-08-15
 Spark the Electric Jester 3		2022-08-14
 Dumpy and Bumpy		2021-05-27
 Nocturnal		2023-06-07
+EMUUROM		2026-05-25
 Project Warlock II		2025-05-28
 Forever Skies		2025-04-14
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
@@ -803,12 +804,12 @@ ATLYSS		2024-11-22
 ANEURISM IV		2025-03-11
 FREAKHUNTER		2024-01-26
 Disillusion ST		2024-10-26
-Asgard's Fall — Viking Survivors		2025-04-09
+Asgard's Fall — Viking Survivors		2026-09-09
 Teeto		2026-07-15
 9 Kings		2025-05-23
 Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
-The Magus Circle		2026-10-31
+The Magus Circle		2026-09-24
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
 The Remake of the End of the Greatest RPG of All Time		2026-05-28
@@ -864,7 +865,7 @@ Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
-Hela: of Mice & Magic		2026-12-31
+Hela: of Mice & Magic		2026-12-01
 Low-Budget Repairs		2026-08-13
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
@@ -889,7 +890,7 @@ NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
 Memoirium		2026-08-13
 Escape Academy 2: Back 2 School		2026-11-30
-Effulgence RPG		2025-12-02
+Effulgence RPG		2026-09-10
 CloverPit		2025-09-26
 Blippo+		2025-09-23
 Leap Galaxy		2027-12-31
@@ -934,9 +935,10 @@ Horsey Game		2026-02-18
 Cloudbreaker		2026-09-15
 Pro Jank Footy		2026-08-12
 April Grove		2025-06-23
-Prophet Margin		2026-10-31
+Prophet Margin		2026-10-29
 Slots & Daggers		2025-10-24
 DWARRF: A Pinball Roguelike		2026-11-27
+Derelict Star		2026-04-02
 Stray Children		2025-10-30
 Marsupilami 2 - Salsa Palombia		2026-09-03
 CONTROL Resonant		2026-09-24
@@ -948,14 +950,14 @@ Q-UP		2025-11-05
 SPRAWL zero		2026-09-08
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
-Colorbound		2026-10-31
+Colorbound		2026-10-12
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Rebounder		2027-12-31
 Expendabots		2026-12-31
 DERELIKT		2026-12-31
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
-Antivirus Survivors 2003 Professional		2026-09-30
+Antivirus Survivors 2003 Professional		2026-09-28
 YAPYAP		2026-02-03
 About Fishing		2026-12-31
 METAL GEAR SOLID: MASTER COLLECTION Vol.2		2026-08-27
@@ -963,7 +965,7 @@ Blood: Refreshed Supply™		2025-12-04
 Gamble With Your Friends		2026-05-01
 WheelMates		2026-09-01
 Blood Facsimile		2026-03-31
-Dicevaders		2026-12-31
+Dicevaders		2026-09-29
 FISH³: FIRST CATCH		2025-11-06
 Unfair Flips		2025-09-25
 Incredicer		2025-11-27
@@ -971,7 +973,7 @@ Click the Button		2026-08-26
 RV There Yet?		2025-10-21
 HYPER DETONATOR		2026-09-30
 Apparatus: Exanimus		2025-11-07
-Poly Fighter		2026-12-31
+Poly Fighter		2026-10-31
 Factory 95		2026-04-22
 Attack of the Astrals		2026-12-31
 Paradoxical		2027-06-30
@@ -989,9 +991,10 @@ AGX GP		2026-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
-Reason and Rhyme		2026-10-15
+Reason and Rhyme		2026-12-31
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 veadotube		2026-12-31
 walk		2026-07-18
 HYPERDROP: A Pachinko Roguelite		2027-12-31
 Mym's Sword		2026-12-31
+Selkie's Salvage&Co.		2026-10-27
