@@ -772,6 +772,7 @@ Astral Throne		2025-02-07
 Castaway		2024-08-16
 500 CALIBER CONTRACTZ		2026-12-31
 Woodo		2026-09-16
+Pixel Washer		2026-10-15
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
 VOID/BREAKER		2025-08-19
@@ -838,6 +839,7 @@ Ratatan		2025-09-18
 Sonic Rumble Party		2025-11-05
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 Neon Inferno		2025-11-20
+PROXIMATE		2024-11-08
 Cyclopean: The Great Abyss		2025-07-17
 Shotgun Cop Man		2025-05-01
 Bub-O Burst		2024-11-18
@@ -883,7 +885,7 @@ Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 THE LIFT: Supernatural Handyman Simulator		2027-12-31
-MONOMOON		2026-12-31
+MONOMOON		2026-11-11
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
