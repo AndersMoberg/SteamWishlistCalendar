@@ -885,6 +885,7 @@ Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Mycopunk		2025-07-10
 THE LIFT: Supernatural Handyman Simulator		2027-12-31
+SeverLink		2028-12-31
 MONOMOON		2026-11-11
 NINJA GAIDEN 2 Black		2025-01-23
 Super Meat Boy 3D		2026-03-31
@@ -946,7 +947,7 @@ Marsupilami 2 - Salsa Palombia		2026-09-03
 CONTROL Resonant		2026-09-24
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
-Penguin Colony		2026-10-09
+Penguin Colony		2026-10-16
 FriendOS		2027-03-31
 Q-UP		2025-11-05
 SPRAWL zero		2026-09-08
@@ -975,7 +976,7 @@ Click the Button		2026-08-26
 RV There Yet?		2025-10-21
 HYPER DETONATOR		2026-09-30
 Apparatus: Exanimus		2025-11-07
-Poly Fighter		2026-10-31
+Poly Fighter		2026-10-13
 Factory 95		2026-04-22
 Attack of the Astrals		2026-12-31
 Paradoxical		2027-06-30
@@ -993,7 +994,7 @@ AGX GP		2026-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
-Reason and Rhyme		2026-12-31
+Reason and Rhyme		2026-10-15
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 veadotube		2026-12-31
 walk		2026-07-18
