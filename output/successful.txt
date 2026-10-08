@@ -666,7 +666,7 @@ Crescent County		2027-12-31
 Hardhat Wombat		2023-10-26
 BURGGEIST		2024-10-14
 Splodey		2024-06-04
-At Fate's End		2026-12-31
+At Fate's End		2027-12-31
 Tiny Lands 2		2025-11-06
 Europa		2024-10-11
 LEGO® Batman™: Legacy of the Dark Knight		2026-05-22
@@ -835,6 +835,7 @@ Platypus Reclayed		2025-09-18
 Extinction Rifts		2025-09-18
 over the hill		2026-10-14
 Nightmare Kart		2024-06-05
+RADIOSOL		2026-09-30
 POOOOL		2024-06-08
 Ratatan		2025-09-18
 Sonic Rumble Party		2025-11-05
@@ -866,6 +867,7 @@ Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
 THREE VERSES³		2026-12-31
+Uppercute		2026-10-09
 Hela: of Mice & Magic		2026-12-01
 Looney Landers		2025-02-05
 Avante! Atlantis		2027-12-31
@@ -923,6 +925,7 @@ Merge Maestro		2025-06-19
  STICKER/BALL		2026-05-04
 Metal Garden		2025-03-21
 Team Fortress 2 Classified		2026-01-30
+Castlebound		2026-11-11
 Tomb Raider: Legacy of Atlantis		2027-02-12
 Tricky and the Dream Caster		2027-12-31
 Cozy Game Restoration		2026-11-04
