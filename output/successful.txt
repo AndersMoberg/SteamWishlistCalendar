@@ -675,6 +675,7 @@ Rivals of Aether II		2024-10-23
 Artisan TD		2024-07-22
 Cash Cow DX		2024-02-16
 Zet Zillions		2024-05-23
+Roman Sands RE:Build		2026-09-16
 Llamasoft: The Jeff Minter Story		2024-03-13
 Tiny Terry's Turbo Trip		2024-05-30
 BABBDI		2022-12-22
@@ -837,7 +838,7 @@ over the hill		2026-10-14
 Nightmare Kart		2024-06-05
 RADIOSOL		2026-09-30
 POOOOL		2024-06-08
-Ratatan		2025-09-18
+Ratatan		2026-10-14
 Sonic Rumble Party		2025-11-05
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 Neon Inferno		2025-11-20
@@ -847,6 +848,7 @@ Shotgun Cop Man		2025-05-01
 Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
+PRISON OF HUSKS		2027-01-27
 Shape Sender Deluxe		2026-12-31
 Squirreled Away		2025-03-28
 Hypogea		2025-11-09
@@ -862,7 +864,7 @@ DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Alabaster Dawn		2026-05-07
-Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
+Secret Agent Wizard Boy		2025-03-06
 Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
@@ -893,7 +895,7 @@ Super Meat Boy 3D		2026-03-31
 NIGHT STRIKER GEAR		2025-10-22
 Easy Delivery Co.		2025-09-18
 Memoirium		2026-08-13
-Escape Academy 2: Back 2 School		2026-11-30
+Escape Academy 2: Back 2 School		2026-11-05
 Effulgence RPG		2026-09-10
 CloverPit		2025-09-26
 Blippo+		2025-09-23
@@ -989,7 +991,7 @@ Ultrapool		2026-08-24
 GemCraft - Legacy Collection		2026-10-21
 Castlevania: Belmont's Curse		2026-10-15
 BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
-AGX GP		2026-12-31
+AGX GP		2027-03-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Rift Wizard 3		2026-06-23
