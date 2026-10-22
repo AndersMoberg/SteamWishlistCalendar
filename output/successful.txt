@@ -534,7 +534,9 @@ Wizordum		2025-04-29
 Abyssus		2025-08-12
 Hamster on Rails		2023-10-26
 Raster Prime [REMIX]		2021-09-13
+Demi and the Fractured Dream		2027-02-28
 NeverAwake		2022-09-28
+A Sister's Journey		2026-10-20
 Killing Time: Resurrected		2024-10-18
 Smack Studio		2024-07-31
 JellyCar Worlds		2022-12-08
@@ -549,6 +551,7 @@ Contract Rush DX		2025-07-30
 Mythmatch		2026-03-13
 Promenade		2024-02-23
 The Last Caretaker		2025-11-06
+Queen's Domain		2026-10-30
 Solarpunk™		2026-06-08
 Nine Sols		2024-05-29
 NAIAD		2024-12-10
@@ -682,6 +685,7 @@ BABBDI		2022-12-22
 Lovux		2023-07-07
 Tangy TD		2026-03-09
 Kulebra and the Souls of Limbo: Closure Edition		2025-05-16
+ZWAARD		2027-12-31
 HYPERBEAT		2025-10-22
 Retro Mystery Club Vol.1: The Ise-Shima Case		2023-08-24
 The Karters 2: Turbo Charged		2025-07-17
@@ -722,6 +726,7 @@ Beyond the Ice Palace 2		2025-03-10
 Angeline Era		2025-12-08
 Kid Chaos		2023-05-02
 Crypt Custodian		2024-08-27
+Australia Did It: End-of-the-World Railway Defense Business		2026-11-10
 SteamWorld Heist II		2024-08-08
 Capcom Fighting Collection 2		2025-05-16
 Dungeons & Degenerate Gamblers		2024-08-08
@@ -857,6 +862,7 @@ Day of the Shell		2025-07-29
 LOVE ETERNAL		2026-02-19
 TRON: Catalyst		2025-06-17
 Car Park Capital		2026-10-09
+Hot Wax		2026-10-29
 Breakout Beyond		2025-03-25
 L8R SK8R		2026-12-31
 Herdling		2025-08-21
@@ -865,6 +871,7 @@ Nitro Express		2025-05-19
 Electric Fairyland		2024-08-26
 Alabaster Dawn		2026-05-07
 Secret Agent Wizard Boy		2025-03-06
+Ship Miner		2026-11-26
 Chroma Zero		2024-12-12
 Far Far West		2026-04-28
 Satisfrustration		2024-11-25
@@ -882,10 +889,11 @@ White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
 The Trolley Solution		2025-09-12
+Stip		2026-12-31
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
-Mycopunk		2025-07-10
+Mycopunk		2026-10-20
 THE LIFT: Supernatural Handyman Simulator		2027-12-31
 Muri: Wildwoods		2026-12-07
 SeverLink		2028-12-31
@@ -953,6 +961,8 @@ The New Flesh		2025-06-02
 Penguin Colony		2026-10-16
 FriendOS		2027-03-31
 Q-UP		2025-11-05
+Annalynn MD		2027-06-30
+Virtue and a Sledgehammer		2026-10-27
 SPRAWL zero		2026-09-08
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
@@ -960,7 +970,7 @@ Colorbound		2026-10-12
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Rebounder		2027-12-31
 Expendabots		2026-12-31
-DERELIKT		2026-12-31
+DERELIKT		2026-11-13
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
 YAPYAP		2026-02-03
@@ -978,22 +988,28 @@ Click the Button		2026-08-26
 RV There Yet?		2025-10-21
 Apparatus: Exanimus		2025-11-07
 Poly Fighter		2026-10-13
+The Seventh Screening		2028-12-31
 Factory 95		2026-04-22
 Attack of the Astrals		2026-12-31
 Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
+Golden Retriever Simple Life		2027-02-28
 Slayblade		2026-08-20
 Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
+Droste Detective		2026-10-26
 Ultrapool		2026-08-24
 GemCraft - Legacy Collection		2026-10-21
 Castlevania: Belmont's Curse		2026-10-15
 BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
 AGX GP		2027-03-31
+WOIM		2026-10-21
+Bad Magpie		2027-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
+Iron Bramble		2027-12-31
 Rift Wizard 3		2026-06-23
 Reason and Rhyme		2026-10-15
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
@@ -1001,4 +1017,8 @@ veadotube		2026-12-31
 walk		2026-07-18
 HYPERDROP: A Pachinko Roguelite		2027-12-31
 Mym's Sword		2026-12-31
+JOHN GLEEP		2026-11-11
+PITH		2026-11-06
 Selkie's Salvage&Co.		2026-10-27
+just volleyball		2026-11-04
+Trillionaire Mercenaries of 21XX		2027-11-09
