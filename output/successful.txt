@@ -577,7 +577,7 @@ I Am Your Beast		2024-09-10
 Once Upon A KATAMARI		2025-10-23
 The Last of Us™ Part I		2023-03-28
 Final Vendetta		2022-06-17
-Light Odyssey		2026-12-31
+Light Odyssey		2027-12-31
 Atomic Picnic		2024-11-07
 Slave Zero X		2024-02-22
 Absolum		2025-10-09
@@ -649,7 +649,7 @@ Sektori		2025-11-18
 Let's! Revolution!		2023-07-19
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 Hollowbody		2024-09-12
-SULFUR		2024-10-28
+SULFUR		2026-10-28
 HYPER PRIMATE		2026-08-20
 On Your Tail		2024-12-16
 REMATCH		2025-06-19
@@ -817,6 +817,7 @@ Teeto		2026-07-15
 9 Kings		2025-05-23
 Revenge of the Savage Planet		2025-05-08
 Blood Typers		2025-02-20
+Petal Runner		2027-03-08
 The Magus Circle		2026-09-24
 Diabotical Rogue		2024-06-04
 Battlefield™ 6		2025-10-10
@@ -854,7 +855,6 @@ Bub-O Burst		2024-11-18
 BAKERU		2024-09-03
 HOLE		2024-11-28
 PRISON OF HUSKS		2027-01-27
-Shape Sender Deluxe		2026-12-31
 Squirreled Away		2025-03-28
 Hypogea		2025-11-09
 Puck		2025-01-04
@@ -888,8 +888,9 @@ City of None		2027-12-31
 White Knuckle		2025-04-17
 Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
+TANUKI: Pon's Summer		2026-11-10
 The Trolley Solution		2025-09-12
-Stip		2026-12-31
+Stip		2027-03-31
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
@@ -934,6 +935,7 @@ Clawsome		2027-12-31
 Merge Maestro		2025-06-19
  STICKER/BALL		2026-05-04
 Metal Garden		2025-03-21
+Bibidi Bibidi!		2026-11-04
 Team Fortress 2 Classified		2026-01-30
 Castlebound		2026-11-11
 Tomb Raider: Legacy of Atlantis		2027-02-12
@@ -956,6 +958,8 @@ DWARRF: A Pinball Roguelike		2026-11-27
 Derelict Star		2026-04-02
 Stray Children		2025-10-30
 Marsupilami 2 - Salsa Palombia		2026-09-03
+Pelikeeper: A TD Adventure		2026-11-12
+Abelina		2027-03-31
 s.p.l.i.t		2025-07-24
 The New Flesh		2025-06-02
 Penguin Colony		2026-10-16
@@ -966,10 +970,9 @@ Virtue and a Sledgehammer		2026-10-27
 SPRAWL zero		2026-09-08
 S.T.A.L.K.E.R. 2: Cost of Hope		2026-08-20
 Sunfluffs		2025-07-14
-Colorbound		2026-10-12
 RACCOIN: Coin Pusher Roguelike		2026-03-31
 Rebounder		2027-12-31
-Expendabots		2026-12-31
+Expendabots		2027-12-31
 DERELIKT		2026-11-13
 Creepy Redneck Dinosaur Mansion 1 Re-Raptored		2025-09-23
 Oeuf		2026-03-10
@@ -986,11 +989,12 @@ Unfair Flips		2025-09-25
 Incredicer		2025-11-27
 Click the Button		2026-08-26
 RV There Yet?		2025-10-21
+HYPER DETONATOR		2026-12-31
 Apparatus: Exanimus		2025-11-07
 Poly Fighter		2026-10-13
 The Seventh Screening		2028-12-31
 Factory 95		2026-04-22
-Attack of the Astrals		2026-12-31
+Attack of the Astrals		2026-11-26
 Paradoxical		2027-06-30
 STAR WARS: Galactic Racer™		2026-10-06
 Golden Retriever Simple Life		2027-02-28
@@ -999,19 +1003,17 @@ Uktena 64 - Ultimate		2025-11-24
 Marble's Marbles		2026-01-07
 ORPHEUS: TO HELL AND BACK		2026-07-12
 PANLINE		2027-12-31
-Droste Detective		2026-10-26
+Droste Detective		2026-12-31
 Ultrapool		2026-08-24
 GemCraft - Legacy Collection		2026-10-21
 Castlevania: Belmont's Curse		2026-10-15
 BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO		2026-09-16
 AGX GP		2027-03-31
-WOIM		2026-10-21
 Bad Magpie		2027-12-31
 FISH		2026-06-22
 EMPULSE		2026-06-24
 Iron Bramble		2027-12-31
 Rift Wizard 3		2026-06-23
-Reason and Rhyme		2026-10-15
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
 veadotube		2026-12-31
 walk		2026-07-18
@@ -1021,4 +1023,5 @@ JOHN GLEEP		2026-11-11
 PITH		2026-11-06
 Selkie's Salvage&Co.		2026-10-27
 just volleyball		2026-11-04
+Hypnagogia 催眠術		2027-03-31
 Trillionaire Mercenaries of 21XX		2027-11-09
