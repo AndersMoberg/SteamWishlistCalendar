@@ -440,7 +440,7 @@ Hoa		2021-08-24
 Zen World		2026-07-28
 Nivalis Nights		2026-09-29
 Astronite		2022-11-30
-Pixross		2020-12-15
+Pixross Remastered		2020-12-15
 We Are OFK		2022-08-18
 Binarystar Infinity		2021-02-04
 Venba		2023-07-31
@@ -782,7 +782,7 @@ Woodo		2026-09-16
 Pixel Washer		2026-10-15
 Pinball Spire		2024-10-02
 Entropy Survivors		2024-12-04
-VOID/BREAKER		2025-08-19
+VOID/BREAKER		2026-11-04
 Slitterhead		2024-11-08
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics		2024-09-12
 Duck Detective: The Secret Salami		2024-05-23
@@ -865,7 +865,7 @@ TRON: Catalyst		2025-06-17
 Car Park Capital		2026-10-09
 Hot Wax		2026-10-29
 Breakout Beyond		2025-03-25
-L8R SK8R		2026-12-31
+L8R SK8R		2027-12-31
 Herdling		2025-08-21
 DEMON DUST		2026-02-06
 Nitro Express		2025-05-19
@@ -891,7 +891,7 @@ Neongarten		2025-04-22
 Anthology Of The Killer		2024-10-08
 TANUKI: Pon's Summer		2026-11-10
 The Trolley Solution		2025-09-12
-Stip		2027-03-31
+Stip		2027-01-20
 Teenage Mutant Ninja Turtles: Tactical Takedown		2025-05-22
 Egg Squeeze		2024-10-01
 Rhell: Warped Worlds & Troubled Times		2026-03-12
@@ -942,13 +942,14 @@ Team Fortress 2 Classified		2026-01-30
 Castlebound		2026-11-11
 Tomb Raider: Legacy of Atlantis		2027-02-12
 Tricky and the Dream Caster		2027-12-31
-Cozy Game Restoration		2026-11-04
+Cozy Game Restoration		2026-11-05
 Crashout Crew		2026-05-28
 Vampire's Best Friend		2025-10-06
 Word Play		2025-07-14
 Brush Burial: Gutter World		2025-11-19
 Object Impermanence		2026-12-31
 Earthion		2025-07-31
+ARTIUS: Pure Imagination		2027-12-31
 Cool Game Pack		2026-07-10
 Horsey Game		2026-02-18
 Cloudbreaker		2026-09-15
@@ -991,7 +992,7 @@ Unfair Flips		2025-09-25
 Incredicer		2025-11-27
 Click the Button		2026-08-26
 RV There Yet?		2025-10-21
-HYPER DETONATOR		2026-12-31
+HYPER DETONATOR		2026-12-02
 Apparatus: Exanimus		2025-11-07
 Poly Fighter		2026-10-13
 The Seventh Screening		2028-12-31
@@ -1017,13 +1018,15 @@ EMPULSE		2026-06-24
 Iron Bramble		2027-12-31
 Rift Wizard 3		2026-06-23
 Hypnagogia 壊れた夢 Broken Dreams		2027-03-31
-veadotube		2026-12-31
+veadotube		2026-12-04
 walk		2026-07-18
 HYPERDROP: A Pachinko Roguelite		2027-12-31
+PATIENCE IS A VIRTUE		2026-12-07
 Mym's Sword		2026-12-31
 JOHN GLEEP		2026-11-11
 PITH		2026-11-06
+MEATBALL THE MITE		2027-03-31
 Selkie's Salvage&Co.		2026-10-27
-just volleyball		2026-11-04
+just volleyball		2026-11-30
 Hypnagogia 催眠術		2027-03-31
 Trillionaire Mercenaries of 21XX		2027-11-09
